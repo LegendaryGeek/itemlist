@@ -61,7 +61,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is exceptionally kind. he has a special way of using kind words to brighten someone's day. he never insults others, and never judges people by their appearance.",
+      "description": "Timmy is an exceptionally agreeable and giving person. he never insults others and will sometimes offer kind words to brighten the moods of those around him. he also never judges people by their appearance.",
       "stats": [
 
       ],
@@ -268,7 +268,7 @@
 
       ],
       "conflicts": [
-
+        "wimp"
       ],
       "bypassLimit": false,
       "data": {
@@ -278,7 +278,7 @@
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
         "conflicts": [
-
+          "wimp"
         ],
         "stats": [
 
@@ -387,7 +387,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy has forsaken physical comforts and enjoyments in favor of a simple, pure lifestyle. he will become unhappy if if he has a bedroom that's too impressive. he also dislikes fancy food and prefers to eat raw. he never judges others by their appearance.",
+      "description": "Timmy has forsaken physical comforts and enjoyments in favor of a simple, pure lifestyle. he will become unhappy if he has a bedroom that's too impressive. he also dislikes fancy food and prefers to eat raw. he never judges others by their appearance.",
       "stats": [
 
       ],
@@ -606,7 +606,8 @@
         "-60% pain shock threshold"
       ],
       "conflicts": [
-        "brawler"
+        "brawler",
+        "masochist"
       ],
       "bypassLimit": false,
       "data": {
@@ -616,7 +617,8 @@
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
         "conflicts": [
-          "brawler"
+          "brawler",
+          "masochist"
         ],
         "stats": [
           "-60% pain shock threshold"
@@ -775,7 +777,7 @@
         ]
       },
       "defName": "Transhumanist",
-      "name": "transhumanist",
+      "name": "bodymodder",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -788,7 +790,7 @@
 
       ],
       "conflicts": [
-        "transhumanist"
+        "bodymodder"
       ],
       "bypassLimit": false,
       "data": {
@@ -798,7 +800,7 @@
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
         "conflicts": [
-          "transhumanist"
+          "bodymodder"
         ],
         "stats": [
 
@@ -1995,6 +1997,586 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": -1
+    },
+    {
+      "description": "Timmy hates and distrusts xenos. They see them as little more than animals.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Humanoid Alien Races",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Xenophobia",
+      "name": "xenophobe",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1
+    },
+    {
+      "description": "Timmy thinks aliens are exotic and interesting. They would love to get to know them more and wouldn't mind forming relationships with them.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Humanoid Alien Races",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Xenophobia",
+      "name": "xenophile",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1
+    },
+    {
+      "description": "Enjoys wearing fursuits.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[TP]Fursuits",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "TRAHS_FursuiterTrait",
+      "name": "fursuiter",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is a Vulpian, and he is absolutely adorable, as expected from gene-engineered servitor. Even animals are attracted by his adorable appearence. Even plants start to bloom around Timmy!",
+      "stats": [
+        "+5 social",
+        "+3 intellectual",
+        "+2 animals",
+        "+2 plants",
+        "+25.00% train animal chance",
+        "+10.00% tame animal chance",
+        "+50.00% trade price improvement",
+        "+50.00% social impact"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Yanzihko Races - Rebalance Submod [1.3]",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+5 social",
+          "+3 intellectual",
+          "+2 animals",
+          "+2 plants",
+          "+25.00% train animal chance",
+          "+10.00% tame animal chance",
+          "+50.00% trade price improvement",
+          "+50.00% social impact"
+        ]
+      },
+      "defName": "VAF_Vulpian",
+      "name": "vulpian",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is a Lombax. he has an incredible natural inclination towards Crafting, Engineering and Combat just like other representatives of his species. But due to natural inclination of Lombaxes to solve all problems with brute force, Timmy is not very good in \"Social\" things.",
+      "stats": [
+        "+5 shooting",
+        "+5 melee",
+        "+3 crafting",
+        "+3 construction",
+        "-5 social",
+        "-25.00% trade price improvement",
+        "-25.00% social impact"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Yanzihko Races - Rebalance Submod [1.3]",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+5 shooting",
+          "+5 melee",
+          "+3 crafting",
+          "+3 construction",
+          "-5 social",
+          "-25.00% trade price improvement",
+          "-25.00% social impact"
+        ]
+      },
+      "defName": "LDW_Lombax",
+      "name": "lombax",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is a Braixen. Timmy has an incredible natural inclination towards psionics and manipulation of life essence. he can easily read emotions of humans, animals and even plants.",
+      "stats": [
+        "+5 social",
+        "+3 animals",
+        "+3 plants",
+        "+25.00% train animal chance",
+        "+25.00% tame animal chance",
+        "+50.00% trade price improvement",
+        "+50.00% social impact"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Yanzihko Races - Rebalance Submod [1.3]",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+5 social",
+          "+3 animals",
+          "+3 plants",
+          "+25.00% train animal chance",
+          "+25.00% tame animal chance",
+          "+50.00% trade price improvement",
+          "+50.00% social impact"
+        ]
+      },
+      "defName": "BDFP_Braixen",
+      "name": "braixen",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is a Delphox. Timmy is a powerful psychic and is inclined towards manipulation of life essence. he can easily read emotions of humans, animals and even plants.",
+      "stats": [
+        "+5 social",
+        "+3 animals",
+        "+3 plants",
+        "+25.00% train animal chance",
+        "+25.00% tame animal chance",
+        "+50.00% trade price improvement",
+        "+50.00% social impact"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Yanzihko Races - Rebalance Submod [1.3]",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+5 social",
+          "+3 animals",
+          "+3 plants",
+          "+25.00% train animal chance",
+          "+25.00% tame animal chance",
+          "+50.00% trade price improvement",
+          "+50.00% social impact"
+        ]
+      },
+      "defName": "BDFP_Delphox",
+      "name": "delphox",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is a Kisalfar. While Kisalfar are \"inferior\" compared to Fressalfar in terms of intelligence, they're incredibly good in \"social\" things and negotiations.",
+      "stats": [
+        "+5 social",
+        "+3 animals",
+        "+3 plants",
+        "+50.00% trade price improvement",
+        "+50.00% social impact"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Yanzihko Races - Rebalance Submod [1.3]",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+5 social",
+          "+3 animals",
+          "+3 plants",
+          "+50.00% trade price improvement",
+          "+50.00% social impact"
+        ]
+      },
+      "defName": "KFLS_Kisalfar",
+      "name": "kisalfar",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is a Fressalfar. Timmy is just like a Thrumbo that is hidden in his DNA - Highly Intelligent and not really Social. It is very hard to approach him and start a conversation.",
+      "stats": [
+        "+5 intellectual",
+        "+3 crafting",
+        "-5 social",
+        "-25.00% trade price improvement",
+        "-25.00% social impact"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Yanzihko Races - Rebalance Submod [1.3]",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+5 intellectual",
+          "+3 crafting",
+          "-5 social",
+          "-25.00% trade price improvement",
+          "-25.00% social impact"
+        ]
+      },
+      "defName": "KFLS_Fressalfar",
+      "name": "fressalfar",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is a Cheetah. Timmy is a great runner with a sharp sight. However, just like most Feline species, he is not a very Social being.",
+      "stats": [
+        "+5 shooting",
+        "+3 animals",
+        "-5 social",
+        "+0.3 melee dodge chance",
+        "+0.3 shooting accuracy",
+        "-25.00% trade price improvement",
+        "-25.00% social impact"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Yanzihko Races - Rebalance Submod [1.3]",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+5 shooting",
+          "+3 animals",
+          "-5 social",
+          "+0.3 melee dodge chance",
+          "+0.3 shooting accuracy",
+          "-25.00% trade price improvement",
+          "-25.00% social impact"
+        ]
+      },
+      "defName": "FFR_Cheetah",
+      "name": "cheetah",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is a Leo. Timmy is a great natural predator with sharp sight and is rather Social, compared to other Feline species.",
+      "stats": [
+        "+3 melee",
+        "+3 animals",
+        "+2 shooting",
+        "+2 social",
+        "+0.3 shooting accuracy"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Yanzihko Races - Rebalance Submod [1.3]",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+3 melee",
+          "+3 animals",
+          "+2 shooting",
+          "+2 social",
+          "+0.3 shooting accuracy"
+        ]
+      },
+      "defName": "FFR_Leo",
+      "name": "leo",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is a Jaguar. Timmy is a great natural predator with sharp sight. However, just like most Feline species, he is not a very Social being.",
+      "stats": [
+        "+3 melee",
+        "+3 animals",
+        "+2 shooting",
+        "-5 social",
+        "+0.3 shooting accuracy",
+        "-25.00% trade price improvement",
+        "-25.00% social impact"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Yanzihko Races - Rebalance Submod [1.3]",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+3 melee",
+          "+3 animals",
+          "+2 shooting",
+          "-5 social",
+          "+0.3 shooting accuracy",
+          "-25.00% trade price improvement",
+          "-25.00% social impact"
+        ]
+      },
+      "defName": "FFR_Jaguar",
+      "name": "jaguar",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is a Panther. Timmy is a great natural predator with sharp sight. However, just like most Feline species, he is not a very Social being.",
+      "stats": [
+        "+3 melee",
+        "+3 animals",
+        "+2 shooting",
+        "-5 social",
+        "+0.3 shooting accuracy",
+        "-25.00% trade price improvement",
+        "-25.00% social impact"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Yanzihko Races - Rebalance Submod [1.3]",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+3 melee",
+          "+3 animals",
+          "+2 shooting",
+          "-5 social",
+          "+0.3 shooting accuracy",
+          "-25.00% trade price improvement",
+          "-25.00% social impact"
+        ]
+      },
+      "defName": "FFR_Panther",
+      "name": "panther",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is a Tigris. Timmy is a great natural predator with sharp sight. However, just like most Feline species, he is not a very Social being.",
+      "stats": [
+        "+3 melee",
+        "+3 animals",
+        "+2 shooting",
+        "-5 social",
+        "+0.3 shooting accuracy",
+        "-25.00% trade price improvement",
+        "-25.00% social impact"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Yanzihko Races - Rebalance Submod [1.3]",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+3 melee",
+          "+3 animals",
+          "+2 shooting",
+          "-5 social",
+          "+0.3 shooting accuracy",
+          "-25.00% trade price improvement",
+          "-25.00% social impact"
+        ]
+      },
+      "defName": "FFR_Tigris",
+      "name": "tigris",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is a Sylveon, and he is absolutely adorable, as expected from gene-engineered servitor. Sylveons were gene-engineered to be a productive workers at assembly line and basic principles of Crafting are embedded in their DNA.",
+      "stats": [
+        "+5 social",
+        "+5 crafting",
+        "+3 intellectual",
+        "+50.00% trade price improvement",
+        "+50.00% social impact"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Yanzihko Races - Rebalance Submod [1.3]",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+5 social",
+          "+5 crafting",
+          "+3 intellectual",
+          "+50.00% trade price improvement",
+          "+50.00% social impact"
+        ]
+      },
+      "defName": "SFP_Sylveon",
+      "name": "sylveon",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
     }
   ],
   "races": [
@@ -2005,12 +2587,12 @@
           "+70% Flammability",
           "+$1750 Market value",
           "+4.60 Move speed",
-          "+28.8F Minimum comfortable temperature",
-          "+46.8F Maximum comfortable temperature",
-          "+50 Leather amount",
+          "+16.0C Minimum comfortable temperature",
+          "+26.0C Maximum comfortable temperature",
+          "+75 Leather amount",
           "+3 Honor value"
         ],
-        "mod": "RimWorld",
+        "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
@@ -2019,6 +2601,438 @@
       "enabled": true,
       "name": "human",
       "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+50.00 Mass",
+          "+70% Flammability",
+          "+2.0 Beauty",
+          "+75 Carrying capacity",
+          "+80% Pain shock threshold",
+          "+$3000 Market value",
+          "+5.00 Move speed",
+          "+95% Immunity gain speed",
+          "+25.0C Minimum comfortable temperature",
+          "+50.0C Maximum comfortable temperature",
+          "+75 Leather amount",
+          "+140 Meat amount",
+          "+200% Global work speed",
+          "+125% Research speed",
+          "+110% Global learning factor",
+          "+110% Psychic sensitivity",
+          "+50% Mining speed",
+          "+150.00% Social impact",
+          "+50% Construction speed",
+          "+100% Animal gather speed",
+          "+100% Animal gather yield",
+          "+1.0 Shooting accuracy"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Sylveon is a vulpine and lupine hybrid species engineered by maniacal owner of an industrial company in a now ravaged glitterworld to be a cheap working force at all kinds of company's facilities. Sylveon's adorable appearence has no practical purpose and was a purely aesthetic choice. All sylveons sport a telltale ribbonlike appendage set connected to their heads near a bowlike organ allowing them to move their ribbons with extreme precision and preform menial tasks easily while using their hands for specific and higher skill actions. Sylveons also boast a high intellectual ability yet have much weaker physical strength due to it being useless in high tech facilities and conditions of glitterworld. Sylveons are incredible crafters and even good researchers. But their bodies are incredibly weak and any injury of the bows dramatically reduces their productivity.",
+      "defName": "Sylveon",
+      "enabled": true,
+      "name": "Sylveon",
+      "price": 5000
+    },
+    {
+      "data": {
+        "stats": [
+          "+40.00 Mass",
+          "+0% Flammability",
+          "+1.0 Beauty",
+          "+50 Carrying capacity",
+          "+80% Pain shock threshold",
+          "+$2600 Market value",
+          "+5.00 Move speed",
+          "+160% Immunity gain speed",
+          "-30.0C Minimum comfortable temperature",
+          "+80.0C Maximum comfortable temperature",
+          "+35 Leather amount",
+          "+50 Meat amount",
+          "+100% Research speed",
+          "+140% Global learning factor",
+          "+160% Psychic sensitivity",
+          "+50% Mining speed",
+          "+120.00% Social impact",
+          "+70% Construction speed",
+          "+130% Animal gather speed",
+          "+130% Animal gather yield",
+          "+4.0 Shooting accuracy",
+          "+200.0% Armor - Heat"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A small, bipedal, Fox-like humanoid that has a natural affinity to fire and psychic capabilities. It's unknown what kind of gene-engineering magic the Glitterworld that originally produced them used, but their bodies have almost a complete resistance to fire and high temperatures. These creatures are able to consciously regulate temperature of their bodies. Before collapse of it's original solar system, this species was mainly used as domestic servants, entertainers, or just a beauteful and kind friend to have around.",
+      "defName": "Braixen",
+      "enabled": true,
+      "name": "Braixen",
+      "price": 4333
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+0% Flammability",
+          "+1.0 Beauty",
+          "+50 Carrying capacity",
+          "+80% Pain shock threshold",
+          "+$3000 Market value",
+          "+4.60 Move speed",
+          "+160% Immunity gain speed",
+          "-40.0C Minimum comfortable temperature",
+          "+100.0C Maximum comfortable temperature",
+          "+45 Leather amount",
+          "+60 Meat amount",
+          "+110% Research speed",
+          "+150% Global learning factor",
+          "+160% Psychic sensitivity",
+          "+50% Mining speed",
+          "+120.00% Social impact",
+          "+60% Construction speed",
+          "+130% Animal gather speed",
+          "+130% Animal gather yield",
+          "+4.0 Shooting accuracy",
+          "+200.0% Armor - Heat"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A medium-sized, bipedal, Fox-like humanoid that has a natural affinity to fire and psychic capabilities. Related to Braixen and can be considered as a more \"mature\" version of it from standpoint of whoever originally designed them. It's unknown what kind of gene-engineering magic the Glitterworld that originally produced them used, but their bodies have almost a complete resistance to fire and high temperatures. These creatures are able to consciously regulate temperature of their bodies. Before collapse of it's original solar system, this species was mainly used as domestic servants, entertainers, or just a beauteful and kind friend to have around.",
+      "defName": "Delphox",
+      "enabled": true,
+      "name": "Delphox",
+      "price": 5000
+    },
+    {
+      "data": {
+        "stats": [
+          "+50.00 Mass",
+          "+70% Flammability",
+          "+1.0 Beauty",
+          "+75 Carrying capacity",
+          "+80% Pain shock threshold",
+          "+$2000 Market value",
+          "+9.00 Move speed",
+          "+95% Immunity gain speed",
+          "+20.0C Minimum comfortable temperature",
+          "+40.0C Maximum comfortable temperature",
+          "+75 Leather amount",
+          "+140 Meat amount",
+          "+100% Global work speed",
+          "+110% Research speed",
+          "+110% Global learning factor",
+          "+100% Psychic sensitivity",
+          "+50% Mining speed",
+          "+90.00% Social impact",
+          "+50% Construction speed",
+          "+100% Animal gather speed",
+          "+100% Animal gather yield",
+          "+2.0 Shooting accuracy"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Feles is a group of genetically-engineered species representing some of the most popular feline species from planet Earth. Cheetah are perhaps one of the fastest Felines with an instant reaction. They literally dance around an opponent in melee fight and even dodge bullets if lucky enough. Cheetah are one of the most intelligent felines and are more social, compared to most felines.",
+      "defName": "YanzihkoCheetah",
+      "enabled": true,
+      "name": "Cheetah",
+      "price": 3333
+    },
+    {
+      "data": {
+        "stats": [
+          "+50.00 Mass",
+          "+70% Flammability",
+          "+1.0 Beauty",
+          "+75 Carrying capacity",
+          "+100% Pain shock threshold",
+          "+$1750 Market value",
+          "+6.00 Move speed",
+          "+100% Immunity gain speed",
+          "+20.0C Minimum comfortable temperature",
+          "+36.0C Maximum comfortable temperature",
+          "+75 Leather amount",
+          "+140 Meat amount",
+          "+100% Global work speed",
+          "+100% Research speed",
+          "+100% Global learning factor",
+          "+100% Psychic sensitivity",
+          "+100% Mining speed",
+          "+90.00% Social impact",
+          "+100% Construction speed",
+          "+100% Animal gather speed",
+          "+100% Animal gather yield",
+          "+1.1 Shooting accuracy"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Feles is a group of genetically-engineered species representing some of the most popular feline species from planet Earth. Jaguars are perhaps one of the strongest and toughest Felines. You shouldn't understimate them despite their size. They are not a very social beings and tend to spend their free time alone.",
+      "defName": "YanzihkoJaguar",
+      "enabled": true,
+      "name": "Jaguar",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+50.00 Mass",
+          "+70% Flammability",
+          "+1.0 Beauty",
+          "+75 Carrying capacity",
+          "+100% Pain shock threshold",
+          "+$1750 Market value",
+          "+6.00 Move speed",
+          "+100% Immunity gain speed",
+          "+20.0C Minimum comfortable temperature",
+          "+36.0C Maximum comfortable temperature",
+          "+75 Leather amount",
+          "+140 Meat amount",
+          "+100% Global work speed",
+          "+100% Research speed",
+          "+100% Global learning factor",
+          "+100% Psychic sensitivity",
+          "+100% Mining speed",
+          "+110.00% Social impact",
+          "+100% Construction speed",
+          "+100% Animal gather speed",
+          "+100% Animal gather yield",
+          "+1.1 Shooting accuracy"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Feles is a group of genetically-engineered species representing some of the most popular feline species from planet Earth. Leo, unlike other Felines, are very social beings and feel themselves confident in all kinds of discussions.",
+      "defName": "YanzihkoLeo",
+      "enabled": true,
+      "name": "Leo",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+50.00 Mass",
+          "+70% Flammability",
+          "+1.0 Beauty",
+          "+75 Carrying capacity",
+          "+100% Pain shock threshold",
+          "+$1750 Market value",
+          "+6.00 Move speed",
+          "+100% Immunity gain speed",
+          "+20.0C Minimum comfortable temperature",
+          "+36.0C Maximum comfortable temperature",
+          "+75 Leather amount",
+          "+140 Meat amount",
+          "+100% Global work speed",
+          "+100% Research speed",
+          "+100% Global learning factor",
+          "+100% Psychic sensitivity",
+          "+100% Mining speed",
+          "+90.00% Social impact",
+          "+100% Construction speed",
+          "+100% Animal gather speed",
+          "+100% Animal gather yield",
+          "+1.1 Shooting accuracy"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Feles is a group of genetically-engineered species representing some of the most popular feline species from planet Earth. Panthers do not have any special features compared to other felines, expect their dark black fur. They are not a very social beings and tend to spend their free time alone.",
+      "defName": "YanzihkoPanther",
+      "enabled": true,
+      "name": "Panther",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+50.00 Mass",
+          "+70% Flammability",
+          "+1.0 Beauty",
+          "+75 Carrying capacity",
+          "+100% Pain shock threshold",
+          "+$1750 Market value",
+          "+6.00 Move speed",
+          "+100% Immunity gain speed",
+          "+10.0C Minimum comfortable temperature",
+          "+30.0C Maximum comfortable temperature",
+          "+75 Leather amount",
+          "+140 Meat amount",
+          "+100% Global work speed",
+          "+100% Research speed",
+          "+100% Global learning factor",
+          "+100% Psychic sensitivity",
+          "+100% Mining speed",
+          "+90.00% Social impact",
+          "+100% Construction speed",
+          "+100% Animal gather speed",
+          "+100% Animal gather yield",
+          "+1.1 Shooting accuracy"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Feles is a group of genetically-engineered species representing some of the most popular feline species from planet Earth. Tigris are perhaps one of the strongest and toughest Felines. You shouldn't understimate them despite their size. They are not a very social beings and tend to spend their free time alone.",
+      "defName": "YanzihkoTigris",
+      "enabled": true,
+      "name": "Tigris",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+55.00 Mass",
+          "+70% Flammability",
+          "+2.0 Beauty",
+          "+75 Carrying capacity",
+          "+110% Pain shock threshold",
+          "+$3000 Market value",
+          "+7.00 Move speed",
+          "+110% Immunity gain speed",
+          "+10.0C Minimum comfortable temperature",
+          "+25.0C Maximum comfortable temperature",
+          "+75 Leather amount",
+          "+140 Meat amount",
+          "+110% Global work speed",
+          "+200% Research speed",
+          "+150% Global learning factor",
+          "+110% Psychic sensitivity",
+          "+100% Mining speed",
+          "+80.00% Social impact",
+          "+110% Construction speed",
+          "+100% Animal gather speed",
+          "+100% Animal gather yield",
+          "+1.1 Shooting accuracy"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A marvel of genetic engineering created on a far off glitterworld on the verge of transcendence. The Fressalfar were the result of a lone scientists quest to engineer the perfect being that did not rely on the taint of mechanite technology. Pods of them were sent off to rimworlds all across the universe in an effort to save his creation before the AI scourge devoured their homeworld. Believed to be the genetic combination of hyper-intelligent felines, thrumbos, and human DNA; the Fressalfar are fast, highly intelligent, and incredibly beautiful.",
+      "defName": "Fressalfar",
+      "enabled": true,
+      "name": "Fressalfar",
+      "price": 5000
+    },
+    {
+      "data": {
+        "stats": [
+          "+50.00 Mass",
+          "+70% Flammability",
+          "+1.0 Beauty",
+          "+75 Carrying capacity",
+          "+100% Pain shock threshold",
+          "+$2000 Market value",
+          "+5.00 Move speed",
+          "+100% Immunity gain speed",
+          "+10.0C Minimum comfortable temperature",
+          "+25.0C Maximum comfortable temperature",
+          "+75 Leather amount",
+          "+140 Meat amount",
+          "+110% Global work speed",
+          "+175% Research speed",
+          "+135% Global learning factor",
+          "+110% Psychic sensitivity",
+          "+80% Mining speed",
+          "+150.00% Social impact",
+          "+100% Construction speed",
+          "+100% Animal gather speed",
+          "+100% Animal gather yield",
+          "+1.0 Shooting accuracy"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Genetic descendants of the Fressalfar. The Kisalfar are slightly inferior the Fressalfar due to the highly unstable genome not replicating perfectly outside of lab conditions. Physically this led to the lost of their highly coveted horns and some would say they could never live up to the original race. However, the combination of high intelligence and growing up in a natural environment means the  Kisalfar are much more attuned with the ways of their home world and those around them. What they lost in speed and beauty they make up for in natural charm and instinct and they have proven an ability to get along with humans in a way the Fressalfar never could.",
+      "defName": "Kisalfar",
+      "enabled": true,
+      "name": "Kisalfar",
+      "price": 3333
+    },
+    {
+      "data": {
+        "stats": [
+          "+55.00 Mass",
+          "+70% Flammability",
+          "+1.0 Beauty",
+          "+75 Carrying capacity",
+          "+110% Pain shock threshold",
+          "+$2500 Market value",
+          "+5.00 Move speed",
+          "+110% Immunity gain speed",
+          "+30.0C Minimum comfortable temperature",
+          "+60.0C Maximum comfortable temperature",
+          "+75 Leather amount",
+          "+140 Meat amount",
+          "+100% Global work speed",
+          "+100% Research speed",
+          "+100% Global learning factor",
+          "+100% Psychic sensitivity",
+          "+100% Mining speed",
+          "+90.00% Social impact",
+          "+100% Construction speed",
+          "+100% Animal gather speed",
+          "+100% Animal gather yield",
+          "+1.0 Shooting accuracy"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Lombax is a distant descendant of human race with feline features. Representatives of this species are great warriors and engineers. Despite their size, their bodies are surprisingly tough. Lombaxes are originated from Fastoon - glitterworld with dry desert climate. They prefer to live in hot enviroment.",
+      "defName": "Lombax",
+      "enabled": true,
+      "name": "Lombax",
+      "price": 4167
+    },
+    {
+      "data": {
+        "stats": [
+          "+50.00 Mass",
+          "+70% Flammability",
+          "+2.0 Beauty",
+          "+75 Carrying capacity",
+          "+80% Pain shock threshold",
+          "+$3000 Market value",
+          "+5.00 Move speed",
+          "+95% Immunity gain speed",
+          "+25.0C Minimum comfortable temperature",
+          "+50.0C Maximum comfortable temperature",
+          "+75 Leather amount",
+          "+140 Meat amount",
+          "+120% Global work speed",
+          "+400% Research speed",
+          "+200% Global learning factor",
+          "+125% Psychic sensitivity",
+          "+50% Mining speed",
+          "+150.00% Social impact",
+          "+50% Construction speed",
+          "+100% Animal gather speed",
+          "+100% Animal gather yield",
+          "+1.3 Shooting accuracy"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Vulpes is a race of adorable genetically engineered foxes with high mental capabilities but weak and fragile body.",
+      "defName": "Vulpes",
+      "enabled": true,
+      "name": "Vulpes",
+      "price": 5000
     }
   ]
 }
