@@ -9377,7 +9377,205 @@
 		"price": 3000,
 		"category": "Animal",
 		"defname": "ATK_Felinemorph"
+	},
+	{
+		"abr": "amber",
+		"price": 7,
+		"category": "Gems",
+		"defname": "KAmber"
+	},
+	{
+		"abr": "amethyst",
+		"price": 8,
+		"category": "Gems",
+		"defname": "KAmethyst"
+	},
+	{
+		"abr": "angelite",
+		"price": 8,
+		"category": "Gems",
+		"defname": "KAngelite"
+	},
+	{
+		"abr": "aquamarine",
+		"price": 8,
+		"category": "Gems",
+		"defname": "KAquamarine"
+	},
+	{
+		"abr": "benitoite",
+		"price": 8,
+		"category": "Gems",
+		"defname": "KBenitoite"
+	},
+	{
+		"abr": "bixbite",
+		"price": 8,
+		"category": "Gems",
+		"defname": "KBixbite"
+	},
+	{
+		"abr": "chrysoprase",
+		"price": 12,
+		"category": "Gems",
+		"defname": "KChrysoprase"
+	},
+	{
+		"abr": "citrine",
+		"price": 8,
+		"category": "Gems",
+		"defname": "KCitrine"
+	},
+	{
+		"abr": "diamond",
+		"price": 15,
+		"category": "Gems",
+		"defname": "KDiamond"
+	},
+	{
+		"abr": "dioptase",
+		"price": 10,
+		"category": "Gems",
+		"defname": "KDioptase"
+	},
+	{
+		"abr": "ekanite",
+		"price": 8,
+		"category": "Gems",
+		"defname": "KEkanite"
+	},
+	{
+		"abr": "emerald",
+		"price": 10,
+		"category": "Gems",
+		"defname": "KEmerald"
+	},
+	{
+		"abr": "garnet",
+		"price": 8,
+		"category": "Gems",
+		"defname": "KGarnet"
+	},
+	{
+		"abr": "gasfloodlight",
+		"price": 255,
+		"category": "Furniture",
+		"defname": "VPE_GasFloodlight"
+	},
+	{
+		"abr": "gasheater",
+		"price": 218,
+		"category": "Temperature",
+		"defname": "VPE_GasHeater"
+	},
+	{
+		"abr": "gaspoweredexcavator",
+		"price": 483,
+		"category": "Production",
+		"defname": "VPE_GasDrill"
+	},
+	{
+		"abr": "gassunlamp",
+		"price": 160,
+		"category": "Furniture",
+		"defname": "VPE_GasSunLamp"
+	},
+	{
+		"abr": "gastank",
+		"price": 321,
+		"category": "Power",
+		"defname": "VPE_GasTank"
+	},
+	{
+		"abr": "gaswalldarklight",
+		"price": 65,
+		"category": "Furniture",
+		"defname": "VPE_GasWallDarkLight"
+	},
+	{
+		"abr": "gaswalllight",
+		"price": 65,
+		"category": "Furniture",
+		"defname": "VPE_GasWallLight"
+	},
+	{
+		"abr": "gnollmorph",
+		"price": 3000,
+		"category": "Animal",
+		"defname": "ATK_Gnollmorph"
+	},
+	{
+		"abr": "heliodor",
+		"price": 12,
+		"category": "Gems",
+		"defname": "KHeliodor"
+	},
+	{
+		"abr": "helixiengassmelter",
+		"price": 667,
+		"category": "Production",
+		"defname": "VPE_GasSmelter"
+	},
+	{
+		"abr": "helixiengassmithy",
+		"price": 492,
+		"category": "Production",
+		"defname": "VPE_GasSmithy"
+	},
+	{
+		"abr": "helixiengasstove",
+		"price": 375,
+		"category": "Production",
+		"defname": "VPE_GasStove"
+	},
+	{
+		"abr": "iolite",
+		"price": 8,
+		"category": "Gems",
+		"defname": "KIolite"
+	},
+	{
+		"abr": "kunzite",
+		"price": 8,
+		"category": "Gems",
+		"defname": "KKunzite"
+	},
+	{
+		"abr": "lagomorph",
+		"price": 3000,
+		"category": "Animal",
+		"defname": "ATK_Lagomorph"
+	},
+	{
+		"abr": "largeadvancedbattery",
+		"price": 1467,
+		"category": "Power",
+		"defname": "VFE_LargeAdvancedBattery"
+	},
+	{
+		"abr": "largebattery",
+		"price": 667,
+		"category": "Power",
+		"defname": "VFE_LargeBattery"
+	},
+	{
+		"abr": "largevanometricpowercell",
+		"price": 4000,
+		"category": "Special",
+		"defname": "VFE_LargeVanometricPowerCell"
+	},
+	{
+		"abr": "larimar",
+		"price": 8,
+		"category": "Gems",
+		"defname": "KLarimar"
+	},
+	{
+		"abr": "lightningrod",
+		"price": 667,
+		"category": "Special",
+		"defname": "VPE_LightningRod"
 	}
 	],
-	"total": 1586
+	"total": 1619
 }
