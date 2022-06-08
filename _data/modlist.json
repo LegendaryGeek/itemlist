@@ -204,6 +204,12 @@
     "version": null
   },
   {
+    "author": "AveryTheKitty,  Erin and Ravenholme",
+    "name": "Xenohumans - Anthromorphs",
+    "steamId": "2349467636",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Fluffy",
     "name": "Blueprints",
     "steamId": "708455313",
@@ -304,12 +310,6 @@
     "name": "UwU",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Declinedkilr",
-    "name": "RadWorld",
-    "steamId": "2644582906",
-    "version": "1.0.0.0"
   },
   {
     "author": "Rick",
@@ -518,6 +518,18 @@
   {
     "author": "Rick",
     "name": "FCP US Army Equipment Teaser",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and  Sarg Bjornson",
+    "name": "Vanilla Furniture Expanded - Power",
+    "steamId": "2062943477",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Evil Tactician",
+    "name": "Practical Pemmican",
     "steamId": null,
     "version": null
   }

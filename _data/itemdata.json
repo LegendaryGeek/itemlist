@@ -89,7 +89,7 @@
     "QuantityLimit": 1,
     "Weight": 1,
     "ResearchOverrides": null,
-    "IsUsable": false,
+    "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
@@ -11349,7 +11349,7 @@
     "QuantityLimit": 1,
     "Weight": 1,
     "ResearchOverrides": null,
-    "IsUsable": false,
+    "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
@@ -11369,7 +11369,7 @@
     "QuantityLimit": 1,
     "Weight": 1,
     "ResearchOverrides": null,
-    "IsUsable": false,
+    "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
@@ -11389,7 +11389,7 @@
     "QuantityLimit": 1,
     "Weight": 1,
     "ResearchOverrides": null,
-    "IsUsable": false,
+    "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
@@ -11409,7 +11409,7 @@
     "QuantityLimit": 1,
     "Weight": 1,
     "ResearchOverrides": null,
-    "IsUsable": false,
+    "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
@@ -11429,7 +11429,7 @@
     "QuantityLimit": 1,
     "Weight": 1,
     "ResearchOverrides": null,
-    "IsUsable": false,
+    "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
@@ -11449,7 +11449,7 @@
     "QuantityLimit": 1,
     "Weight": 1,
     "ResearchOverrides": null,
-    "IsUsable": false,
+    "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
@@ -11469,7 +11469,7 @@
     "QuantityLimit": 1,
     "Weight": 1,
     "ResearchOverrides": null,
-    "IsUsable": false,
+    "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
@@ -11489,7 +11489,7 @@
     "QuantityLimit": 1,
     "Weight": 1,
     "ResearchOverrides": null,
-    "IsUsable": false,
+    "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
@@ -11509,7 +11509,7 @@
     "QuantityLimit": 1,
     "Weight": 1,
     "ResearchOverrides": null,
-    "IsUsable": false,
+    "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
@@ -11529,7 +11529,7 @@
     "QuantityLimit": 1,
     "Weight": 1,
     "ResearchOverrides": null,
-    "IsUsable": false,
+    "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
@@ -11549,7 +11549,7 @@
     "QuantityLimit": 1,
     "Weight": 1,
     "ResearchOverrides": null,
-    "IsUsable": false,
+    "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
@@ -11569,7 +11569,7 @@
     "QuantityLimit": 1,
     "Weight": 1,
     "ResearchOverrides": null,
-    "IsUsable": false,
+    "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
@@ -21099,87 +21099,7 @@
     "Mod": "FCP Captain Cosmos Pack!",
     "KarmaType": null
   },
-  "vtredCloth": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vault-Tec - Handy things for your vault!",
-    "KarmaType": null
-  },
-  "vtyellowCloth": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vault-Tec - Handy things for your vault!",
-    "KarmaType": null
-  },
-  "vtblueCloth": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vault-Tec - Handy things for your vault!",
-    "KarmaType": null
-  },
-  "vt_medicine": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vault-Tec - Handy things for your vault!",
-    "KarmaType": null
-  },
-  "vtsuperreactor": {
+  "ATK_Avianmorph": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -21196,10 +21116,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vault-Tec - Handy things for your vault!",
+    "Mod": null,
     "KarmaType": null
   },
-  "vtreactor": {
+  "VPE_ArchotechViolenceGenerator": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -21216,10 +21136,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vault-Tec - Handy things for your vault!",
+    "Mod": "Vanilla Furniture Expanded - Power",
     "KarmaType": null
   },
-  "vault_sofa": {
+  "VFE_LargeVanometricPowerCell": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -21236,10 +21156,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vault-Tec - Handy things for your vault!",
+    "Mod": "Vanilla Furniture Expanded - Power",
     "KarmaType": null
   },
-  "vtrecycler": {
+  "VFE_SmallVanometricPowerCell": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -21256,7 +21176,87 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vault-Tec - Handy things for your vault!",
+    "Mod": "Vanilla Furniture Expanded - Power",
+    "KarmaType": null
+  },
+  "VFE_PortableChemfuelPoweredGenerator": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vanilla Furniture Expanded - Power",
+    "KarmaType": null
+  },
+  "VFE_PortableWoodFiredGenerator": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vanilla Furniture Expanded - Power",
+    "KarmaType": null
+  },
+  "VPE_LightningRod": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vanilla Furniture Expanded - Power",
+    "KarmaType": null
+  },
+  "VPE_GasFloodlight": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vanilla Furniture Expanded - Power",
     "KarmaType": null
   },
   "VaultWardrobeA": {
@@ -21299,7 +21299,7 @@
     "Mod": "Vault-Tec - Handy things for your vault!",
     "KarmaType": null
   },
-  "vtschooltable": {
+  "VPE_GasWallDarkLight": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -21316,10 +21316,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vault-Tec - Handy things for your vault!",
+    "Mod": "Vanilla Furniture Expanded - Power",
     "KarmaType": null
   },
-  "vt_megabore": {
+  "VPE_GasWallLight": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -21336,10 +21336,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vault-Tec - Handy things for your vault!",
+    "Mod": "Vanilla Furniture Expanded - Power",
     "KarmaType": null
   },
-  "vt_workbench": {
+  "VPE_GasLamp": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -21356,10 +21356,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vault-Tec - Handy things for your vault!",
+    "Mod": "Vanilla Furniture Expanded - Power",
     "KarmaType": null
   },
-  "vtcompter": {
+  "VPE_GasSmithy": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -21376,7 +21376,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vault-Tec - Handy things for your vault!",
+    "Mod": "Vanilla Furniture Expanded - Power",
     "KarmaType": null
   },
   "HospitalBedVault": {
@@ -21439,7 +21439,7 @@
     "Mod": "Vault-Tec - Handy things for your vault!",
     "KarmaType": null
   },
-  "vtrug_four": {
+  "VPE_GasSunLamp": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -21456,10 +21456,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vault-Tec - Handy things for your vault!",
+    "Mod": "Vanilla Furniture Expanded - Power",
     "KarmaType": null
   },
-  "vtrug_tree": {
+  "VPE_GasHeater": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -21476,10 +21476,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vault-Tec - Handy things for your vault!",
+    "Mod": "Vanilla Furniture Expanded - Power",
     "KarmaType": null
   },
-  "vtrug_two": {
+  "VPE_GasDrill": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -21496,10 +21496,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vault-Tec - Handy things for your vault!",
+    "Mod": "Vanilla Furniture Expanded - Power",
     "KarmaType": null
   },
-  "vtrug_one": {
+  "VPE_GasStove": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -21516,10 +21516,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vault-Tec - Handy things for your vault!",
+    "Mod": "Vanilla Furniture Expanded - Power",
     "KarmaType": null
   },
-  "groundplate_one": {
+  "VPE_GasSmelter": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -21536,10 +21536,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vault-Tec - Handy things for your vault!",
+    "Mod": "Vanilla Furniture Expanded - Power",
     "KarmaType": null
   },
-  "vttablelamp": {
+  "VPE_GasTank": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -21556,10 +21556,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vault-Tec - Handy things for your vault!",
+    "Mod": "Vanilla Furniture Expanded - Power",
     "KarmaType": null
   },
-  "vault_lampb": {
+  "VFE_LargeAdvancedBattery": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -21576,10 +21576,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vault-Tec - Handy things for your vault!",
+    "Mod": "Vanilla Furniture Expanded - Power",
     "KarmaType": null
   },
-  "vault_lamp": {
+  "VFE_AdvancedBattery": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -21596,7 +21596,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vault-Tec - Handy things for your vault!",
+    "Mod": "Vanilla Furniture Expanded - Power",
     "KarmaType": null
   },
   "Vt_server": {
@@ -21619,7 +21619,7 @@
     "Mod": "Vault-Tec - Handy things for your vault!",
     "KarmaType": null
   },
-  "vt_luxcommode": {
+  "VFE_SmallBattery": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -21636,10 +21636,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vault-Tec - Handy things for your vault!",
+    "Mod": "Vanilla Furniture Expanded - Power",
     "KarmaType": null
   },
-  "vt_luxEndTable": {
+  "VFE_LargeBattery": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -21656,10 +21656,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vault-Tec - Handy things for your vault!",
+    "Mod": "Vanilla Furniture Expanded - Power",
     "KarmaType": null
   },
-  "vt_commode": {
+  "vtredCloth": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -21669,7 +21669,7 @@
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
-    "IsUsable": true,
+    "IsUsable": false,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
@@ -21699,7 +21699,7 @@
     "Mod": "Vault-Tec - Handy things for your vault!",
     "KarmaType": null
   },
-  "vt_EndTable": {
+  "vtyellowCloth": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -21709,7 +21709,7 @@
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
-    "IsUsable": true,
+    "IsUsable": false,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
@@ -21719,7 +21719,7 @@
     "Mod": "Vault-Tec - Handy things for your vault!",
     "KarmaType": null
   },
-  "minivaultshelf": {
+  "vtblueCloth": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -21729,7 +21729,7 @@
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
-    "IsUsable": true,
+    "IsUsable": false,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
@@ -21759,7 +21759,27 @@
     "Mod": "Vault-Tec - Handy things for your vault!",
     "KarmaType": null
   },
-  "vaultshelf": {
+  "vt_medicine": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": false,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vault-Tec - Handy things for your vault!",
+    "KarmaType": null
+  },
+  "vtsuperreactor": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -21779,27 +21799,7 @@
     "Mod": "Vault-Tec - Handy things for your vault!",
     "KarmaType": null
   },
-  "vt_ovtable": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vault-Tec - Handy things for your vault!",
-    "KarmaType": null
-  },
-  "vt_curio": {
+  "vtreactor": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22299,7 +22299,7 @@
     "Mod": "Vault-Tec - Handy things for your vault!",
     "KarmaType": null
   },
-  "vt_fern": {
+  "vault_sofa": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22339,7 +22339,7 @@
     "Mod": "Vault-Tec - Handy things for your vault!",
     "KarmaType": null
   },
-  "vt_luxminitable": {
+  "vtrecycler": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22359,7 +22359,7 @@
     "Mod": "Vault-Tec - Handy things for your vault!",
     "KarmaType": null
   },
-  "vt_newminitable": {
+  "vtschooltable": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22379,7 +22379,7 @@
     "Mod": "Vault-Tec - Handy things for your vault!",
     "KarmaType": null
   },
-  "vt_miniminitable": {
+  "vt_megabore": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -23679,7 +23679,7 @@
     "Mod": "UwU",
     "KarmaType": null
   },
-  "RW_RadPills": {
+  "vt_workbench": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -23696,10 +23696,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "RadWorld",
+    "Mod": "Vault-Tec - Handy things for your vault!",
     "KarmaType": null
   },
-  "RW_RadiationCollector": {
+  "vtcompter": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -23716,10 +23716,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "RadWorld",
+    "Mod": "Vault-Tec - Handy things for your vault!",
     "KarmaType": null
   },
-  "RW_NanotechPurifier": {
+  "vtrug_four": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -23736,10 +23736,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "RadWorld",
+    "Mod": "Vault-Tec - Handy things for your vault!",
     "KarmaType": null
   },
-  "RW_GasMaskFilter": {
+  "vtrug_tree": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -23756,10 +23756,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "RadWorld",
+    "Mod": "Vault-Tec - Handy things for your vault!",
     "KarmaType": null
   },
-  "RW_RadFungusHarvested": {
+  "vtrug_two": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -23776,10 +23776,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "RadWorld",
+    "Mod": "Vault-Tec - Handy things for your vault!",
     "KarmaType": null
   },
-  "RW_RadBerryHarvested": {
+  "vtrug_one": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -23796,10 +23796,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "RadWorld",
+    "Mod": "Vault-Tec - Handy things for your vault!",
     "KarmaType": null
   },
-  "RW_Apparel_DuctTapedGasMask": {
+  "groundplate_one": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -23816,10 +23816,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "RadWorld",
+    "Mod": "Vault-Tec - Handy things for your vault!",
     "KarmaType": null
   },
-  "RW_Apparel_GasMask_Black": {
+  "vttablelamp": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -23836,10 +23836,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "RadWorld",
+    "Mod": "Vault-Tec - Handy things for your vault!",
     "KarmaType": null
   },
-  "RW_Apparel_GasMask_Yellow": {
+  "vault_lampb": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -23856,10 +23856,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "RadWorld",
+    "Mod": "Vault-Tec - Handy things for your vault!",
     "KarmaType": null
   },
-  "RW_Apparel_ArchotechEnvironmentShield": {
+  "vault_lamp": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -23876,10 +23876,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "RadWorld",
+    "Mod": "Vault-Tec - Handy things for your vault!",
     "KarmaType": null
   },
-  "RW_Apparel_PatchWork_HazardSuit": {
+  "vt_luxcommode": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -23896,10 +23896,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "RadWorld",
+    "Mod": "Vault-Tec - Handy things for your vault!",
     "KarmaType": null
   },
-  "RW_Apparel_HazardSuit_Black": {
+  "vt_luxEndTable": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -23916,10 +23916,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "RadWorld",
+    "Mod": "Vault-Tec - Handy things for your vault!",
     "KarmaType": null
   },
-  "RW_Apparel_HazardSuit_Yellow": {
+  "vt_commode": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -23936,10 +23936,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "RadWorld",
+    "Mod": "Vault-Tec - Handy things for your vault!",
     "KarmaType": null
   },
-  "RW_Apparel_ArmoredHazardSuit_Black": {
+  "vt_EndTable": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -23956,10 +23956,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "RadWorld",
+    "Mod": "Vault-Tec - Handy things for your vault!",
     "KarmaType": null
   },
-  "RW_Apparel_ArmoredHazardSuit_Yellow": {
+  "minivaultshelf": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -23976,10 +23976,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "RadWorld",
+    "Mod": "Vault-Tec - Handy things for your vault!",
     "KarmaType": null
   },
-  "RW_IrradiatedBear": {
+  "vaultshelf": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -23996,10 +23996,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "RadWorld",
+    "Mod": "Vault-Tec - Handy things for your vault!",
     "KarmaType": null
   },
-  "RW_IrradiatedMegaspider": {
+  "vt_ovtable": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -24016,10 +24016,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "RadWorld",
+    "Mod": "Vault-Tec - Handy things for your vault!",
     "KarmaType": null
   },
-  "RW_IrradiatedRat": {
+  "vt_curio": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -24036,10 +24036,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "RadWorld",
+    "Mod": "Vault-Tec - Handy things for your vault!",
     "KarmaType": null
   },
-  "RW_Mole": {
+  "vt_fern": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -24056,7 +24056,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "RadWorld",
+    "Mod": "Vault-Tec - Handy things for your vault!",
     "KarmaType": null
   },
   "FCP_Apparel_Enclave_Trooper_Uniform": {
@@ -27279,7 +27279,7 @@
     "Mod": "FCP Fallout New Vegas Assault Rifles and LMG Pack!",
     "KarmaType": null
   },
-  "vt_minitable": {
+  "vt_luxminitable": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -29019,7 +29019,7 @@
     "Mod": "UwU",
     "KarmaType": null
   },
-  "Meat_RW_IrradiatedBear": {
+  "vt_newminitable": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -29036,10 +29036,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "RadWorld",
+    "Mod": "Vault-Tec - Handy things for your vault!",
     "KarmaType": null
   },
-  "Meat_RW_IrradiatedMegaspider": {
+  "vt_miniminitable": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -29056,10 +29056,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "RadWorld",
+    "Mod": "Vault-Tec - Handy things for your vault!",
     "KarmaType": null
   },
-  "Meat_RW_IrradiatedRat": {
+  "vt_minitable": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -29076,10 +29076,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "RadWorld",
+    "Mod": "Vault-Tec - Handy things for your vault!",
     "KarmaType": null
   },
-  "Meat_RW_Mole": {
+  "ATK_StabilizerTail": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -29096,7 +29096,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "RadWorld",
+    "Mod": "Xenohumans - Anthromorphs",
     "KarmaType": null
   },
   "Meat_FCP_Diamond_City_Purebred": {
@@ -31537,6 +31537,186 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "FCP US Army Equipment Teaser",
+    "KarmaType": null
+  },
+  "ATK_Bovinemorph": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": null,
+    "KarmaType": null
+  },
+  "ATK_Caninemorph": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": null,
+    "KarmaType": null
+  },
+  "ATK_Cervinemorph": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": null,
+    "KarmaType": null
+  },
+  "ATK_Leather_Dragon": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": null,
+    "KarmaType": null
+  },
+  "ATK_Dragomorph": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": null,
+    "KarmaType": null
+  },
+  "ATK_Felinemorph": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": null,
+    "KarmaType": null
+  },
+  "ATK_Gnollmorph": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": null,
+    "KarmaType": null
+  },
+  "ATK_Lagomorph": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": null,
+    "KarmaType": null
+  },
+  "ATK_Vulpinemorph": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": null,
     "KarmaType": null
   }
 }

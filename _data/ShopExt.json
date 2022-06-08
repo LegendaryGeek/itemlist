@@ -4227,42 +4227,6 @@
       "degree": 0
     },
     {
-      "description": "Timmy is a mutant, generations of living in radiation has given them immunity to radiation at the cost of their intelligence and appearance.",
-      "stats": [
-        "+100% radiation resistance",
-        "+0% toxic sensitivity",
-        "-50.00% social impact",
-        "+0.15 move speed"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "RadWorld",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+100% radiation resistance",
-          "+0% toxic sensitivity",
-          "-50.00% social impact",
-          "+0.15 move speed"
-        ]
-      },
-      "defName": "RW_MutantBlood",
-      "name": "mutantblood",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
       "description": "Timmy has a strong back which allows him to carry more than most people.",
       "stats": [
         "+50 carrying capacity"
@@ -7431,6 +7395,44 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0
+    },
+    {
+      "description": "Timmy is the descendant of a designer mate. Though most of his ancestral traits are diluted, he is still extremely beautiful and cheerful.",
+      "stats": [
+        "+3.0 beauty"
+      ],
+      "conflicts": [
+        "beautiful",
+        "pretty",
+        "ugly",
+        "staggeringlyugly",
+        "jealous"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Xenohumans - Anthromorphs",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "beautiful",
+          "pretty",
+          "ugly",
+          "staggeringlyugly",
+          "jealous"
+        ],
+        "stats": [
+          "+3.0 beauty"
+        ]
+      },
+      "defName": "ATK_DesignerMate",
+      "name": "designerheritage",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
     }
   ],
   "races": [
@@ -8160,6 +8162,213 @@
       "enabled": true,
       "name": "medic",
       "price": 1100
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1800 Market value",
+          "+4.60 Move speed",
+          "+16.0C Minimum comfortable temperature",
+          "+26.0C Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+3 Honor value",
+          "+1.0 Beauty"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A xenohuman that is biosculpted to resemble an anthropomorphic avian, but is otherwise identical to the average human. Most originate from ultra-tech glitterworld cultures and are consequently uncommon on the rim.",
+      "defName": "ATK_Avianmorph",
+      "enabled": true,
+      "name": "avianmorph",
+      "price": 3000
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1800 Market value",
+          "+4.60 Move speed",
+          "+16.0C Minimum comfortable temperature",
+          "+26.0C Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+3 Honor value",
+          "+1.0 Beauty"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A xenohuman that is biosculpted to resemble an anthropomorphic bovine, but is otherwise identical to the average human. Most originate from ultra-tech glitterworld cultures and are consequently uncommon on the rim.",
+      "defName": "ATK_Bovinemorph",
+      "enabled": true,
+      "name": "bovinemorph",
+      "price": 3000
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1800 Market value",
+          "+4.60 Move speed",
+          "+0.0C Minimum comfortable temperature",
+          "+26.0C Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+3 Honor value",
+          "+1.0 Beauty"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A xenohuman that is biosculpted to resemble an anthropomorphic canine, but is otherwise identical to the average human. Most originate from ultra-tech glitterworld cultures and are consequently uncommon on the rim.",
+      "defName": "ATK_Caninemorph",
+      "enabled": true,
+      "name": "caninemorph",
+      "price": 3000
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1800 Market value",
+          "+4.60 Move speed",
+          "+0.0C Minimum comfortable temperature",
+          "+26.0C Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+3 Honor value",
+          "+1.0 Beauty"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A xenohuman that is biosculpted to resemble an anthropomorphic cervine, but is otherwise identical to the average human. Most originate from ultra-tech glitterworld cultures and are consequently uncommon on the rim.",
+      "defName": "ATK_Cervinemorph",
+      "enabled": true,
+      "name": "cervinemorph",
+      "price": 3000
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1950 Market value",
+          "+4.60 Move speed",
+          "+20.0C Minimum comfortable temperature",
+          "+40.0C Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+3 Honor value",
+          "+1.0 Beauty"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A xenohuman that is biosculpted to resemble an anthropomorphic dragon, but is otherwise identical to the average human. They are exceedingly rare due to the extensive and expensive modifications made to their physiology.",
+      "defName": "ATK_Dragomorph",
+      "enabled": true,
+      "name": "dragomorph",
+      "price": 3250
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1800 Market value",
+          "+4.60 Move speed",
+          "+0.0C Minimum comfortable temperature",
+          "+26.0C Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+3 Honor value",
+          "+1.0 Beauty"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A xenohuman that is biosculpted to resemble an anthropomorphic feline, but is otherwise identical to the average human. Most originate from ultra-tech glitterworld cultures and are consequently uncommon on the rim.",
+      "defName": "ATK_Felinemorph",
+      "enabled": true,
+      "name": "felinemorph",
+      "price": 3000
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1800 Market value",
+          "+4.60 Move speed",
+          "+9.0C Minimum comfortable temperature",
+          "+34.0C Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+3 Honor value",
+          "+1.0 Beauty"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A xenohuman that is biosculpted to resemble an anthropomorphic hyena, but is otherwise identical to the average human. Most originate from ultra-tech glitterworld cultures and are consequently uncommon on the rim.",
+      "defName": "ATK_Gnollmorph",
+      "enabled": true,
+      "name": "gnollmorph",
+      "price": 3000
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1800 Market value",
+          "+4.60 Move speed",
+          "+9.0C Minimum comfortable temperature",
+          "+34.0C Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+3 Honor value",
+          "+1.0 Beauty"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A xenohuman that is biosculpted to resemble an anthropomorphic lapine, but is otherwise identical to the average human. Most originate from ultra-tech glitterworld cultures and are consequently uncommon on the rim.",
+      "defName": "ATK_Lagomorph",
+      "enabled": true,
+      "name": "lagomorph",
+      "price": 3000
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1800 Market value",
+          "+4.60 Move speed",
+          "+0.0C Minimum comfortable temperature",
+          "+26.0C Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+3 Honor value",
+          "+1.0 Beauty"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A xenohuman that is biosculpted to resemble an anthropomorphic fox, but is otherwise identical to the average human. Most originate from ultra-tech glitterworld cultures and are consequently uncommon on the rim.",
+      "defName": "ATK_Vulpinemorph",
+      "enabled": true,
+      "name": "Vulpinemorph",
+      "price": 3000
     }
   ]
 }

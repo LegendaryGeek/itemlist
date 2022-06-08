@@ -771,7 +771,7 @@
 	{
 		"abr": "pemmican",
 		"price": 2,
-		"category": "Foods",
+		"category": "Meals",
 		"defname": "Pemmican"
 	},
 	{
@@ -6313,12 +6313,6 @@
 		"defname": "FCP_Gun_Anti_Material_Rifle"
 	},
 	{
-		"abr": "archotechenvironmentshield",
-		"price": 10000,
-		"category": "Utility",
-		"defname": "RW_Apparel_ArchotechEnvironmentShield"
-	},
-	{
 		"abr": "arclighthelmet",
 		"price": 80,
 		"category": "Headgear",
@@ -6383,24 +6377,6 @@
 		"price": 16667,
 		"category": "Ranged weapons",
 		"defname": "FCP_Gun_Big_Boomer"
-	},
-	{
-		"abr": "blackarmoredhazardsuit",
-		"price": 1500,
-		"category": "Apparel",
-		"defname": "RW_Apparel_ArmoredHazardSuit_Black"
-	},
-	{
-		"abr": "blackgasmask",
-		"price": 708,
-		"category": "Headgear",
-		"defname": "RW_Apparel_GasMask_Black"
-	},
-	{
-		"abr": "blackhazardsuit",
-		"price": 583,
-		"category": "Apparel",
-		"defname": "RW_Apparel_HazardSuit_Black"
 	},
 	{
 		"abr": "blamcomacandcheese",
@@ -6709,12 +6685,6 @@
 		"defname": "Gun_DS1 Pulsar"
 	},
 	{
-		"abr": "ducttapedgasmask",
-		"price": 167,
-		"category": "Headgear",
-		"defname": "RW_Apparel_DuctTapedGasMask"
-	},
-	{
 		"abr": "eliteriotarmor",
 		"price": 892,
 		"category": "Armor",
@@ -6871,12 +6841,6 @@
 		"defname": "Gun_G58 Dian"
 	},
 	{
-		"abr": "gasmaskfilters",
-		"price": 500,
-		"category": "Manufactured",
-		"defname": "RW_GasMaskFilter"
-	},
-	{
 		"abr": "gasmaskwithgoggles",
 		"price": 234,
 		"category": "Headgear",
@@ -6973,12 +6937,6 @@
 		"defname": "FCP_Gun_Hunting_Shotgun"
 	},
 	{
-		"abr": "insectmeat",
-		"price": 1,
-		"category": "Meat",
-		"defname": "Meat_RW_IrradiatedMegaspider"
-	},
-	{
 		"abr": "instamash",
 		"price": 50,
 		"category": "Meals",
@@ -7037,36 +6995,6 @@
 		"price": 147,
 		"category": "Furniture",
 		"defname": "vault_lampb"
-	},
-	{
-		"abr": "irradiatedbear",
-		"price": 1167,
-		"category": "Animals",
-		"defname": "RW_IrradiatedBear"
-	},
-	{
-		"abr": "irradiatedbearmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_RW_IrradiatedBear"
-	},
-	{
-		"abr": "irradiatedmegaspider",
-		"price": 833,
-		"category": "Animals",
-		"defname": "RW_IrradiatedMegaspider"
-	},
-	{
-		"abr": "irradiatedrat",
-		"price": 58,
-		"category": "Animals",
-		"defname": "RW_IrradiatedRat"
-	},
-	{
-		"abr": "irradiatedratmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_RW_IrradiatedRat"
 	},
 	{
 		"abr": "jkex2kenshin",
@@ -7297,18 +7225,6 @@
 		"defname": "Gun_MK.31 HMG"
 	},
 	{
-		"abr": "mole",
-		"price": 167,
-		"category": "Animals",
-		"defname": "RW_Mole"
-	},
-	{
-		"abr": "molemeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_RW_Mole"
-	},
-	{
 		"abr": "mpl",
 		"price": 392,
 		"category": "Ranged weapons",
@@ -7349,12 +7265,6 @@
 		"price": 508,
 		"category": "Ranged weapons",
 		"defname": "MKS_Gun_Nailgun"
-	},
-	{
-		"abr": "nanotechpurifier",
-		"price": 6167,
-		"category": "Misc",
-		"defname": "RW_NanotechPurifier"
 	},
 	{
 		"abr": "ncr1streconberet",
@@ -7645,12 +7555,6 @@
 		"defname": "FCP_Apparel_Raider_Painspiker_Armor"
 	},
 	{
-		"abr": "patchworkhazardsuit",
-		"price": 292,
-		"category": "Apparel",
-		"defname": "RW_Apparel_PatchWork_HazardSuit"
-	},
-	{
 		"abr": "pioneer",
 		"price": 6408,
 		"category": "Buildings",
@@ -7733,30 +7637,6 @@
 		"price": 742,
 		"category": "Furniture",
 		"defname": "FCP_Quonset_Hut"
-	},
-	{
-		"abr": "radberry",
-		"price": 2,
-		"category": "Vegetarian",
-		"defname": "RW_RadBerryHarvested"
-	},
-	{
-		"abr": "radfungus",
-		"price": 2,
-		"category": "Vegetarian",
-		"defname": "RW_RadFungusHarvested"
-	},
-	{
-		"abr": "radpills",
-		"price": 88,
-		"category": "Drugs",
-		"defname": "RW_RadPills"
-	},
-	{
-		"abr": "radiationcollector",
-		"price": 2500,
-		"category": "Misc",
-		"defname": "RW_RadiationCollector"
 	},
 	{
 		"abr": "raiderheavyarmor",
@@ -8707,24 +8587,6 @@
 		"defname": "FCP_Apparel_X-02_Tesla_Power_Armor_Helmet"
 	},
 	{
-		"abr": "yellowarmoredhazardsuit",
-		"price": 1500,
-		"category": "Apparel",
-		"defname": "RW_Apparel_ArmoredHazardSuit_Yellow"
-	},
-	{
-		"abr": "yellowgasmask",
-		"price": 708,
-		"category": "Headgear",
-		"defname": "RW_Apparel_GasMask_Yellow"
-	},
-	{
-		"abr": "yellowhazardsuit",
-		"price": 583,
-		"category": "Apparel",
-		"defname": "RW_Apparel_HazardSuit_Yellow"
-	},
-	{
 		"abr": "yumyumdeviledeggs",
 		"price": 33,
 		"category": "Meals",
@@ -9456,6 +9318,66 @@
 		"category": "Apparel",
 		"defname": "FCP_Apparel_Yao_Guai_Poncho"
 	},
+	{
+		"abr": "zelotmarinearmor",
+		"price": 1192,
+		"category": "Apparel",
+		"defname": "FCP_Zelot_Marine_Armor"
+	},
+	{
+		"abr": "advancedbattery",
+		"price": 750,
+		"category": "Power",
+		"defname": "VFE_AdvancedBattery"
+	},
+	{
+		"abr": "archotechviolencegenerator",
+		"price": 5667,
+		"category": "Special",
+		"defname": "VPE_ArchotechViolenceGenerator"
+	},
+	{
+		"abr": "avianmorph",
+		"price": 3000,
+		"category": "Animal",
+		"defname": "ATK_Avianmorph"
+	},
+	{
+		"abr": "bovinemorph",
+		"price": 3000,
+		"category": "Animal",
+		"defname": "ATK_Bovinemorph"
+	},
+	{
+		"abr": "caninemorph",
+		"price": 3000,
+		"category": "Animal",
+		"defname": "ATK_Caninemorph"
+	},
+	{
+		"abr": "cervinemorph",
+		"price": 3000,
+		"category": "Animal",
+		"defname": "ATK_Cervinemorph"
+	},
+	{
+		"abr": "dragomorph",
+		"price": 3250,
+		"category": "Animal",
+		"defname": "ATK_Dragomorph"
+	},
+	{
+		"abr": "dragonskin",
+		"price": 8,
+		"category": "Leathers",
+		"defname": "ATK_Leather_Dragon"
+	},
+	{
+		"abr": "felinemorph",
+		"price": 3000,
+		"category": "Animal",
+		"defname": "ATK_Felinemorph"
+	}
 	],
-	"total": 1577
+	"total": 1586
 }
