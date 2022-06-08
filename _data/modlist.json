@@ -12,10 +12,28 @@
     "version": "9.0.1"
   },
   {
+    "author": "jecrell and contributors",
+    "name": "JecsTools",
+    "steamId": "932008009",
+    "version": "1.3.0.4"
+  },
+  {
     "author": "mr_chimick",
     "name": "Block Unwanted Minutiae",
     "steamId": "2266225921",
     "version": "2.8"
+  },
+  {
+    "author": "bradson",
+    "name": "HD Pawn Rendering",
+    "steamId": "2538746878",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Alias, Gewen and Swenzi",
+    "name": "Additional Traits (Heroes + Gods Optional)",
+    "steamId": "1621571024",
+    "version": "1.0.0.0"
   },
   {
     "author": "erdelf",
@@ -156,12 +174,6 @@
     "version": null
   },
   {
-    "author": "bradson",
-    "name": "HD Pawn Rendering",
-    "steamId": "2538746878",
-    "version": "1.0.0"
-  },
-  {
     "author": "Yanzihko",
     "name": "Feles - Felines of the Rim [1.3]",
     "steamId": null,
@@ -234,14 +246,278 @@
     "version": null
   },
   {
-    "author": "Alias, Gewen and Swenzi",
-    "name": "Additional Traits (Heroes + Gods Optional)",
-    "steamId": "1621571024",
+    "author": "Carny Senpai",
+    "name": "RWBY Weapons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Gunmar(グンマー)",
+    "name": "Victorian Era Apparels!",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Neceros",
+    "name": "SRTS Expanded",
+    "steamId": "1845423808",
+    "version": "1.4.6"
+  },
+  {
+    "author": "Twink315",
+    "name": "Vault-Tec - Handy things for your vault!",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "ISOREX and  2ScoopsPlz",
+    "name": "Fallout New Vegas - Elite Riot Gear",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Udon",
+    "name": "Dragon Cannon",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Scorpio and  Taranchuk",
+    "name": "Resource Dictionary",
+    "steamId": "2817607528",
     "version": "1.0.0.0"
   },
   {
-    "author": "Carny Senpai",
-    "name": "RWBY Weapons",
+    "author": "MyLegsAreOkay",
+    "name": "Cyberpunk2077_Weapons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Danadriel",
+    "name": "Sailpunk Airships",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "PunkyRoo",
+    "name": "UwU",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Declinedkilr",
+    "name": "RadWorld",
+    "steamId": "2644582906",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Rick",
+    "name": "FCP Enclave Armory!",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Rick",
+    "name": "FCP Fallout Sniper Rifles!",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Grandyy",
+    "name": "Destiny 2 Weapon Package - Hand Cannon",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Rick",
+    "name": "FCP Makeshift Rifles",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Rick",
+    "name": "FCP Makeshift Handguns",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Rick, Icing and Taranchuk",
+    "name": "FCP Plasma Weapons Pack!",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Rick",
+    "name": "FCP Vault-Tec and Boomers!",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Rick",
+    "name": "FCP NCR Armor and Apparel Pack!",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Taranchuk and Rick",
+    "name": "FCP Vertibirds",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Rick, Aoba, Socks and Otters",
+    "name": "FCP Tents",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Rick",
+    "name": "FCP Pre-War Meals!",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Rick",
+    "name": "FCP Minuteman Equipment Teaser",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Rick",
+    "name": "FCP Raider Armor and Apparel Teaser",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Rick",
+    "name": "FCP Fallout Creation Club Rifle Pack!",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Rick",
+    "name": "FCP Fallout New Vegas Pistols!",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Rick",
+    "name": "FCP FNV Heavy Weapons Pack!",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Rick",
+    "name": "FCP Fallout New Vegas Assault Rifles and LMG Pack!",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Rick",
+    "name": "FCP Fallout New Vegas Submachine Guns!",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Rick",
+    "name": "FCP Fallout New Vegas Lever Action Rifles!",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Rick",
+    "name": "FCP Fallout New Vegas Shotguns!",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Rick",
+    "name": "FCP Fallout New Vegas Revolvers!",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Rick",
+    "name": "FCP Chinese Remnant Equipment Teaser",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Rick",
+    "name": "FCP Makeshift Weapons Pack",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Rick",
+    "name": "FCP Institute and Railroad Teaser",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Rick",
+    "name": "FCP Dogmeat",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Kitsune and  Rick G.",
+    "name": "FCP Fallout Plants",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Fuglypump",
+    "name": "Fallout Traits",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Rick",
+    "name": "FCP Captain Cosmos Pack!",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Rick",
+    "name": "FCP Powder Ganger Equipment Teaser",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Canon",
+    "name": "Fallout Flags and Banners",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Rick",
+    "name": "FCP Children of Atom Equipment Teaser",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Rick",
+    "name": "FCP Desert Ranger Equipment Teaser",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Rick",
+    "name": "FCP Classic Combat Armor Teaser",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Rick",
+    "name": "FCP Great Khan Equipment Teaser",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Rick",
+    "name": "FCP US Army Equipment Teaser",
     "steamId": null,
     "version": null
   }
