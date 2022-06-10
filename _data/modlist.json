@@ -24,6 +24,30 @@
     "version": "2.8"
   },
   {
+    "author": "Oskar Potocki,  XeoNovaDan,  Orion,  Kikohi,  Taranchuk,  Sarg Bjornson and  Erdelf",
+    "name": "Vanilla Expanded Framework",
+    "steamId": "2023507013",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Fluffy",
+    "name": "Blueprints",
+    "steamId": "708455313",
+    "version": "2.17.133"
+  },
+  {
+    "author": "legodude17 and  Oskar Potocki",
+    "name": "Vanilla UI Expanded",
+    "steamId": "2749945924",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "AUTOMATIC",
+    "name": "Bionic icons",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "bradson",
     "name": "HD Pawn Rendering",
     "steamId": "2538746878",
@@ -46,12 +70,6 @@
     "name": "Phinix",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Oskar Potocki,  XeoNovaDan,  Orion,  Kikohi,  Taranchuk,  Sarg Bjornson and  Erdelf",
-    "name": "Vanilla Expanded Framework",
-    "steamId": "2023507013",
-    "version": "1.0.0.0"
   },
   {
     "author": "Oskar Potocki,  Sarg Bjornson and  Chowder",
@@ -208,12 +226,6 @@
     "name": "Xenohumans - Anthromorphs",
     "steamId": "2349467636",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Fluffy",
-    "name": "Blueprints",
-    "steamId": "708455313",
-    "version": "2.17.133"
   },
   {
     "author": "Beta",
@@ -576,9 +588,63 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Teok25",
+    "name": "Archotech Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Abraxas",
+    "name": "Medical System Expansion - Revived",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "OskarPotocki,  Atlas and  Kikohi",
+    "name": "Vanilla Furniture Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki,  Trunken and  Sarg Bjornson",
+    "name": "Vanilla Weapons Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Rick and Bert",
+    "name": "FCP Berts Fallout Armory!",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki,  dninemfive and  Kikohi",
+    "name": "Vanilla Furniture Expanded - Farming",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "OskarPotocki,  Atlas and  Kikohi",
+    "name": "Vanilla Furniture Expanded - Spacer Module",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "OskarPotocki,  Atlas and  Kikohi",
+    "name": "Vanilla Furniture Expanded - Medical Module",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and  Trunken",
+    "name": "Vanilla Furniture Expanded - Production",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "taranchuk",
     "name": "Archotech++",
-    "steamId": "2669831743",
+    "steamId": "2496279558",
     "version": "1.0.0.0"
   }
 ]
