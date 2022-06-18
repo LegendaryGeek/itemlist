@@ -531,7 +531,7 @@
     "author": "The White Crayon (Updated for 1.1 by Ogliss)",
     "name": "Quarry",
     "steamId": "2007576583",
-    "version": "1.0.0.0"
+    "version": "2.0.0"
   },
   {
     "author": "Teok25",
@@ -686,6 +686,42 @@
   {
     "author": "Daemon976",
     "name": "More Android Backstories",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "NotFood",
+    "name": "MendAndRecycle",
+    "steamId": "735241897",
+    "version": "1.0.1.0"
+  },
+  {
+    "author": "Mehni",
+    "name": "Pick Up And Haul",
+    "steamId": "1279012058",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Mooloh",
+    "name": "Mooloh's Mythic Framework",
+    "steamId": "2819828894",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "Kciroy5",
+    "name": "Umbreon Race mod",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "32232232",
+    "name": "MLP Mane 6 Hair",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "32232232",
+    "name": "MLP Hair Extra",
     "steamId": null,
     "version": null
   }

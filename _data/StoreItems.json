@@ -12224,7 +12224,7 @@
 	},
 	{
 		"abr": "maru",
-		"price": 5000,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Maru"
 	},
@@ -13889,7 +13889,55 @@
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_O21_Pokemon_Zubat"
+	},
+	{
+		"abr": "mendingkit",
+		"price": 17,
+		"category": "Manufactured",
+		"defname": "MendingKit"
+	},
+	{
+		"abr": "mendingworkbench",
+		"price": 583,
+		"category": "Production",
+		"defname": "TableMending"
+	},
+	{
+		"abr": "akoheadgear",
+		"price": 742,
+		"category": "Headgear",
+		"defname": "Ako_headgear"
+	},
+	{
+		"abr": "akouniform",
+		"price": 1083,
+		"category": "Apparel",
+		"defname": "Ako_uniform"
+	},
+	{
+		"abr": "bulletproofwaistcoat",
+		"price": 408,
+		"category": "Armor",
+		"defname": "Gunmar_Apparel_BpWaistcoat"
+	},
+	{
+		"abr": "hatshot",
+		"price": 425,
+		"category": "Ranged weapons",
+		"defname": "Hatshot"
+	},
+	{
+		"abr": "epicureandelight",
+		"price": 583,
+		"category": "Meals",
+		"defname": "MooMF_MealEpicurean"
+	},
+	{
+		"abr": "umbreon",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "K5_UmbreonRace"
 	}
 	],
-	"total": 2315
+	"total": 2323
 }
