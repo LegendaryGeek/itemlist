@@ -13937,7 +13937,37 @@
 		"price": 3333,
 		"category": "Animal",
 		"defname": "K5_UmbreonRace"
+	},
+	{
+		"abr": "lanchestermika.ver",
+		"price": 550,
+		"category": "Ranged weapons",
+		"defname": "Lanchester_mika_ver"
+	},
+	{
+		"abr": "mikaheadgear",
+		"price": 742,
+		"category": "Headgear",
+		"defname": "Mika_headgear"
+	},
+	{
+		"abr": "mikauniform",
+		"price": 1083,
+		"category": "Apparel",
+		"defname": "Mika_uniform"
+	},
+	{
+		"abr": "mythmaker",
+		"price": 16667,
+		"category": "Items",
+		"defname": "MooMF_MythMaker"
+	},
+	{
+		"abr": "technicalexchangebook",
+		"price": 42,
+		"category": "Manufactured",
+		"defname": "MR_Theory"
 	}
 	],
-	"total": 2323
+	"total": 2328
 }
