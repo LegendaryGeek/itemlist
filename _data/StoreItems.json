@@ -13967,7 +13967,103 @@
 		"price": 42,
 		"category": "Manufactured",
 		"defname": "MR_Theory"
+	},
+	{
+		"abr": "cleaver:crystallization",
+		"price": 1442,
+		"category": "Melee weapons",
+		"defname": "MR_C_ATT"
+	},
+	{
+		"abr": "cleaver:smoke",
+		"price": 1550,
+		"category": "Ranged weapons",
+		"defname": "MR_C_BTT"
+	},
+	{
+		"abr": "compoundbow",
+		"price": 500,
+		"category": "Ranged weapons",
+		"defname": "MR_CPB_OT"
+	},
+	{
+		"abr": "compoundbow:explosive",
+		"price": 1058,
+		"category": "Ranged weapons",
+		"defname": "MR_CPB_BOT"
+	},
+	{
+		"abr": "compoundbow:haze",
+		"price": 2825,
+		"category": "Ranged weapons",
+		"defname": "MR_CPB_ATT"
+	},
+	{
+		"abr": "compoundbow:highmass",
+		"price": 1058,
+		"category": "Ranged weapons",
+		"defname": "MR_CPB_AOT"
+	},
+	{
+		"abr": "compoundbow:propulsion",
+		"price": 2842,
+		"category": "Ranged weapons",
+		"defname": "MR_CPB_BTT"
+	},
+	{
+		"abr": "hussarjacket",
+		"price": 265,
+		"category": "Apparel",
+		"defname": "Gunmar_Apparel_Hussar_Jacket"
+	},
+	{
+		"abr": "metalsoldierhelmet",
+		"price": 250,
+		"category": "Headgear",
+		"defname": "Gunmar_Apparel_Metal_Helmet"
+	},
+	{
+		"abr": "orassangrenadelauncher",
+		"price": 2475,
+		"category": "Ranged weapons",
+		"defname": "Gun_OrassanGrenadeLauncher"
+	},
+	{
+		"abr": "ridinghabitdress",
+		"price": 342,
+		"category": "Apparel",
+		"defname": "Gunmar_Apparel_RidingHabit"
+	},
+	{
+		"abr": "uiheadgear",
+		"price": 742,
+		"category": "Headgear",
+		"defname": "Ui_headgear"
+	},
+	{
+		"abr": "uiuniform",
+		"price": 1083,
+		"category": "Apparel",
+		"defname": "Ui_uniform"
+	},
+	{
+		"abr": "volumesuppressor",
+		"price": 425,
+		"category": "Ranged weapons",
+		"defname": "Volume_suppressor"
+	},
+	{
+		"abr": "whalingharpoon:abduct",
+		"price": 1567,
+		"category": "Ranged weapons",
+		"defname": "MR_WH_ATT"
+	},
+	{
+		"abr": "whalingharpoon:externalanti-gravity",
+		"price": 1258,
+		"category": "Ranged weapons",
+		"defname": "MR_WH_BTT"
 	}
 	],
-	"total": 2328
+	"total": 2344
 }
