@@ -152,7 +152,7 @@
 
       ],
       "conflicts": [
-
+        "brony"
       ],
       "bypassLimit": false,
       "data": {
@@ -162,7 +162,7 @@
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
         "conflicts": [
-
+          "brony"
         ],
         "stats": [
 
@@ -912,7 +912,7 @@
 
       ],
       "conflicts": [
-
+        "brony"
       ],
       "bypassLimit": false,
       "data": {
@@ -922,7 +922,7 @@
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
         "conflicts": [
-
+          "brony"
         ],
         "stats": [
 
@@ -942,7 +942,7 @@
 
       ],
       "conflicts": [
-
+        "brony"
       ],
       "bypassLimit": false,
       "data": {
@@ -952,7 +952,7 @@
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
         "conflicts": [
-
+          "brony"
         ],
         "stats": [
 
@@ -7923,6 +7923,106 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0
+    },
+    {
+      "description": "Timmy has taken the lessons of My Little Pony: Friendship is Magic to heart; his social skills have improved, but he is against the idea of using violence.\n\nhe will never judge others based on their appearance, voice or breathing, and insults have no effect on him whatsoever.\n\nhe gets a mood bonus from equipping pony plushies, and has a positive attitude towards other bronies.",
+      "stats": [
+        "Berserk mental state disabled.",
+        "Binging on drug mental state disabled.",
+        "Binging on drug mental state disabled.",
+        "Insulting spree mental state disabled.",
+        "Murderous rage mental state disabled.",
+        "Sadistic rage mental state disabled.",
+        "Slaughterer mental state disabled.",
+        "Insulting spree mental state disabled.",
+        "+6 social"
+      ],
+      "conflicts": [
+        "abrasive",
+        "bloodlust",
+        "brawler",
+        "cannibal",
+        "misandrist",
+        "misogynist",
+        "chemicalfascination",
+        "chemicalinterest",
+        "teetotaler",
+        "psychopath",
+        "carefulshooter",
+        "trigger-happy",
+        "antibrony"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[MLP] My Little RimPony",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "abrasive",
+          "bloodlust",
+          "brawler",
+          "cannibal",
+          "misandrist",
+          "misogynist",
+          "chemicalfascination",
+          "chemicalinterest",
+          "teetotaler",
+          "psychopath",
+          "carefulshooter",
+          "trigger-happy",
+          "antibrony"
+        ],
+        "stats": [
+          "Berserk mental state disabled.",
+          "Binging on drug mental state disabled.",
+          "Binging on drug mental state disabled.",
+          "Insulting spree mental state disabled.",
+          "Murderous rage mental state disabled.",
+          "Sadistic rage mental state disabled.",
+          "Slaughterer mental state disabled.",
+          "Insulting spree mental state disabled.",
+          "+6 social"
+        ]
+      },
+      "defName": "MLRP_BronyTrait",
+      "name": "brony",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy can't understand why any sane adult would enjoy My Little Pony, and tends to dislike anyone who does.\n\nhe gets a mood loss from equipping pony plushies.",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "brony"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[MLP] My Little RimPony",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "brony"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "MLRP_AntiBronyTrait",
+      "name": "antibrony",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
     }
   ],
   "races": [
@@ -8984,6 +9084,41 @@
       "enabled": true,
       "name": "umbreon",
       "price": 3333
+    },
+    {
+      "data": {
+        "stats": [
+          "+30.00 Mass",
+          "+0% Flammability",
+          "+$2300 Market value",
+          "+3.00 Move speed",
+          "-10.0C Minimum comfortable temperature",
+          "+28.0C Maximum comfortable temperature",
+          "+300% Immunity gain speed",
+          "+50 Carrying capacity",
+          "+80.0% Armor - Sharp",
+          "+140.0% Armor - Blunt",
+          "+10.0% Armor - Heat",
+          "+20% Toxic sensitivity",
+          "+0 Meat amount",
+          "+95% Pain shock threshold",
+          "+70% Eating speed",
+          "+0 Leather amount",
+          "+0.2 Melee dodge chance",
+          "+75% Aiming time",
+          "+80.00% Negotiation ability",
+          "+100% Construction speed",
+          "+125.00% Social impact"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Were bred in the worlds of Glitter by crossbreeding a human female and a slime for lovemaking. But due to a rebellion of slime girls in one of the Glitter worlds, they fled to other worlds where Glitter's influence is low.",
+      "defName": "Alien_Mucus",
+      "enabled": true,
+      "name": "Humanoid slime",
+      "price": 3833
     }
   ]
 }

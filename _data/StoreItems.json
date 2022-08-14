@@ -10784,7 +10784,7 @@
 	},
 	{
 		"abr": "attomachinery",
-		"price": 500,
+		"price": 1500,
 		"category": "Textiles",
 		"defname": "Attomachinery"
 	},
@@ -11558,7 +11558,7 @@
 	},
 	{
 		"abr": "nanomachinery",
-		"price": 167,
+		"price": 501,
 		"category": "Textiles",
 		"defname": "Nanomachinery"
 	},
@@ -11612,7 +11612,7 @@
 	},
 	{
 		"abr": "picomachinery",
-		"price": 333,
+		"price": 996,
 		"category": "Textiles",
 		"defname": "Picomachinery"
 	},
@@ -13934,7 +13934,7 @@
 	},
 	{
 		"abr": "umbreon",
-		"price": 3333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "K5_UmbreonRace"
 	},
@@ -14063,7 +14063,337 @@
 		"price": 1258,
 		"category": "Ranged weapons",
 		"defname": "MR_WH_BTT"
+	},
+	{
+		"abr": "humanoidslime",
+		"price": 3833,
+		"category": "Animal",
+		"defname": "Alien_Mucus"
+	},
+	{
+		"abr": "humanoidslimemeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Alien_Mucus"
+	},
+	{
+		"abr": "shakohat",
+		"price": 207,
+		"category": "Headgear",
+		"defname": "Gunmar_Apparel_Shako_Hat"
+	},
+	{
+		"abr": "slouchhat",
+		"price": 175,
+		"category": "Headgear",
+		"defname": "Gunmar_Apparel_Slouch_Hat"
+	},
+	{
+		"abr": "applebloom",
+		"price": 333,
+		"category": "Plushies",
+		"defname": "PonyPlush_AppleBloom"
+	},
+	{
+		"abr": "applejack",
+		"price": 333,
+		"category": "Plushies",
+		"defname": "PonyPlush_Applejack"
+	},
+	{
+		"abr": "bigmacintosh",
+		"price": 333,
+		"category": "Plushies",
+		"defname": "PonyPlush_BigMacintosh"
+	},
+	{
+		"abr": "cheerilee",
+		"price": 333,
+		"category": "Plushies",
+		"defname": "PonyPlush_Cheerilee"
+	},
+	{
+		"abr": "crossbuck",
+		"price": 4,
+		"category": "Misc",
+		"defname": "5LCAT_DRP_Sign_C_Cross"
+	},
+	{
+		"abr": "cutiemarkcrusaders",
+		"price": 1250,
+		"category": "Plushies",
+		"defname": "PonyPlush_CutieMarkCrusaders"
+	},
+	{
+		"abr": "daringdo",
+		"price": 333,
+		"category": "Plushies",
+		"defname": "PonyPlush_DaringDo"
+	},
+	{
+		"abr": "decorativehandcar",
+		"price": 367,
+		"category": "Misc",
+		"defname": "5LCAT_DRP_Handcar"
+	},
+	{
+		"abr": "discord",
+		"price": 333,
+		"category": "Plushies",
+		"defname": "PonyPlush_Discord"
+	},
+	{
+		"abr": "discordlamp",
+		"price": 1000,
+		"category": "Furniture",
+		"defname": "MLRP_DiscordLamp"
+	},
+	{
+		"abr": "dualflasher",
+		"price": 44,
+		"category": "Misc",
+		"defname": "5LCAT_DRP_Sign_C_Dual_Flasher"
+	},
+	{
+		"abr": "elementsofharmony",
+		"price": 3333,
+		"category": "Plushies",
+		"defname": "MLRP_ElementsOfHarmony"
+	},
+	{
+		"abr": "flatcar",
+		"price": 550,
+		"category": "Misc",
+		"defname": "5LCAT_DRP_Flatcar"
+	},
+	{
+		"abr": "flatcarcargo(pipes)",
+		"price": 218,
+		"category": "Misc",
+		"defname": "5LCAT_DRP_Flatcar_C_Pipes"
+	},
+	{
+		"abr": "fluttershy",
+		"price": 333,
+		"category": "Plushies",
+		"defname": "PonyPlush_Fluttershy"
+	},
+	{
+		"abr": "frisco1503",
+		"price": 750,
+		"category": "Misc",
+		"defname": "5LCAT_DRP_Frisco_1503_Loco"
+	},
+	{
+		"abr": "frisco1503",
+		"price": 6383,
+		"category": "Buildings",
+		"defname": "SRTS_Trains_Steam_Engine_Frisco"
+	},
+	{
+		"abr": "handcar",
+		"price": 867,
+		"category": "Buildings",
+		"defname": "SRTS_Trains_Handcar"
+	},
+	{
+		"abr": "izzymoonbow",
+		"price": 333,
+		"category": "Plushies",
+		"defname": "PonyPlush_IzzyMoonbow"
+	},
+	{
+		"abr": "maudpie",
+		"price": 333,
+		"category": "Plushies",
+		"defname": "PonyPlush_MaudPie"
+	},
+	{
+		"abr": "mudbriar",
+		"price": 2458,
+		"category": "Security",
+		"defname": "MLRP_Mudbriar"
+	},
+	{
+		"abr": "nursehaywick",
+		"price": 333,
+		"category": "Plushies",
+		"defname": "PonyPlush_Haywick"
+	},
+	{
+		"abr": "nurseredheart",
+		"price": 2500,
+		"category": "Special",
+		"defname": "MLRP_NurseRedheart"
+	},
+	{
+		"abr": "orbitalfriendshipcannon",
+		"price": 2000,
+		"category": "Utility",
+		"defname": "MLRP_OFC_Weapon"
+	},
+	{
+		"abr": "pinkiepie",
+		"price": 333,
+		"category": "Plushies",
+		"defname": "PonyPlush_PinkiePie"
+	},
+	{
+		"abr": "plushiebench",
+		"price": 358,
+		"category": "Production",
+		"defname": "PlushieBench"
+	},
+	{
+		"abr": "poisonjokejoint",
+		"price": 18,
+		"category": "Drugs",
+		"defname": "MLRP_PoisonJokeJoint"
+	},
+	{
+		"abr": "poisonjokeleaves",
+		"price": 2,
+		"category": "Plant matter",
+		"defname": "MLRP_PoisonJokeLeaves"
+	},
+	{
+		"abr": "princesscadence",
+		"price": 333,
+		"category": "Plushies",
+		"defname": "PonyPlush_PrincessCadence"
+	},
+	{
+		"abr": "princesscelestia",
+		"price": 333,
+		"category": "Plushies",
+		"defname": "PonyPlush_PrincessCelestia"
+	},
+	{
+		"abr": "princessluna",
+		"price": 333,
+		"category": "Plushies",
+		"defname": "PonyPlush_PrincessLuna"
+	},
+	{
+		"abr": "quibblepants",
+		"price": 2575,
+		"category": "Security",
+		"defname": "MLRP_QuibblePants"
+	},
+	{
+		"abr": "rainbowdash",
+		"price": 333,
+		"category": "Plushies",
+		"defname": "PonyPlush_RainbowDash"
+	},
+	{
+		"abr": "rainbowlaser",
+		"price": 2500,
+		"category": "Ranged weapons",
+		"defname": "MLRP_ElementsOfHarmonyWeaponised"
+	},
+	{
+		"abr": "rarity",
+		"price": 333,
+		"category": "Plushies",
+		"defname": "PonyPlush_Rarity"
+	},
+	{
+		"abr": "scootaloo",
+		"price": 333,
+		"category": "Plushies",
+		"defname": "PonyPlush_Scootaloo"
+	},
+	{
+		"abr": "screwball",
+		"price": 1000,
+		"category": "Power",
+		"defname": "MLRP_ScrewballGenerator"
+	},
+	{
+		"abr": "shiningarmour",
+		"price": 333,
+		"category": "Plushies",
+		"defname": "PonyPlush_ShiningArmour"
+	},
+	{
+		"abr": "signpost",
+		"price": 35,
+		"category": "Misc",
+		"defname": "5LCAT_DRP_Signpost"
+	},
+	{
+		"abr": "starlightglimmer",
+		"price": 333,
+		"category": "Plushies",
+		"defname": "PonyPlush_StarlightGlimmer"
+	},
+	{
+		"abr": "statueofdaybreaker",
+		"price": 2875,
+		"category": "Production",
+		"defname": "MLRP_Daybreaker"
+	},
+	{
+		"abr": "statueofnightmaremoon",
+		"price": 2875,
+		"category": "Production",
+		"defname": "MLRP_NightmareMoon"
+	},
+	{
+		"abr": "steamlocomotive",
+		"price": 6383,
+		"category": "Buildings",
+		"defname": "SRTS_Trains_Steam_Engine_A"
+	},
+	{
+		"abr": "sweetiebelle",
+		"price": 333,
+		"category": "Plushies",
+		"defname": "PonyPlush_SweetieBelle"
+	},
+	{
+		"abr": "sweetiebot",
+		"price": 2542,
+		"category": "Security",
+		"defname": "MLRP_Turret_SweetieBot"
+	},
+	{
+		"abr": "tennisballlauncher",
+		"price": 967,
+		"category": "Ranged weapons",
+		"defname": "Izzy_SmokeLauncher"
+	},
+	{
+		"abr": "tripleflasher",
+		"price": 60,
+		"category": "Misc",
+		"defname": "5LCAT_DRP_Sign_C_Triple_Flasher"
+	},
+	{
+		"abr": "twilightsparkle",
+		"price": 333,
+		"category": "Plushies",
+		"defname": "PonyPlush_TwilightSparkle"
+	},
+	{
+		"abr": "ukflasher",
+		"price": 75,
+		"category": "Misc",
+		"defname": "5LCAT_DRP_Sign_C_UK_Flasher"
+	},
+	{
+		"abr": "wifethrower",
+		"price": 192,
+		"category": "Ranged weapons",
+		"defname": "MLRP_WifeThrower"
+	},
+	{
+		"abr": "zephyrbreeze",
+		"price": 2575,
+		"category": "Security",
+		"defname": "MLRP_ZephyrBreeze"
 	}
 	],
-	"total": 2344
+	"total": 2399
 }
