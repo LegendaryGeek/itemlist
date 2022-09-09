@@ -14393,7 +14393,91 @@
 		"price": 2575,
 		"category": "Security",
 		"defname": "MLRP_ZephyrBreeze"
+	},
+	{
+		"abr": "crossbuck",
+		"price": 4,
+		"category": "Misc",
+		"defname": "CAT_DRP_Sign_C_Cross"
+	},
+	{
+		"abr": "decorativefrisco1503",
+		"price": 750,
+		"category": "Misc",
+		"defname": "CAT_DRP_Frisco_1503_Loco"
+	},
+	{
+		"abr": "decorativehandcar",
+		"price": 367,
+		"category": "Misc",
+		"defname": "CAT_DRP_Handcar"
+	},
+	{
+		"abr": "dualflasher",
+		"price": 44,
+		"category": "Misc",
+		"defname": "CAT_DRP_Sign_C_Dual_Flasher"
+	},
+	{
+		"abr": "emdsd40-2",
+		"price": 8175,
+		"category": "Buildings",
+		"defname": "SRTS_Trains_Diesel_EMD_SD40_Loco"
+	},
+	{
+		"abr": "flatcar",
+		"price": 525,
+		"category": "Misc",
+		"defname": "CAT_DRP_Flatcar"
+	},
+	{
+		"abr": "flatcarcargo(pipes)",
+		"price": 218,
+		"category": "Misc",
+		"defname": "CAT_DRP_Flatcar_C_Pipes"
+	},
+	{
+		"abr": "frisco1503coalcar",
+		"price": 226,
+		"category": "Misc",
+		"defname": "CAT_DRP_Frisco_1503_Coal"
+	},
+	{
+		"abr": "signpost",
+		"price": 35,
+		"category": "Misc",
+		"defname": "CAT_DRP_Signpost"
+	},
+	{
+		"abr": "tripleflasher",
+		"price": 60,
+		"category": "Misc",
+		"defname": "CAT_DRP_Sign_C_Triple_Flasher"
+	},
+	{
+		"abr": "ukflasher",
+		"price": 75,
+		"category": "Misc",
+		"defname": "CAT_DRP_Sign_C_UK_Flasher"
+	},
+	{
+		"abr": "woodburningfrisco1503",
+		"price": 6383,
+		"category": "Buildings",
+		"defname": "SRTS_Trains_Steam_Engine_Frisco_Wood"
+	},
+	{
+		"abr": "woodburningsteamlocomotive",
+		"price": 6383,
+		"category": "Buildings",
+		"defname": "SRTS_Trains_Steam_Engine_A_Wood"
+	},
+	{
+		"abr": "decorativeemdsd40-2",
+		"price": 883,
+		"category": "Misc",
+		"defname": "CAT_DRP_EMD_SD40_Loco"
 	}
 	],
-	"total": 2399
+	"total": 2413
 }
