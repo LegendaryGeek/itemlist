@@ -27940,7 +27940,7 @@
     "KarmaType": null
   },
   "FCP_Gun_44_Magnum_Revolver": {
-    "CustomName": null,
+    "CustomName": "44magnumrevolver",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": true,
