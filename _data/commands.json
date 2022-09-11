@@ -318,7 +318,7 @@
     },
     "description": null,
     "name": "All commands",
-    "usage": "!allcommands",
+    "usage": "!commands",
     "userLevel": "Anyone",
     "shortcut": false,
     "defName": "AvailableCommands"
