@@ -1,30 +1,36 @@
-﻿[
+[
   {
     "author": "Andreas Pardeike",
     "name": "Harmony",
     "steamId": "2009463077",
-    "version": "1.4.0.0"
+    "version": "1.5.0.0"
+  },
+  {
+    "author": "legodude17 and Oskar Potocki",
+    "name": "Vanilla Backgrounds Expanded",
+    "steamId": "2775017012",
+    "version": "1.0.0.0"
   },
   {
     "author": "UnlimitedHugs",
     "name": "HugsLib",
     "steamId": "818773962",
-    "version": "9.0.1"
+    "version": "10.0.1"
   },
   {
     "author": "jecrell and contributors",
     "name": "JecsTools",
     "steamId": "932008009",
-    "version": "1.3.0.4"
+    "version": "1.4.1.1"
   },
   {
     "author": "mr_chimick",
     "name": "Block Unwanted Minutiae",
     "steamId": "2266225921",
-    "version": "2.8"
+    "version": "3.2"
   },
   {
-    "author": "Oskar Potocki,  XeoNovaDan,  Orion,  Kikohi,  Taranchuk,  Sarg Bjornson and  Erdelf",
+    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
     "name": "Vanilla Expanded Framework",
     "steamId": "2023507013",
     "version": "1.0.0.0"
@@ -36,10 +42,10 @@
     "version": "2.17.133"
   },
   {
-    "author": "legodude17 and  Oskar Potocki",
+    "author": "legodude17 and Oskar Potocki",
     "name": "Vanilla UI Expanded",
-    "steamId": "2749945924",
-    "version": "1.0.0.0"
+    "steamId": null,
+    "version": null
   },
   {
     "author": "AUTOMATIC",
@@ -48,28 +54,28 @@
     "version": null
   },
   {
-    "author": "bradson",
-    "name": "HD Pawn Rendering",
-    "steamId": "2538746878",
-    "version": "1.0.0"
-  },
-  {
-    "author": "Alias, Gewen and Swenzi",
-    "name": "Additional Traits (Heroes + Gods Optional)",
-    "steamId": "1621571024",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "erdelf",
     "name": "Humanoid Alien Races",
     "steamId": "839005762",
     "version": "1.0.0.0"
   },
   {
+    "author": "bradson",
+    "name": "HD Pawn Rendering",
+    "steamId": "2538746878",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Gewen and Swenzi",
+    "name": "Additional Traits (Heroes + Gods Optional)",
+    "steamId": "1621571024",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Gouda quiche",
     "name": "MoHAR framework",
     "steamId": "2057001924",
-    "version": "1.0.7875.31864"
+    "version": "1.0.8331.27653"
   },
   {
     "author": "VAMV",
@@ -84,13 +90,13 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki,  Sarg Bjornson and  Chowder",
+    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
     "name": "Vanilla Brewing Expanded",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Sarg Bjornson,  Chowder and  Trahspanda",
+    "author": "Sarg Bjornson, Chowder and Trahspanda",
     "name": "Vanilla Brewing Expanded - Coffees and Teas",
     "steamId": null,
     "version": null
@@ -117,7 +123,7 @@
     "author": "Little White Mouse",
     "name": "LWM's Deep Storage",
     "steamId": "1617282896",
-    "version": "1.3.0.1"
+    "version": "1.4.1.1"
   },
   {
     "author": "JangoD'soul",
@@ -127,25 +133,25 @@
   },
   {
     "author": "Dubwise",
-    "name": "Dubs Paint Shop",
+    "name": "Dub's Paint Shop",
     "steamId": "1579516669",
     "version": "1.1.7359"
   },
   {
     "author": "Falconne",
     "name": "Better Workbench Management",
-    "steamId": "935982361",
-    "version": "0.5.0.0"
+    "steamId": null,
+    "version": null
   },
   {
-    "author": "Oskar Potocki,  Kikohi and  Helixien",
+    "author": "Oskar Potocki, Kikohi and Helixien",
     "name": "Vanilla Events Expanded",
     "steamId": "1938420742",
     "version": "1.1.0"
   },
   {
     "author": "Yanzihko",
-    "name": "Sylveon - Fairy Pokemon! [1.3]",
+    "name": "Sylveon - Fairy Pokemon [1.4]",
     "steamId": null,
     "version": null
   },
@@ -169,13 +175,13 @@
   },
   {
     "author": "Yanzihko",
-    "name": "Lombax - Desert Warriors [1.3]",
+    "name": "Lombax - Desert Warriors [1.4]",
     "steamId": null,
     "version": null
   },
   {
     "author": "Yanzihko",
-    "name": "Vulpes - Adorable Foxes! [1.3]",
+    "name": "Vulpes - Adorable Foxes [1.4]",
     "steamId": null,
     "version": null
   },
@@ -186,7 +192,7 @@
     "version": null
   },
   {
-    "author": "AveryTheKitty,  Erin and Ravenholme",
+    "author": "AveryTheKitty, Erin and Ravenholme",
     "name": "Xenohumans - Anthromorphs",
     "steamId": "2349467636",
     "version": "1.0.0.0"
@@ -198,13 +204,13 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki and  Smash Phil",
+    "author": "Oskar Potocki and Smash Phil",
     "name": "Vanilla Achievements Expanded",
     "steamId": "2288125657",
-    "version": "1.3.7862.41411"
+    "version": "1.4.8315.17730"
   },
   {
-    "author": "Sarg,  erdelf,  Oskar Potocki,  Luizi and  Reann Shepard",
+    "author": "Sarg, erdelf, Oskar Potocki, Luizi and Reann Shepard",
     "name": "Vanilla Genetics Expanded",
     "steamId": "2801160906",
     "version": "1.0.0.0"
@@ -246,7 +252,7 @@
     "version": null
   },
   {
-    "author": "ISOREX and  2ScoopsPlz",
+    "author": "ISOREX and 2ScoopsPlz",
     "name": "Fallout New Vegas - Elite Riot Gear",
     "steamId": null,
     "version": null
@@ -258,7 +264,7 @@
     "version": null
   },
   {
-    "author": "Scorpio and  Taranchuk",
+    "author": "Scorpio and Taranchuk",
     "name": "Resource Dictionary",
     "steamId": "2817607528",
     "version": "1.0.0.0"
@@ -266,12 +272,6 @@
   {
     "author": "MyLegsAreOkay",
     "name": "Cyberpunk2077_Weapons",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Danadriel",
-    "name": "Sailpunk Airships",
     "steamId": null,
     "version": null
   },
@@ -290,12 +290,6 @@
   {
     "author": "Rick",
     "name": "FCP Fallout Sniper Rifles!",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Grandyy",
-    "name": "Destiny 2 Weapon Package - Hand Cannon",
     "steamId": null,
     "version": null
   },
@@ -432,7 +426,7 @@
     "version": null
   },
   {
-    "author": "Kitsune and  Rick G.",
+    "author": "Kitsune and Rick G.",
     "name": "FCP Fallout Plants",
     "steamId": null,
     "version": null
@@ -492,10 +486,10 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki and  Sarg Bjornson",
+    "author": "Oskar Potocki and Sarg Bjornson",
     "name": "Vanilla Furniture Expanded - Power",
-    "steamId": "2062943477",
-    "version": "1.0.0.0"
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Evil Tactician",
@@ -511,7 +505,7 @@
   },
   {
     "author": "DaLLaN",
-    "name": "Cyber Fauna 1.3",
+    "name": "Cyber Fauna 1.4",
     "steamId": "1548649032",
     "version": "1.0.0.0"
   },
@@ -552,13 +546,13 @@
     "version": null
   },
   {
-    "author": "OskarPotocki,  Atlas and  Kikohi",
+    "author": "OskarPotocki, Atlas and Kikohi",
     "name": "Vanilla Furniture Expanded",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Oskar Potocki,  Trunken and  Sarg Bjornson",
+    "author": "Oskar Potocki, Trunken and Sarg Bjornson",
     "name": "Vanilla Weapons Expanded",
     "steamId": null,
     "version": null
@@ -570,25 +564,25 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki,  dninemfive and  Kikohi",
+    "author": "Oskar Potocki, dninemfive and Kikohi",
     "name": "Vanilla Furniture Expanded - Farming",
     "steamId": null,
     "version": null
   },
   {
-    "author": "OskarPotocki,  Atlas and  Kikohi",
+    "author": "OskarPotocki, Atlas and Kikohi",
     "name": "Vanilla Furniture Expanded - Spacer Module",
     "steamId": null,
     "version": null
   },
   {
-    "author": "OskarPotocki,  Atlas and  Kikohi",
+    "author": "OskarPotocki, Atlas and Kikohi",
     "name": "Vanilla Furniture Expanded - Medical Module",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Oskar Potocki and  Trunken",
+    "author": "Oskar Potocki and Trunken",
     "name": "Vanilla Furniture Expanded - Production",
     "steamId": null,
     "version": null
@@ -603,13 +597,13 @@
     "author": "Rainbeau Flambe / Zombie_Striker",
     "name": "Rational Romance 2 (Continued)",
     "steamId": "2593521827",
-    "version": "1.3.1"
+    "version": "1.4.1"
   },
   {
     "author": "Andreas Pardeike",
     "name": "Camera+",
     "steamId": "867467808",
-    "version": "2.3.2.0"
+    "version": "2.5.2.0"
   },
   {
     "author": "Zylle",
@@ -657,7 +651,7 @@
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "6.2.1.2"
+    "version": "6.3.0.0.biotech.b6"
   },
   {
     "author": "SirRandoo",
@@ -753,13 +747,25 @@
     "author": "Imranfish",
     "name": "XML Extensions",
     "steamId": "2574315206",
-    "version": "1.6.6"
+    "version": "1.7.0"
   },
   {
     "author": "OdysseyLotus",
     "name": "Male Maru",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Ed86",
+    "name": "RimJobWorld",
+    "steamId": "",
+    "version": "5.3.0.10"
+  },
+  {
+    "author": "Y-Adaptor",
+    "name": "RimNudeWorld",
+    "steamId": "",
+    "version": "2.2.12.1"
   },
   {
     "author": "Akiya82",
@@ -774,6 +780,12 @@
     "version": null
   },
   {
+    "author": "Smash Phil and Neceros",
+    "name": "SRTS Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "PrinceOfPluto",
     "name": "SRTS Trains",
     "steamId": null,
@@ -782,8 +794,8 @@
   {
     "author": "Owlchemist",
     "name": "Perspective: Buildings",
-    "steamId": "2594383552",
-    "version": "2.2"
+    "steamId": null,
+    "version": null
   },
   {
     "author": "GeodesicDragon",
@@ -794,13 +806,91 @@
   {
     "author": "Captain Muscles (Nathan Harbour)",
     "name": "Callouts",
-    "steamId": "2362736503",
-    "version": "1.2.1"
+    "steamId": null,
+    "version": null
   },
   {
-    "author": "legodudee17 and  Oskar Potocki",
-    "name": "Vanilla Backgrounds Expanded",
-    "steamId": "2775017012",
+    "author": "LimeTreeSnake",
+    "name": "[LTS]Systems",
+    "steamId": "2812826451",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "LimeTreeSnake",
+    "name": "[LTS]Tenants",
+    "steamId": "2850306027",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Grandyy",
+    "name": "Destiny 2 Weapon Package - Hand Cannon",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "OTYOTY",
+    "name": "OTY RJW Symbols",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Nabber",
+    "name": "RimVore-2",
+    "steamId": "",
+    "version": "1.9.3.2"
+  },
+  {
+    "author": "C0ffee",
+    "name": "Rimworld-Animations",
+    "steamId": "",
+    "version": "1.3.2"
+  },
+  {
+    "author": "Tory187",
+    "name": "RJWAnimAddons-VoicePatch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Tory187",
+    "name": "RJWAnimAddons-XtraAnims",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Danadriel",
+    "name": "Sailpunk Airships",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Soviet Rabotyaga",
+    "name": "RimPonk",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "JME, Caaz, Odeum, Pphhyy the great and Zylle",
+    "name": "Music Expanded Framework",
+    "steamId": "2891663812",
+    "version": "1.0.1.0"
+  },
+  {
+    "author": "JME, Caaz, Odeum, Pphhyy the great and Zylle",
+    "name": "Music Expanded Core",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Erin",
+    "name": "Erin's Hairstyles 2",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Vaniat",
+    "name": "Bulk Carrier",
+    "steamId": "1428989232",
+    "version": "1.3.1241.102"
   }
 ]
