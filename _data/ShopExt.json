@@ -2052,28 +2052,6 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Enjoys wearing fursuits.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "[TP]Fursuits",
-        "karmaTypeForAdding": null
-      },
-      "defName": "TRAHS_FursuiterTrait",
-      "name": "fursuiter"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
       "description": "Timmy is a Vulpian, and he is absolutely adorable, as expected from gene-engineered servitor. Even animals are attracted by his adorable appearence. Even plants start to bloom around Timmy!",
       "stats": [
         "+5 social",
@@ -2102,7 +2080,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Yanzihko Races - Rebalance Submod [1.3]",
+        "mod": "Vulpes - Adorable Foxes [1.4]",
         "karmaTypeForAdding": null
       },
       "defName": "VAF_Vulpian",
@@ -2114,7 +2092,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy is a Lombax. he has an incredible natural inclination towards Crafting, Engineering and Combat just like other representatives of his species. But due to natural inclination of Lombaxes to solve all problems with brute force, Timmy is not very good in \"Social\" things.",
+      "description": "Timmy is a lombax. he has an incredible natural inclination towards crafting, engineering and combat just like other representatives of his species.",
       "stats": [
         "+5 shooting",
         "+5 melee",
@@ -2140,341 +2118,11 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Yanzihko Races - Rebalance Submod [1.3]",
+        "mod": "Lombax - Desert Warriors [1.4]",
         "karmaTypeForAdding": null
       },
       "defName": "LDW_Lombax",
       "name": "lombax"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy is a Braixen. Timmy has an incredible natural inclination towards psionics and manipulation of life essence. he can easily read emotions of humans, animals and even plants.",
-      "stats": [
-        "+5 social",
-        "+3 animals",
-        "+3 plants",
-        "+25.00% train animal chance",
-        "+25.00% tame animal chance",
-        "+50.00% trade price improvement",
-        "+50.00% social impact"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+5 social",
-          "+3 animals",
-          "+3 plants",
-          "+25.00% train animal chance",
-          "+25.00% tame animal chance",
-          "+50.00% trade price improvement",
-          "+50.00% social impact"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Yanzihko Races - Rebalance Submod [1.3]",
-        "karmaTypeForAdding": null
-      },
-      "defName": "BDFP_Braixen",
-      "name": "braixen"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy is a Delphox. Timmy is a powerful psychic and is inclined towards manipulation of life essence. he can easily read emotions of humans, animals and even plants.",
-      "stats": [
-        "+5 social",
-        "+3 animals",
-        "+3 plants",
-        "+25.00% train animal chance",
-        "+25.00% tame animal chance",
-        "+50.00% trade price improvement",
-        "+50.00% social impact"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+5 social",
-          "+3 animals",
-          "+3 plants",
-          "+25.00% train animal chance",
-          "+25.00% tame animal chance",
-          "+50.00% trade price improvement",
-          "+50.00% social impact"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Yanzihko Races - Rebalance Submod [1.3]",
-        "karmaTypeForAdding": null
-      },
-      "defName": "BDFP_Delphox",
-      "name": "delphox"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy is a Kisalfar. While Kisalfar are \"inferior\" compared to Fressalfar in terms of intelligence, they're incredibly good in \"social\" things and negotiations.",
-      "stats": [
-        "+5 social",
-        "+3 animals",
-        "+3 plants",
-        "+50.00% trade price improvement",
-        "+50.00% social impact"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+5 social",
-          "+3 animals",
-          "+3 plants",
-          "+50.00% trade price improvement",
-          "+50.00% social impact"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Yanzihko Races - Rebalance Submod [1.3]",
-        "karmaTypeForAdding": null
-      },
-      "defName": "KFLS_Kisalfar",
-      "name": "kisalfar"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy is a Fressalfar. Timmy is just like a Thrumbo that is hidden in his DNA - Highly Intelligent and not really Social. It is very hard to approach him and start a conversation.",
-      "stats": [
-        "+5 intellectual",
-        "+3 crafting",
-        "-5 social",
-        "-25.00% trade price improvement",
-        "-25.00% social impact"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+5 intellectual",
-          "+3 crafting",
-          "-5 social",
-          "-25.00% trade price improvement",
-          "-25.00% social impact"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Yanzihko Races - Rebalance Submod [1.3]",
-        "karmaTypeForAdding": null
-      },
-      "defName": "KFLS_Fressalfar",
-      "name": "fressalfar"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy is a Cheetah. Timmy is a great runner with a sharp sight. However, just like most Feline species, he is not a very Social being.",
-      "stats": [
-        "+5 shooting",
-        "+3 animals",
-        "-5 social",
-        "+0.3 melee dodge chance",
-        "+0.3 shooting accuracy",
-        "-25.00% trade price improvement",
-        "-25.00% social impact"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+5 shooting",
-          "+3 animals",
-          "-5 social",
-          "+0.3 melee dodge chance",
-          "+0.3 shooting accuracy",
-          "-25.00% trade price improvement",
-          "-25.00% social impact"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Yanzihko Races - Rebalance Submod [1.3]",
-        "karmaTypeForAdding": null
-      },
-      "defName": "FFR_Cheetah",
-      "name": "cheetah"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy is a Leo. Timmy is a great natural predator with sharp sight and is rather Social, compared to other Feline species.",
-      "stats": [
-        "+3 melee",
-        "+3 animals",
-        "+2 shooting",
-        "+2 social",
-        "+0.3 shooting accuracy"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+3 melee",
-          "+3 animals",
-          "+2 shooting",
-          "+2 social",
-          "+0.3 shooting accuracy"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Yanzihko Races - Rebalance Submod [1.3]",
-        "karmaTypeForAdding": null
-      },
-      "defName": "FFR_Leo",
-      "name": "leo"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy is a Jaguar. Timmy is a great natural predator with sharp sight. However, just like most Feline species, he is not a very Social being.",
-      "stats": [
-        "+3 melee",
-        "+3 animals",
-        "+2 shooting",
-        "-5 social",
-        "+0.3 shooting accuracy",
-        "-25.00% trade price improvement",
-        "-25.00% social impact"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+3 melee",
-          "+3 animals",
-          "+2 shooting",
-          "-5 social",
-          "+0.3 shooting accuracy",
-          "-25.00% trade price improvement",
-          "-25.00% social impact"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Yanzihko Races - Rebalance Submod [1.3]",
-        "karmaTypeForAdding": null
-      },
-      "defName": "FFR_Jaguar",
-      "name": "jaguar"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy is a Panther. Timmy is a great natural predator with sharp sight. However, just like most Feline species, he is not a very Social being.",
-      "stats": [
-        "+3 melee",
-        "+3 animals",
-        "+2 shooting",
-        "-5 social",
-        "+0.3 shooting accuracy",
-        "-25.00% trade price improvement",
-        "-25.00% social impact"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+3 melee",
-          "+3 animals",
-          "+2 shooting",
-          "-5 social",
-          "+0.3 shooting accuracy",
-          "-25.00% trade price improvement",
-          "-25.00% social impact"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Yanzihko Races - Rebalance Submod [1.3]",
-        "karmaTypeForAdding": null
-      },
-      "defName": "FFR_Panther",
-      "name": "panther"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy is a Tigris. Timmy is a great natural predator with sharp sight. However, just like most Feline species, he is not a very Social being.",
-      "stats": [
-        "+3 melee",
-        "+3 animals",
-        "+2 shooting",
-        "-5 social",
-        "+0.3 shooting accuracy",
-        "-25.00% trade price improvement",
-        "-25.00% social impact"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+3 melee",
-          "+3 animals",
-          "+2 shooting",
-          "-5 social",
-          "+0.3 shooting accuracy",
-          "-25.00% trade price improvement",
-          "-25.00% social impact"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Yanzihko Races - Rebalance Submod [1.3]",
-        "karmaTypeForAdding": null
-      },
-      "defName": "FFR_Tigris",
-      "name": "tigris"
     },
     {
       "canAdd": true,
@@ -2504,7 +2152,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Yanzihko Races - Rebalance Submod [1.3]",
+        "mod": "Sylveon - Fairy Pokemon [1.4]",
         "karmaTypeForAdding": null
       },
       "defName": "SFP_Sylveon",
@@ -6878,44 +6526,6 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy is the descendant of a designer mate. Though most of his ancestral traits are diluted, he is still extremely beautiful and cheerful.",
-      "stats": [
-        "+3.0 beauty"
-      ],
-      "conflicts": [
-        "beautiful",
-        "pretty",
-        "ugly",
-        "staggeringlyugly",
-        "jealous"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "beautiful",
-          "pretty",
-          "ugly",
-          "staggeringlyugly",
-          "jealous"
-        ],
-        "stats": [
-          "+3.0 beauty"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Xenohumans - Anthromorphs",
-        "karmaTypeForAdding": null
-      },
-      "defName": "ATK_DesignerMate",
-      "name": "designerheritage"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
       "description": "Timmy is the Maru. They feel the warmth, remind themselves that they are alive, and clear their minds.",
       "stats": [
         "Flame meditation focus type allowed."
@@ -7421,202 +7031,6 @@
       },
       "defName": "MLRP_AntiBronyTrait",
       "name": "antibrony"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy doesn't take \"No\" as an answer.",
-      "stats": [
-        "+10.00% sex drive"
-      ],
-      "conflicts": [
-        "kind"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "kind"
-        ],
-        "stats": [
-          "+10.00% sex drive"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "RimJobWorld",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Rapist",
-      "name": "rapist"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Dead people can't say no, can they?",
-      "stats": [
-        "+10.00% sex drive"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+10.00% sex drive"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "RimJobWorld",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Necrophiliac",
-      "name": "necrophiliac"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy likes to walk on the wild side.",
-      "stats": [
-        "+10.00% sex drive"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+10.00% sex drive"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "RimJobWorld",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Zoophile",
-      "name": "zoophile"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy loves sex and always wants more. Can regain psyfocus only through sex.",
-      "stats": [
-        "+10.00% vulnerability",
-        "+200.00% sex drive"
-      ],
-      "conflicts": [
-        "misandrist",
-        "misogynist",
-        "faithful"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "misandrist",
-          "misogynist",
-          "faithful"
-        ],
-        "stats": [
-          "+10.00% vulnerability",
-          "+200.00% sex drive"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "RimJobWorld",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Nymphomaniac",
-      "name": "hypersexuality"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy really likes feet and prefers sex acts involving them.",
-      "stats": [
-        "+10.00% vulnerability"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+10.00% vulnerability"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "RimJobWorld",
-        "karmaTypeForAdding": null
-      },
-      "defName": "FootSlut",
-      "name": "footslut"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy really likes cum and prefers fellatio sex acts.",
-      "stats": [
-        "+10.00% vulnerability"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+10.00% vulnerability"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "RimJobWorld",
-        "karmaTypeForAdding": null
-      },
-      "defName": "CumSlut",
-      "name": "cumslut"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy really likes getting fucked in the butt and prefers anal sex acts.",
-      "stats": [
-        "+10.00% vulnerability"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+10.00% vulnerability"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "RimJobWorld",
-        "karmaTypeForAdding": null
-      },
-      "defName": "ButtSlut",
-      "name": "buttslut"
     },
     {
       "canAdd": true,
@@ -8185,6 +7599,62 @@
       },
       "defName": "Recluse",
       "name": "recluse"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is a Vaporeon, and he is absolutely adorable, despite having such exotic appearance. Vaporeons, due to their aquatic origin and natural ascetism, tend to be in tune with nature, making them wonderful farmers.",
+      "stats": [
+        "+5 social",
+        "+5 plants",
+        "+5 animals",
+        "+50.00% trade price improvement",
+        "+50.00% social impact"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+5 social",
+          "+5 plants",
+          "+5 animals",
+          "+50.00% trade price improvement",
+          "+50.00% social impact"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vaporeon - Water Pokemon! [1.4]",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VWP_Vaporeon",
+      "name": "vaporeon"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Either the body or mind of Timmy is one of insight and experience. While some find them old fashioned, others will respect their guidance.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Ideology Expanded - Memes and Structures",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VME_Elder",
+      "name": "elder"
     }
   ],
   "races": [
@@ -8250,330 +7720,6 @@
       "data": {
         "customName": false,
         "stats": [
-          "+40.00 Mass",
-          "+0% Flammability",
-          "+1.0 Beauty",
-          "+50 Carrying capacity",
-          "+80% Pain shock threshold",
-          "+$2600 Market value",
-          "+5.00 Move speed",
-          "+160% Immunity gain speed",
-          "-30.0C Minimum comfortable temperature",
-          "+80.0C Maximum comfortable temperature",
-          "+35 Leather amount",
-          "+50 Meat amount",
-          "+100% Research speed",
-          "+140% Global learning factor",
-          "+160% Psychic sensitivity",
-          "+50% Mining speed",
-          "+120.00% Social impact",
-          "+70% Construction speed",
-          "+130% Animal gather speed",
-          "+130% Animal gather yield",
-          "+4.0 Shooting accuracy",
-          "+200.0% Armor - Heat"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "A small, bipedal, Fox-like humanoid that has a natural affinity to fire and psychic capabilities. It's unknown what kind of gene-engineering magic the Glitterworld that originally produced them used, but their bodies have almost a complete resistance to fire and high temperatures. These creatures are able to consciously regulate temperature of their bodies. Before collapse of it's original solar system, this species was mainly used as domestic servants, entertainers, or just a beauteful and kind friend to have around.",
-      "defName": "Braixen",
-      "enabled": true,
-      "name": "Braixen",
-      "price": 4333
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+60.00 Mass",
-          "+0% Flammability",
-          "+1.0 Beauty",
-          "+50 Carrying capacity",
-          "+80% Pain shock threshold",
-          "+$3000 Market value",
-          "+4.60 Move speed",
-          "+160% Immunity gain speed",
-          "-40.0C Minimum comfortable temperature",
-          "+100.0C Maximum comfortable temperature",
-          "+45 Leather amount",
-          "+60 Meat amount",
-          "+110% Research speed",
-          "+150% Global learning factor",
-          "+160% Psychic sensitivity",
-          "+50% Mining speed",
-          "+120.00% Social impact",
-          "+60% Construction speed",
-          "+130% Animal gather speed",
-          "+130% Animal gather yield",
-          "+4.0 Shooting accuracy",
-          "+200.0% Armor - Heat"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "A medium-sized, bipedal, Fox-like humanoid that has a natural affinity to fire and psychic capabilities. Related to Braixen and can be considered as a more \"mature\" version of it from standpoint of whoever originally designed them. It's unknown what kind of gene-engineering magic the Glitterworld that originally produced them used, but their bodies have almost a complete resistance to fire and high temperatures. These creatures are able to consciously regulate temperature of their bodies. Before collapse of it's original solar system, this species was mainly used as domestic servants, entertainers, or just a beauteful and kind friend to have around.",
-      "defName": "Delphox",
-      "enabled": true,
-      "name": "Delphox",
-      "price": 5000
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+50.00 Mass",
-          "+70% Flammability",
-          "+1.0 Beauty",
-          "+75 Carrying capacity",
-          "+80% Pain shock threshold",
-          "+$2000 Market value",
-          "+9.00 Move speed",
-          "+95% Immunity gain speed",
-          "+20.0C Minimum comfortable temperature",
-          "+40.0C Maximum comfortable temperature",
-          "+75 Leather amount",
-          "+140 Meat amount",
-          "+100% Global work speed",
-          "+110% Research speed",
-          "+110% Global learning factor",
-          "+100% Psychic sensitivity",
-          "+50% Mining speed",
-          "+90.00% Social impact",
-          "+50% Construction speed",
-          "+100% Animal gather speed",
-          "+100% Animal gather yield",
-          "+2.0 Shooting accuracy"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "Feles is a group of genetically-engineered species representing some of the most popular feline species from planet Earth. Cheetah are perhaps one of the fastest Felines with an instant reaction. They literally dance around an opponent in melee fight and even dodge bullets if lucky enough. Cheetah are one of the most intelligent felines and are more social, compared to most felines.",
-      "defName": "YanzihkoCheetah",
-      "enabled": true,
-      "name": "Cheetah",
-      "price": 3333
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+50.00 Mass",
-          "+70% Flammability",
-          "+1.0 Beauty",
-          "+75 Carrying capacity",
-          "+100% Pain shock threshold",
-          "+$1750 Market value",
-          "+6.00 Move speed",
-          "+100% Immunity gain speed",
-          "+20.0C Minimum comfortable temperature",
-          "+36.0C Maximum comfortable temperature",
-          "+75 Leather amount",
-          "+140 Meat amount",
-          "+100% Global work speed",
-          "+100% Research speed",
-          "+100% Global learning factor",
-          "+100% Psychic sensitivity",
-          "+100% Mining speed",
-          "+90.00% Social impact",
-          "+100% Construction speed",
-          "+100% Animal gather speed",
-          "+100% Animal gather yield",
-          "+1.1 Shooting accuracy"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "Feles is a group of genetically-engineered species representing some of the most popular feline species from planet Earth. Jaguars are perhaps one of the strongest and toughest Felines. You shouldn't understimate them despite their size. They are not a very social beings and tend to spend their free time alone.",
-      "defName": "YanzihkoJaguar",
-      "enabled": true,
-      "name": "Jaguar",
-      "price": 2917
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+50.00 Mass",
-          "+70% Flammability",
-          "+1.0 Beauty",
-          "+75 Carrying capacity",
-          "+100% Pain shock threshold",
-          "+$1750 Market value",
-          "+6.00 Move speed",
-          "+100% Immunity gain speed",
-          "+20.0C Minimum comfortable temperature",
-          "+36.0C Maximum comfortable temperature",
-          "+75 Leather amount",
-          "+140 Meat amount",
-          "+100% Global work speed",
-          "+100% Research speed",
-          "+100% Global learning factor",
-          "+100% Psychic sensitivity",
-          "+100% Mining speed",
-          "+110.00% Social impact",
-          "+100% Construction speed",
-          "+100% Animal gather speed",
-          "+100% Animal gather yield",
-          "+1.1 Shooting accuracy"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "Feles is a group of genetically-engineered species representing some of the most popular feline species from planet Earth. Leo, unlike other Felines, are very social beings and feel themselves confident in all kinds of discussions.",
-      "defName": "YanzihkoLeo",
-      "enabled": true,
-      "name": "Leo",
-      "price": 2917
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+50.00 Mass",
-          "+70% Flammability",
-          "+1.0 Beauty",
-          "+75 Carrying capacity",
-          "+100% Pain shock threshold",
-          "+$1750 Market value",
-          "+6.00 Move speed",
-          "+100% Immunity gain speed",
-          "+20.0C Minimum comfortable temperature",
-          "+36.0C Maximum comfortable temperature",
-          "+75 Leather amount",
-          "+140 Meat amount",
-          "+100% Global work speed",
-          "+100% Research speed",
-          "+100% Global learning factor",
-          "+100% Psychic sensitivity",
-          "+100% Mining speed",
-          "+90.00% Social impact",
-          "+100% Construction speed",
-          "+100% Animal gather speed",
-          "+100% Animal gather yield",
-          "+1.1 Shooting accuracy"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "Feles is a group of genetically-engineered species representing some of the most popular feline species from planet Earth. Panthers do not have any special features compared to other felines, expect their dark black fur. They are not a very social beings and tend to spend their free time alone.",
-      "defName": "YanzihkoPanther",
-      "enabled": true,
-      "name": "Panther",
-      "price": 2917
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+50.00 Mass",
-          "+70% Flammability",
-          "+1.0 Beauty",
-          "+75 Carrying capacity",
-          "+100% Pain shock threshold",
-          "+$1750 Market value",
-          "+6.00 Move speed",
-          "+100% Immunity gain speed",
-          "+10.0C Minimum comfortable temperature",
-          "+30.0C Maximum comfortable temperature",
-          "+75 Leather amount",
-          "+140 Meat amount",
-          "+100% Global work speed",
-          "+100% Research speed",
-          "+100% Global learning factor",
-          "+100% Psychic sensitivity",
-          "+100% Mining speed",
-          "+90.00% Social impact",
-          "+100% Construction speed",
-          "+100% Animal gather speed",
-          "+100% Animal gather yield",
-          "+1.1 Shooting accuracy"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "Feles is a group of genetically-engineered species representing some of the most popular feline species from planet Earth. Tigris are perhaps one of the strongest and toughest Felines. You shouldn't understimate them despite their size. They are not a very social beings and tend to spend their free time alone.",
-      "defName": "YanzihkoTigris",
-      "enabled": true,
-      "name": "Tigris",
-      "price": 2917
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+55.00 Mass",
-          "+70% Flammability",
-          "+2.0 Beauty",
-          "+75 Carrying capacity",
-          "+110% Pain shock threshold",
-          "+$3000 Market value",
-          "+7.00 Move speed",
-          "+110% Immunity gain speed",
-          "+10.0C Minimum comfortable temperature",
-          "+25.0C Maximum comfortable temperature",
-          "+75 Leather amount",
-          "+140 Meat amount",
-          "+110% Global work speed",
-          "+200% Research speed",
-          "+150% Global learning factor",
-          "+110% Psychic sensitivity",
-          "+100% Mining speed",
-          "+80.00% Social impact",
-          "+110% Construction speed",
-          "+100% Animal gather speed",
-          "+100% Animal gather yield",
-          "+1.1 Shooting accuracy"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "A marvel of genetic engineering created on a far off glitterworld on the verge of transcendence. The Fressalfar were the result of a lone scientists quest to engineer the perfect being that did not rely on the taint of mechanite technology. Pods of them were sent off to rimworlds all across the universe in an effort to save his creation before the AI scourge devoured their homeworld. Believed to be the genetic combination of hyper-intelligent felines, thrumbos, and human DNA; the Fressalfar are fast, highly intelligent, and incredibly beautiful.",
-      "defName": "Fressalfar",
-      "enabled": true,
-      "name": "Fressalfar",
-      "price": 5000
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+50.00 Mass",
-          "+70% Flammability",
-          "+1.0 Beauty",
-          "+75 Carrying capacity",
-          "+100% Pain shock threshold",
-          "+$2000 Market value",
-          "+5.00 Move speed",
-          "+100% Immunity gain speed",
-          "+10.0C Minimum comfortable temperature",
-          "+25.0C Maximum comfortable temperature",
-          "+75 Leather amount",
-          "+140 Meat amount",
-          "+110% Global work speed",
-          "+175% Research speed",
-          "+135% Global learning factor",
-          "+110% Psychic sensitivity",
-          "+80% Mining speed",
-          "+150.00% Social impact",
-          "+100% Construction speed",
-          "+100% Animal gather speed",
-          "+100% Animal gather yield",
-          "+1.0 Shooting accuracy"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "Genetic descendants of the Fressalfar. The Kisalfar are slightly inferior the Fressalfar due to the highly unstable genome not replicating perfectly outside of lab conditions. Physically this led to the lost of their highly coveted horns and some would say they could never live up to the original race. However, the combination of high intelligence and growing up in a natural environment means the  Kisalfar are much more attuned with the ways of their home world and those around them. What they lost in speed and beauty they make up for in natural charm and instinct and they have proven an ability to get along with humans in a way the Fressalfar never could.",
-      "defName": "Kisalfar",
-      "enabled": true,
-      "name": "Kisalfar",
-      "price": 3333
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
           "+55.00 Mass",
           "+70% Flammability",
           "+1.0 Beauty",
@@ -8595,9 +7741,7 @@
           "+100% Construction speed",
           "+75% Animal gather speed",
           "+75% Plant work speed",
-          "+4.0 Shooting accuracy",
-          "+100.00% Vulnerability",
-          "+100.00% Sex drive"
+          "+4.0 Shooting accuracy"
         ],
         "mod": "Unknown",
         "karmaType": null
@@ -8615,25 +7759,25 @@
           "+50.00 Mass",
           "+70% Flammability",
           "+1.0 Beauty",
-          "+75 Carrying capacity",
+          "+50 Carrying capacity",
           "+80% Pain shock threshold",
           "+$3000 Market value",
-          "+5.00 Move speed",
-          "+95% Immunity gain speed",
-          "+10.0C Minimum comfortable temperature",
-          "+80.0C Maximum comfortable temperature",
-          "+75 Leather amount",
-          "+140 Meat amount",
-          "+100% Global work speed",
-          "+110% Research speed",
-          "+100% Global learning factor",
-          "+400% Psychic sensitivity",
+          "+8.00 Move speed",
+          "+150% Immunity gain speed",
+          "+25.0C Minimum comfortable temperature",
+          "+50.0C Maximum comfortable temperature",
+          "+35 Leather amount",
+          "+50 Meat amount",
+          "+200% Global work speed",
+          "+400% Research speed",
+          "+200% Global learning factor",
+          "+100% Psychic sensitivity",
           "+50% Mining speed",
-          "+150.00% Social impact",
-          "+50% Construction speed",
-          "+200% Animal gather speed",
+          "+200.00% Social impact",
+          "+75% Construction speed",
+          "+125% Animal gather speed",
           "+125% Animal gather yield",
-          "+1.0 Shooting accuracy"
+          "+4.0 Shooting accuracy"
         ],
         "mod": "Unknown",
         "karmaType": null
@@ -8643,478 +7787,6 @@
       "enabled": true,
       "name": "Vulpes",
       "price": 5000
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+75.00 Mass",
-          "+100% Flammability",
-          "+$1500 Market value",
-          "+4.61 Move speed",
-          "-50.0C Minimum comfortable temperature",
-          "+50.0C Maximum comfortable temperature",
-          "+135% Immunity gain speed",
-          "+25 Leather amount"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "A race of humanlike robots which are mostly female in model variety.\n\nThe origins of these machines are mostly unknown. Some speculate they are escapees from a civilization which used them for labor and some just suggest they are outdated pleasure machines which got dumped by a passing space freighter.\n\nBy design by their previous masters they are weak physically but their raw fortitude is enough to make up for it. Beware of their biological reactor and capacitors violently exploding, if they die by overheating.",
-      "defName": "ChjAndroid",
-      "enabled": true,
-      "name": "Android",
-      "price": 2500
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+60.00 Mass",
-          "+0% Flammability",
-          "+$850 Market value",
-          "+5.21 Move speed",
-          "-200.0C Minimum comfortable temperature",
-          "+300.0C Maximum comfortable temperature",
-          "+0% Psychic sensitivity",
-          "+500% Pain shock threshold",
-          "+0% Mental break threshold",
-          "+0.00% Social impact",
-          "+0% Global learning factor",
-          "+1000% Immunity gain speed",
-          "+0 Leather amount",
-          "+0 Meat amount",
-          "+30.0% Armor - Sharp",
-          "+20.0% Armor - Blunt",
-          "+200.0% Armor - Heat",
-          "+75 Carrying capacity"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "A race of rudimentary humanlike worker robots.\n\nUsually found toiling around in colonies around the rim which got a resident tinkerer.\n\nNot capable of sapience, however their relative cheap cost and ability to work around the clock make them valuable workers.",
-      "defName": "ChjDroid",
-      "enabled": true,
-      "name": "Droid",
-      "price": 1417
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+55.00 Mass",
-          "+0% Flammability",
-          "+$1900 Market value",
-          "+4.00 Move speed",
-          "-200.0C Minimum comfortable temperature",
-          "+500.0C Maximum comfortable temperature",
-          "+0% Psychic sensitivity",
-          "+500% Pain shock threshold",
-          "+0% Mental break threshold",
-          "+0.00% Social impact",
-          "+0% Global learning factor",
-          "+1000% Immunity gain speed",
-          "+0 Leather amount",
-          "+0 Meat amount",
-          "-0.4 Melee dodge chance",
-          "+100.0% Armor - Sharp",
-          "+40.0% Armor - Blunt",
-          "+200.0% Armor - Heat",
-          "+150 Carrying capacity"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "A race of rudimentary humanlike warrior robots.\n\nUsually found guarding the homes of the wealthy and offices of mega corporations. They show no mercy upon targets who fail to identify themselves. Are traditionally armed with miniguns and core launchers.",
-      "defName": "ChjBattleDroid",
-      "enabled": true,
-      "name": "Battledroid",
-      "price": 3167
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+60.00 Mass",
-          "+0% Flammability",
-          "+$1650 Market value",
-          "+7.20 Move speed",
-          "-200.0C Minimum comfortable temperature",
-          "+300.0C Maximum comfortable temperature",
-          "+0% Psychic sensitivity",
-          "+500% Pain shock threshold",
-          "+0% Mental break threshold",
-          "+0.00% Social impact",
-          "+100% Global learning factor",
-          "+200% Smoothing speed",
-          "+133% Global work speed",
-          "+1000% Immunity gain speed",
-          "+0 Leather amount",
-          "+0 Meat amount",
-          "+40.0% Armor - Sharp",
-          "+30.0% Armor - Blunt",
-          "+200.0% Armor - Heat",
-          "+150 Carrying capacity"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "A race of spacer-tech humanlike worker robots.\n\nUsually found toiling around in colonies around the rim which got a resident tinkerer.Not capable of sapience making them perfect for colony tasks. \n\nAdvanced droids are much better than their outdated models in every way. \n\nDroids are not born and must be created.",
-      "defName": "ChjSpacerDroid",
-      "enabled": true,
-      "name": "Advanced droid",
-      "price": 2750
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+75.00 Mass",
-          "+0% Flammability",
-          "+$3500 Market value",
-          "+7.20 Move speed",
-          "-1000.0C Minimum comfortable temperature",
-          "+1000.0C Maximum comfortable temperature",
-          "+0% Psychic sensitivity",
-          "+500% Pain shock threshold",
-          "+0% Mental break threshold",
-          "+0.00% Social impact",
-          "+0% Global learning factor",
-          "+1000% Immunity gain speed",
-          "+0 Leather amount",
-          "+0 Meat amount",
-          "+50% Aiming time",
-          "-1.0 Melee dodge chance",
-          "+120.0% Armor - Sharp",
-          "+60.0% Armor - Blunt",
-          "+200.0% Armor - Heat",
-          "+150 Carrying capacity"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "A race of spacer-tech humanlike warrior robots.\n\nInstalled into military bases and highly sensitive areas. They show no mercy upon targets who fail to identify themselves. Are traditionally armed with miniguns and core launchers.\n\nAdvanced droids are much better than their outdated models in every way. Wardroids possess four arms, each of which is highly deadly. Humans beware: bring an army to defeat this model.\n\nDroids are not born and must be created.",
-      "defName": "ChjSpacerBattleDroid",
-      "enabled": true,
-      "name": "Wardroid",
-      "price": 5833
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+15.00 Mass",
-          "+25% Flammability",
-          "+$400 Market value",
-          "+4.80 Move speed",
-          "-85.0C Minimum comfortable temperature",
-          "+85.0C Maximum comfortable temperature",
-          "+0% Psychic sensitivity",
-          "+500% Pain shock threshold",
-          "+0% Mental break threshold",
-          "+0.00% Social impact",
-          "+0% Global learning factor",
-          "+1000% Immunity gain speed",
-          "+150% Global work speed",
-          "+0 Leather amount",
-          "+0 Meat amount",
-          "+5.0% Armor - Sharp",
-          "+0.0% Armor - Blunt",
-          "+100.0% Armor - Heat",
-          "+60 Carrying capacity",
-          "+120% Construction speed",
-          "+133% Construct success chance",
-          "+115% Mining speed",
-          "+105% Mining yield"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "Small drone constructed of simple materials built in short time. This device is masterful in building & mining, but is unable to do much else. Cannot fight.",
-      "defName": "NEngiDrone",
-      "enabled": true,
-      "name": "engineer",
-      "price": 667
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+15.00 Mass",
-          "+25% Flammability",
-          "+$400 Market value",
-          "+4.80 Move speed",
-          "-85.0C Minimum comfortable temperature",
-          "+85.0C Maximum comfortable temperature",
-          "+0% Psychic sensitivity",
-          "+500% Pain shock threshold",
-          "+0% Mental break threshold",
-          "+0.00% Social impact",
-          "+0% Global learning factor",
-          "+150% Global work speed",
-          "+1000% Immunity gain speed",
-          "+0 Leather amount",
-          "+0 Meat amount",
-          "+5.0% Armor - Sharp",
-          "+0.0% Armor - Blunt",
-          "+100.0% Armor - Heat",
-          "+60 Carrying capacity",
-          "+125% Plant harvest yield",
-          "+100% Plant work speed",
-          "+40.00% Food poison chance"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "Small drone constructed of simple materials built in short time. This device is masterful in tasks relating to food & farming. It's designed to ensure everyone is fed and the kitchen is stocked.\n\nThis drone is unable to do combat nor any other skilled jobs.",
-      "defName": "NChefDrone",
-      "enabled": true,
-      "name": "chef",
-      "price": 667
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+15.00 Mass",
-          "+55% Flammability",
-          "+$660 Market value",
-          "+4.80 Move speed",
-          "-85.0C Minimum comfortable temperature",
-          "+85.0C Maximum comfortable temperature",
-          "+0% Psychic sensitivity",
-          "+500% Pain shock threshold",
-          "+0% Mental break threshold",
-          "+0.00% Social impact",
-          "+0% Global learning factor",
-          "+150% Global work speed",
-          "+1000% Immunity gain speed",
-          "+0 Leather amount",
-          "+0 Meat amount",
-          "+5.0% Armor - Sharp",
-          "+0.0% Armor - Blunt",
-          "+100.0% Armor - Heat",
-          "+60 Carrying capacity",
-          "+110% Medical surgery success chance",
-          "+110% Medical tend quality",
-          "+125% Medical operation speed",
-          "+125% Medical tend speed"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "Small drone constructed of simple materials built in short time. This drone is highly capable in medicine, and is able to take care of most typical injuries.",
-      "defName": "NMedicDrone",
-      "enabled": true,
-      "name": "medic",
-      "price": 1100
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+60.00 Mass",
-          "+70% Flammability",
-          "+$1800 Market value",
-          "+4.60 Move speed",
-          "+16.0C Minimum comfortable temperature",
-          "+26.0C Maximum comfortable temperature",
-          "+50 Leather amount",
-          "+3 Honor value",
-          "+1.0 Beauty"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "A xenohuman that is biosculpted to resemble an anthropomorphic avian, but is otherwise identical to the average human. Most originate from ultra-tech glitterworld cultures and are consequently uncommon on the rim.",
-      "defName": "ATK_Avianmorph",
-      "enabled": true,
-      "name": "avianmorph",
-      "price": 3000
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+60.00 Mass",
-          "+70% Flammability",
-          "+$1800 Market value",
-          "+4.60 Move speed",
-          "+16.0C Minimum comfortable temperature",
-          "+26.0C Maximum comfortable temperature",
-          "+50 Leather amount",
-          "+3 Honor value",
-          "+1.0 Beauty"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "A xenohuman that is biosculpted to resemble an anthropomorphic bovine, but is otherwise identical to the average human. Most originate from ultra-tech glitterworld cultures and are consequently uncommon on the rim.",
-      "defName": "ATK_Bovinemorph",
-      "enabled": true,
-      "name": "bovinemorph",
-      "price": 3000
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+60.00 Mass",
-          "+70% Flammability",
-          "+$1800 Market value",
-          "+4.60 Move speed",
-          "+0.0C Minimum comfortable temperature",
-          "+26.0C Maximum comfortable temperature",
-          "+50 Leather amount",
-          "+3 Honor value",
-          "+1.0 Beauty"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "A xenohuman that is biosculpted to resemble an anthropomorphic canine, but is otherwise identical to the average human. Most originate from ultra-tech glitterworld cultures and are consequently uncommon on the rim.",
-      "defName": "ATK_Caninemorph",
-      "enabled": true,
-      "name": "caninemorph",
-      "price": 3000
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+60.00 Mass",
-          "+70% Flammability",
-          "+$1800 Market value",
-          "+4.60 Move speed",
-          "+0.0C Minimum comfortable temperature",
-          "+26.0C Maximum comfortable temperature",
-          "+50 Leather amount",
-          "+3 Honor value",
-          "+1.0 Beauty"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "A xenohuman that is biosculpted to resemble an anthropomorphic cervine, but is otherwise identical to the average human. Most originate from ultra-tech glitterworld cultures and are consequently uncommon on the rim.",
-      "defName": "ATK_Cervinemorph",
-      "enabled": true,
-      "name": "cervinemorph",
-      "price": 3000
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+60.00 Mass",
-          "+70% Flammability",
-          "+$1950 Market value",
-          "+4.60 Move speed",
-          "+20.0C Minimum comfortable temperature",
-          "+40.0C Maximum comfortable temperature",
-          "+50 Leather amount",
-          "+3 Honor value",
-          "+1.0 Beauty"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "A xenohuman that is biosculpted to resemble an anthropomorphic dragon, but is otherwise identical to the average human. They are exceedingly rare due to the extensive and expensive modifications made to their physiology.",
-      "defName": "ATK_Dragomorph",
-      "enabled": true,
-      "name": "dragomorph",
-      "price": 3250
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+60.00 Mass",
-          "+70% Flammability",
-          "+$1800 Market value",
-          "+4.60 Move speed",
-          "+0.0C Minimum comfortable temperature",
-          "+26.0C Maximum comfortable temperature",
-          "+50 Leather amount",
-          "+3 Honor value",
-          "+1.0 Beauty"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "A xenohuman that is biosculpted to resemble an anthropomorphic feline, but is otherwise identical to the average human. Most originate from ultra-tech glitterworld cultures and are consequently uncommon on the rim.",
-      "defName": "ATK_Felinemorph",
-      "enabled": true,
-      "name": "felinemorph",
-      "price": 3000
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+60.00 Mass",
-          "+70% Flammability",
-          "+$1800 Market value",
-          "+4.60 Move speed",
-          "+9.0C Minimum comfortable temperature",
-          "+34.0C Maximum comfortable temperature",
-          "+50 Leather amount",
-          "+3 Honor value",
-          "+1.0 Beauty"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "A xenohuman that is biosculpted to resemble an anthropomorphic hyena, but is otherwise identical to the average human. Most originate from ultra-tech glitterworld cultures and are consequently uncommon on the rim.",
-      "defName": "ATK_Gnollmorph",
-      "enabled": true,
-      "name": "gnollmorph",
-      "price": 3000
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+60.00 Mass",
-          "+70% Flammability",
-          "+$1800 Market value",
-          "+4.60 Move speed",
-          "+9.0C Minimum comfortable temperature",
-          "+34.0C Maximum comfortable temperature",
-          "+50 Leather amount",
-          "+3 Honor value",
-          "+1.0 Beauty"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "A xenohuman that is biosculpted to resemble an anthropomorphic lapine, but is otherwise identical to the average human. Most originate from ultra-tech glitterworld cultures and are consequently uncommon on the rim.",
-      "defName": "ATK_Lagomorph",
-      "enabled": true,
-      "name": "lagomorph",
-      "price": 3000
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+60.00 Mass",
-          "+70% Flammability",
-          "+$1800 Market value",
-          "+4.60 Move speed",
-          "+0.0C Minimum comfortable temperature",
-          "+26.0C Maximum comfortable temperature",
-          "+50 Leather amount",
-          "+3 Honor value",
-          "+1.0 Beauty"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "A xenohuman that is biosculpted to resemble an anthropomorphic fox, but is otherwise identical to the average human. Most originate from ultra-tech glitterworld cultures and are consequently uncommon on the rim.",
-      "defName": "ATK_Vulpinemorph",
-      "enabled": true,
-      "name": "Vulpinemorph",
-      "price": 3000
     },
     {
       "data": {
@@ -9253,7 +7925,7 @@
           "-10.0C Minimum comfortable temperature",
           "+28.0C Maximum comfortable temperature",
           "+300% Immunity gain speed",
-          "+50 Carrying capacity",
+          "+80 Carrying capacity",
           "+80.0% Armor - Sharp",
           "+140.0% Armor - Blunt",
           "+10.0% Armor - Heat",
@@ -9270,7 +7942,7 @@
         "mod": "Unknown",
         "karmaType": null
       },
-      "description": "Were bred in the worlds of Glitter by crossbreeding a human female and a slime for lovemaking. But due to a rebellion of slime girls in one of the Glitter worlds, they fled to other worlds where Glitter's influence is low.",
+      "description": "This species was grown in the laboratories of the Empire to satisfy the sexual pleasures of its citizens and nobles. They have increased protection from blunt damage due to their elastic shell and have increased susceptibility to temperature.\nThanks to their fertility, they were able to spread to many favorable planets of the universe.",
       "defName": "Alien_Mucus",
       "enabled": true,
       "name": "Humanoid slime",
@@ -9727,6 +8399,384 @@
       "enabled": true,
       "name": "Pinkie Pie",
       "price": 3333
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+50.00 Mass",
+          "+70% Flammability",
+          "+2.0 Beauty",
+          "+50 Carrying capacity",
+          "+80% Pain shock threshold",
+          "+$5000 Market value",
+          "+6.00 Move speed",
+          "+200% Immunity gain speed",
+          "+5.0C Minimum comfortable temperature",
+          "+26.0C Maximum comfortable temperature",
+          "+35 Leather amount",
+          "+50 Meat amount",
+          "+100% Global work speed",
+          "+100% Research speed",
+          "+100% Global learning factor",
+          "+100% Psychic sensitivity",
+          "+150% Mining speed",
+          "+100.00% Social impact",
+          "+100% Construction speed",
+          "+100% Animal gather speed",
+          "+100% Animal gather yield",
+          "+1.0 Shooting accuracy"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "Genetically modified species, closely related to Sylveons. Their origin is barely known, but there's rumors that they come from a group of Sylveons that managed to escape from slavery at colony ship a few hundred years ago. Said ship crashed at aquatic world and survivors had to gene-engineer themselves with barely functioning genepods to survive. Despite its appearence, this species has strong physical strength and are easily able to win a brawl fight against average human. Vaporeons is an advanced variation of xenohumans with a very complex genome. Their appearence and most traits cannot be modified without complex glitterworld technologies that just cannot be replicated at rimworld.",
+      "defName": "Vaporeon",
+      "enabled": true,
+      "name": "Vaporeon",
+      "price": 8333
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+75.00 Mass",
+          "+100% Flammability",
+          "+$1500 Market value",
+          "+4.61 Move speed",
+          "-50.0C Minimum comfortable temperature",
+          "+50.0C Maximum comfortable temperature",
+          "+80% Toxic resistance",
+          "+135% Immunity gain speed",
+          "+25 Leather amount"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "A race of humanlike robots which are mostly female in model variety.\n\nThe origins of these machines are mostly unknown. Some speculate they are escapees from a civilization which used them for labor and some just suggest they are outdated pleasure machines which got dumped by a passing space freighter.\n\nBy design by their previous masters they are weak physically but their raw fortitude is enough to make up for it. Beware of their biological reactor and capacitors violently exploding, if they die by overheating.",
+      "defName": "ChjAndroid",
+      "enabled": true,
+      "name": "Android",
+      "price": 2500
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+60.00 Mass",
+          "+0% Flammability",
+          "+$850 Market value",
+          "+5.21 Move speed",
+          "-200.0C Minimum comfortable temperature",
+          "+300.0C Maximum comfortable temperature",
+          "+100% Toxic resistance",
+          "+0% Psychic sensitivity",
+          "+500% Pain shock threshold",
+          "+0% Mental break threshold",
+          "+0.00% Social impact",
+          "+0% Global learning factor",
+          "+1000% Immunity gain speed",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+30.0% Armor - Sharp",
+          "+20.0% Armor - Blunt",
+          "+200.0% Armor - Heat",
+          "+75 Carrying capacity"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "A race of rudimentary humanlike worker robots.\n\nUsually found toiling around in colonies around the rim which got a resident tinkerer.\n\nNot capable of sapience, however their relative cheap cost and ability to work around the clock make them valuable workers.",
+      "defName": "ChjDroid",
+      "enabled": true,
+      "name": "Droid",
+      "price": 1417
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+55.00 Mass",
+          "+0% Flammability",
+          "+$1900 Market value",
+          "+4.00 Move speed",
+          "-200.0C Minimum comfortable temperature",
+          "+500.0C Maximum comfortable temperature",
+          "+100% Toxic resistance",
+          "+0% Psychic sensitivity",
+          "+500% Pain shock threshold",
+          "+0% Mental break threshold",
+          "+0.00% Social impact",
+          "+0% Global learning factor",
+          "+1000% Immunity gain speed",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "-0.4 Melee dodge chance",
+          "+100.0% Armor - Sharp",
+          "+40.0% Armor - Blunt",
+          "+200.0% Armor - Heat",
+          "+150 Carrying capacity"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "A race of rudimentary humanlike warrior robots.\n\nUsually found guarding the homes of the wealthy and offices of mega corporations. They show no mercy upon targets who fail to identify themselves. Are traditionally armed with miniguns and core launchers.",
+      "defName": "ChjBattleDroid",
+      "enabled": true,
+      "name": "Battledroid",
+      "price": 3167
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+60.00 Mass",
+          "+0% Flammability",
+          "+$1650 Market value",
+          "+7.20 Move speed",
+          "-200.0C Minimum comfortable temperature",
+          "+300.0C Maximum comfortable temperature",
+          "+100% Toxic resistance",
+          "+0% Psychic sensitivity",
+          "+500% Pain shock threshold",
+          "+0% Mental break threshold",
+          "+0.00% Social impact",
+          "+100% Global learning factor",
+          "+200% Smoothing speed",
+          "+133% Global work speed",
+          "+1000% Immunity gain speed",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+40.0% Armor - Sharp",
+          "+30.0% Armor - Blunt",
+          "+200.0% Armor - Heat",
+          "+150 Carrying capacity"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "A race of spacer-tech humanlike worker robots.\n\nUsually found toiling around in colonies around the rim which got a resident tinkerer.Not capable of sapience making them perfect for colony tasks. \n\nAdvanced droids are much better than their outdated models in every way. \n\nDroids are not born and must be created.",
+      "defName": "ChjSpacerDroid",
+      "enabled": true,
+      "name": "Advanced droid",
+      "price": 2750
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+75.00 Mass",
+          "+0% Flammability",
+          "+$3500 Market value",
+          "+7.20 Move speed",
+          "-1000.0C Minimum comfortable temperature",
+          "+1000.0C Maximum comfortable temperature",
+          "+100% Toxic resistance",
+          "+0% Psychic sensitivity",
+          "+500% Pain shock threshold",
+          "+0% Mental break threshold",
+          "+0.00% Social impact",
+          "+0% Global learning factor",
+          "+1000% Immunity gain speed",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+50% Aiming time",
+          "-1.0 Melee dodge chance",
+          "+120.0% Armor - Sharp",
+          "+60.0% Armor - Blunt",
+          "+200.0% Armor - Heat",
+          "+150 Carrying capacity"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "A race of spacer-tech humanlike warrior robots.\n\nInstalled into military bases and highly sensitive areas. They show no mercy upon targets who fail to identify themselves. Are traditionally armed with miniguns and core launchers.\n\nAdvanced droids are much better than their outdated models in every way. Wardroids possess four arms, each of which is highly deadly. Humans beware: bring an army to defeat this model.\n\nDroids are not born and must be created.",
+      "defName": "ChjSpacerBattleDroid",
+      "enabled": true,
+      "name": "Wardroid",
+      "price": 5833
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+15.00 Mass",
+          "+25% Flammability",
+          "+$400 Market value",
+          "+4.80 Move speed",
+          "-85.0C Minimum comfortable temperature",
+          "+85.0C Maximum comfortable temperature",
+          "+100% Toxic resistance",
+          "+0% Psychic sensitivity",
+          "+500% Pain shock threshold",
+          "+0% Mental break threshold",
+          "+0.00% Social impact",
+          "+0% Global learning factor",
+          "+1000% Immunity gain speed",
+          "+150% Global work speed",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+5.0% Armor - Sharp",
+          "+0.0% Armor - Blunt",
+          "+100.0% Armor - Heat",
+          "+60 Carrying capacity",
+          "+120% Construction speed",
+          "+133% Construct success chance",
+          "+115% Mining speed",
+          "+105% Mining yield"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "Small drone constructed of simple materials built in short time. This device is masterful in building & mining, but is unable to do much else. Cannot fight.",
+      "defName": "NEngiDrone",
+      "enabled": true,
+      "name": "engineer",
+      "price": 667
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+15.00 Mass",
+          "+25% Flammability",
+          "+$400 Market value",
+          "+4.80 Move speed",
+          "-85.0C Minimum comfortable temperature",
+          "+85.0C Maximum comfortable temperature",
+          "+100% Toxic resistance",
+          "+0% Psychic sensitivity",
+          "+500% Pain shock threshold",
+          "+0% Mental break threshold",
+          "+0.00% Social impact",
+          "+0% Global learning factor",
+          "+150% Global work speed",
+          "+1000% Immunity gain speed",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+5.0% Armor - Sharp",
+          "+0.0% Armor - Blunt",
+          "+100.0% Armor - Heat",
+          "+60 Carrying capacity",
+          "+125% Plant harvest yield",
+          "+100% Plant work speed",
+          "+40.00% Food poison chance"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "Small drone constructed of simple materials built in short time. This device is masterful in tasks relating to food & farming. It's designed to ensure everyone is fed and the kitchen is stocked.\n\nThis drone is unable to do combat nor any other skilled jobs.",
+      "defName": "NChefDrone",
+      "enabled": true,
+      "name": "chef",
+      "price": 667
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+15.00 Mass",
+          "+55% Flammability",
+          "+$660 Market value",
+          "+4.80 Move speed",
+          "-85.0C Minimum comfortable temperature",
+          "+85.0C Maximum comfortable temperature",
+          "+100% Toxic resistance",
+          "+0% Psychic sensitivity",
+          "+500% Pain shock threshold",
+          "+0% Mental break threshold",
+          "+0.00% Social impact",
+          "+0% Global learning factor",
+          "+150% Global work speed",
+          "+1000% Immunity gain speed",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+5.0% Armor - Sharp",
+          "+0.0% Armor - Blunt",
+          "+100.0% Armor - Heat",
+          "+60 Carrying capacity",
+          "+110% Medical surgery success chance",
+          "+110% Medical tend quality",
+          "+125% Medical operation speed",
+          "+125% Medical tend speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "Small drone constructed of simple materials built in short time. This drone is highly capable in medicine, and is able to take care of most typical injuries.",
+      "defName": "NMedicDrone",
+      "enabled": true,
+      "name": "medic",
+      "price": 1100
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+15.00 Mass",
+          "+25% Flammability",
+          "+$400 Market value",
+          "+4.80 Move speed",
+          "-85.0C Minimum comfortable temperature",
+          "+85.0C Maximum comfortable temperature",
+          "+100% Toxic resistance",
+          "+0% Psychic sensitivity",
+          "+500% Pain shock threshold",
+          "+0% Mental break threshold",
+          "+0.00% Social impact",
+          "+0% Global learning factor",
+          "+1000% Immunity gain speed",
+          "+150% Global work speed",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+5.0% Armor - Sharp",
+          "+0.0% Armor - Blunt",
+          "+100.0% Armor - Heat",
+          "+60 Carrying capacity",
+          "+125% Work speed factor"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "Small drone constructed of simple materials built in short time. This device is masterful in tasks relating to fabrication and smithing, but is unable to do much else. Cannot fight.",
+      "defName": "XAssemblyDrone",
+      "enabled": true,
+      "name": "assembly",
+      "price": 667
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+15.00 Mass",
+          "+25% Flammability",
+          "+$400 Market value",
+          "+6.40 Move speed",
+          "-85.0C Minimum comfortable temperature",
+          "+85.0C Maximum comfortable temperature",
+          "+100% Toxic resistance",
+          "+0% Psychic sensitivity",
+          "+500% Pain shock threshold",
+          "+0% Mental break threshold",
+          "+0.00% Social impact",
+          "+0% Global learning factor",
+          "+1000% Immunity gain speed",
+          "+150% Global work speed",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+5.0% Armor - Sharp",
+          "+0.0% Armor - Blunt",
+          "+100.0% Armor - Heat",
+          "+40 Carrying capacity"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "Small drone constructed of simple materials built in short time. This device is masterful in tasks relating to hauling and transportation of goods by caravan, but is unable to do much else. Cannot fight.",
+      "defName": "XTransportDrone",
+      "enabled": true,
+      "name": "transport",
+      "price": 667
     }
   ]
 }

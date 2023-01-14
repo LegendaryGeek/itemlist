@@ -24,6 +24,12 @@
     "version": "1.4.1.1"
   },
   {
+    "author": "Imranfish",
+    "name": "XML Extensions",
+    "steamId": "2574315206",
+    "version": "1.7.0"
+  },
+  {
     "author": "mr_chimick",
     "name": "Block Unwanted Minutiae",
     "steamId": "2266225921",
@@ -40,12 +46,6 @@
     "name": "Blueprints",
     "steamId": "708455313",
     "version": "2.17.133"
-  },
-  {
-    "author": "legodude17 and Oskar Potocki",
-    "name": "Vanilla UI Expanded",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "AUTOMATIC",
@@ -108,18 +108,6 @@
     "version": null
   },
   {
-    "author": "Rick",
-    "name": "FCP FNV Laser Weapons",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "TrahsPanda",
-    "name": "[TP]Fursuits",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Little White Mouse",
     "name": "LWM's Deep Storage",
     "steamId": "1617282896",
@@ -157,24 +145,6 @@
   },
   {
     "author": "Yanzihko",
-    "name": "Braixen and Delphox - Fire Pokemon [1.3]",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Yanzihko",
-    "name": "Feles - Felines of the Rim [1.3]",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Yanzihko",
-    "name": "Kisalfar and Fressálfar - Lost Project [1.3]",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Yanzihko",
     "name": "Lombax - Desert Warriors [1.4]",
     "steamId": null,
     "version": null
@@ -182,24 +152,6 @@
   {
     "author": "Yanzihko",
     "name": "Vulpes - Adorable Foxes [1.4]",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Yanzihko",
-    "name": "Yanzihko Races - Rebalance Submod [1.3]",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "AveryTheKitty, Erin and Ravenholme",
-    "name": "Xenohumans - Anthromorphs",
-    "steamId": "2349467636",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Beta",
-    "name": "[Beta]Anime Hair",
     "steamId": null,
     "version": null
   },
@@ -228,32 +180,8 @@
     "version": null
   },
   {
-    "author": "Carny Senpai",
-    "name": "RWBY Weapons",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Gunmar(グンマー)",
     "name": "Victorian Era Apparels!",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Neceros",
-    "name": "SRTS Expanded",
-    "steamId": "1845423808",
-    "version": "1.4.6"
-  },
-  {
-    "author": "Twink315",
-    "name": "Vault-Tec - Handy things for your vault!",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "ISOREX and 2ScoopsPlz",
-    "name": "Fallout New Vegas - Elite Riot Gear",
     "steamId": null,
     "version": null
   },
@@ -270,164 +198,8 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "MyLegsAreOkay",
-    "name": "Cyberpunk2077_Weapons",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "PunkyRoo",
     "name": "UwU",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Rick",
-    "name": "FCP Enclave Armory!",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Rick",
-    "name": "FCP Fallout Sniper Rifles!",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Rick",
-    "name": "FCP Makeshift Rifles",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Rick",
-    "name": "FCP Makeshift Handguns",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Rick, Icing and Taranchuk",
-    "name": "FCP Plasma Weapons Pack!",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Rick",
-    "name": "FCP Vault-Tec and Boomers!",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Rick",
-    "name": "FCP NCR Armor and Apparel Pack!",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Taranchuk and Rick",
-    "name": "FCP Vertibirds",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Rick, Aoba, Socks and Otters",
-    "name": "FCP Tents",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Rick",
-    "name": "FCP Pre-War Meals!",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Rick",
-    "name": "FCP Minuteman Equipment Teaser",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Rick",
-    "name": "FCP Raider Armor and Apparel Teaser",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Rick",
-    "name": "FCP Fallout Creation Club Rifle Pack!",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Rick",
-    "name": "FCP Fallout New Vegas Pistols!",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Rick",
-    "name": "FCP FNV Heavy Weapons Pack!",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Rick",
-    "name": "FCP Fallout New Vegas Assault Rifles and LMG Pack!",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Rick",
-    "name": "FCP Fallout New Vegas Submachine Guns!",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Rick",
-    "name": "FCP Fallout New Vegas Lever Action Rifles!",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Rick",
-    "name": "FCP Fallout New Vegas Shotguns!",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Rick",
-    "name": "FCP Fallout New Vegas Revolvers!",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Rick",
-    "name": "FCP Chinese Remnant Equipment Teaser",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Rick",
-    "name": "FCP Makeshift Weapons Pack",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Rick",
-    "name": "FCP Institute and Railroad Teaser",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Rick",
-    "name": "FCP Dogmeat",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Kitsune and Rick G.",
-    "name": "FCP Fallout Plants",
     "steamId": null,
     "version": null
   },
@@ -438,50 +210,8 @@
     "version": null
   },
   {
-    "author": "Rick",
-    "name": "FCP Captain Cosmos Pack!",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Rick",
-    "name": "FCP Powder Ganger Equipment Teaser",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Canon",
     "name": "Fallout Flags and Banners",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Rick",
-    "name": "FCP Children of Atom Equipment Teaser",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Rick",
-    "name": "FCP Desert Ranger Equipment Teaser",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Rick",
-    "name": "FCP Classic Combat Armor Teaser",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Rick",
-    "name": "FCP Great Khan Equipment Teaser",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Rick",
-    "name": "FCP US Army Equipment Teaser",
     "steamId": null,
     "version": null
   },
@@ -540,12 +270,6 @@
     "version": null
   },
   {
-    "author": "Abraxas",
-    "name": "Medical System Expansion - Revived",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "OskarPotocki, Atlas and Kikohi",
     "name": "Vanilla Furniture Expanded",
     "steamId": null,
@@ -554,12 +278,6 @@
   {
     "author": "Oskar Potocki, Trunken and Sarg Bjornson",
     "name": "Vanilla Weapons Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Rick and Bert",
-    "name": "FCP Berts Fallout Armory!",
     "steamId": null,
     "version": null
   },
@@ -588,12 +306,6 @@
     "version": null
   },
   {
-    "author": "taranchuk",
-    "name": "Archotech++",
-    "steamId": "2496279558",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Rainbeau Flambe / Zombie_Striker",
     "name": "Rational Romance 2 (Continued)",
     "steamId": "2593521827",
@@ -610,18 +322,6 @@
     "name": "Map Designer",
     "steamId": "2111424996",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "ChJees",
-    "name": "Androids",
-    "steamId": "1541064015",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Thomotron and The Phinix Team",
-    "name": "Phinix",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "hodlhodl",
@@ -666,28 +366,10 @@
     "version": "1.0.3.2"
   },
   {
-    "author": "Peptide",
-    "name": "Androids Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "saschahi",
     "name": "ToolkitAddon - More Stuff",
     "steamId": "2594931182",
     "version": "1.1.9"
-  },
-  {
-    "author": "KinKade and Neronix17",
-    "name": "[O21] Pokemon Rim",
-    "steamId": "1787773815",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Daemon976",
-    "name": "More Android Backstories",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "NotFood",
@@ -726,12 +408,6 @@
     "version": null
   },
   {
-    "author": "PorqueNoLosDos",
-    "name": "Color Coded Mood Bar",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "VinaLx",
     "name": "ResearchPal - Forked",
     "steamId": "2351393394",
@@ -744,28 +420,10 @@
     "version": null
   },
   {
-    "author": "Imranfish",
-    "name": "XML Extensions",
-    "steamId": "2574315206",
-    "version": "1.7.0"
-  },
-  {
     "author": "OdysseyLotus",
     "name": "Male Maru",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Ed86",
-    "name": "RimJobWorld",
-    "steamId": "",
-    "version": "5.3.0.10"
-  },
-  {
-    "author": "Y-Adaptor",
-    "name": "RimNudeWorld",
-    "steamId": "",
-    "version": "2.2.12.1"
   },
   {
     "author": "Akiya82",
@@ -774,16 +432,10 @@
     "version": null
   },
   {
-    "author": "pentalimbedcat",
-    "name": "Decorative Railway Prop",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Smash Phil and Neceros",
     "name": "SRTS Expanded",
-    "steamId": null,
-    "version": null
+    "steamId": "2878587061",
+    "version": "1.4.7"
   },
   {
     "author": "PrinceOfPluto",
@@ -804,12 +456,6 @@
     "version": null
   },
   {
-    "author": "Captain Muscles (Nathan Harbour)",
-    "name": "Callouts",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "LimeTreeSnake",
     "name": "[LTS]Systems",
     "steamId": "2812826451",
@@ -824,42 +470,6 @@
   {
     "author": "Grandyy",
     "name": "Destiny 2 Weapon Package - Hand Cannon",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "OTYOTY",
-    "name": "OTY RJW Symbols",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Nabber",
-    "name": "RimVore-2",
-    "steamId": "",
-    "version": "1.9.3.2"
-  },
-  {
-    "author": "C0ffee",
-    "name": "Rimworld-Animations",
-    "steamId": "",
-    "version": "1.3.2"
-  },
-  {
-    "author": "Tory187",
-    "name": "RJWAnimAddons-VoicePatch",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Tory187",
-    "name": "RJWAnimAddons-XtraAnims",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Danadriel",
-    "name": "Sailpunk Airships",
     "steamId": null,
     "version": null
   },
@@ -892,5 +502,191 @@
     "name": "Bulk Carrier",
     "steamId": "1428989232",
     "version": "1.3.1241.102"
+  },
+  {
+    "author": "Yanzihko",
+    "name": "Vaporeon - Water Pokemon! [1.4]",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Weapons Expanded - Quickdraw",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Weapons Expanded - Laser",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Taranchuk",
+    "name": "Vanilla Weapons Expanded - Heavy Weapons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, AveryTheKitty and Taranchuk",
+    "name": "Vanilla Weapons Expanded - Coilguns",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sarg Bjornson",
+    "name": "Vanilla Textures Expanded - Variations",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "Vanilla Races Expanded - Custom Icons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Helixien, Erin, Luizi, ISOREX and erdelf",
+    "name": "Vanilla Textures Expanded",
+    "steamId": "2016436324",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
+    "name": "Vanilla Plants Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Taranchuk",
+    "name": "Vanilla Persona Weapons Expanded",
+    "steamId": "2826922787",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
+    "name": "Vanilla Cooking Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
+    "name": "Vanilla Ideology Expanded - Memes and Structures",
+    "steamId": "2636329500",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, Trunken and XeoNovaDan",
+    "name": "Vanilla Furniture Expanded - Security",
+    "steamId": "1845154007",
+    "version": "1.1.1.0"
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Furniture Expanded - Props and Decor",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "Vanilla Furniture Expanded - Art",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, xrushha, legodude17 and ISOREX",
+    "name": "Vanilla Furniture Expanded - Architect",
+    "steamId": "2608762624",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki and Kikohi",
+    "name": "Vanilla Expanded - Ideology Patches",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
+    "name": "Vanilla Cooking Expanded - Stews",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Trunken and Sarg Bjornson",
+    "name": "Vanilla Armour Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Trunken",
+    "name": "Vanilla Apparel Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Creeper",
+    "name": "BetterInfoCard",
+    "steamId": "2890920739",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "EdB",
+    "name": "EdB Prepare Carefully",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "aRandomKiwi",
+    "name": "Hunt for Me",
+    "steamId": "1593245720",
+    "version": "3.5.4.0"
+  },
+  {
+    "author": "KinKade and Neronix17",
+    "name": "[O21] Pokemon Rim",
+    "steamId": "1787773815",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "ChJees",
+    "name": "Androids for RW 1.4",
+    "steamId": "2889326293",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Abraxas",
+    "name": "Medical System Expansion - Revived",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "taranchuk",
+    "name": "Archotech++",
+    "steamId": "2496279558",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Daemon976",
+    "name": "More Android Backstories",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Peptide",
+    "name": "Androids Expanded for RW 1.4",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Xercaine",
+    "name": "Androids Expanded Assembly Drone",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Xercaine",
+    "name": "Androids Expanded Transport Drone",
+    "steamId": null,
+    "version": null
   }
 ]
