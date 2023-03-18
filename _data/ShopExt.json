@@ -2080,7 +2080,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Vulpes - Adorable Foxes [1.4]",
+        "mod": "Yanzihko Races - Rebalance Submod [1.4]",
         "karmaTypeForAdding": null
       },
       "defName": "VAF_Vulpian",
@@ -2092,7 +2092,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy is a lombax. he has an incredible natural inclination towards crafting, engineering and combat just like other representatives of his species.",
+      "description": "Timmy is a Lombax. he has an incredible natural inclination towards Crafting, Engineering and Combat just like other representatives of his species. But due to natural inclination of Lombaxes to solve all problems with brute force, Timmy is not very good in \"Social\" things.",
       "stats": [
         "+5 shooting",
         "+5 melee",
@@ -2118,7 +2118,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Lombax - Desert Warriors [1.4]",
+        "mod": "Yanzihko Races - Rebalance Submod [1.4]",
         "karmaTypeForAdding": null
       },
       "defName": "LDW_Lombax",
@@ -2152,7 +2152,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Sylveon - Fairy Pokemon [1.4]",
+        "mod": "Yanzihko Races - Rebalance Submod [1.4]",
         "karmaTypeForAdding": null
       },
       "defName": "SFP_Sylveon",
@@ -7628,7 +7628,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Vaporeon - Water Pokemon! [1.4]",
+        "mod": "Vaporeon - Water Pokemon [1.4]",
         "karmaTypeForAdding": null
       },
       "defName": "VWP_Vaporeon",
@@ -7655,6 +7655,1852 @@
       },
       "defName": "VME_Elder",
       "name": "elder"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is a Braixen. Timmy has an incredible natural inclination towards psionics and manipulation of life essence. he can easily read emotions of humans, animals and even plants.",
+      "stats": [
+        "+5 social",
+        "+3 animals",
+        "+3 plants",
+        "+25.00% train animal chance",
+        "+25.00% tame animal chance",
+        "+50.00% trade price improvement",
+        "+50.00% social impact"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+5 social",
+          "+3 animals",
+          "+3 plants",
+          "+25.00% train animal chance",
+          "+25.00% tame animal chance",
+          "+50.00% trade price improvement",
+          "+50.00% social impact"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Braixen and Delphox - Fire Pokemon [1.4]",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BDFP_Braixen",
+      "name": "braixen"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is a Delphox. Timmy is a powerful psychic and is inclined towards manipulation of life essence. he can easily read emotions of humans, animals and even plants.",
+      "stats": [
+        "+5 social",
+        "+3 animals",
+        "+3 plants",
+        "+25.00% train animal chance",
+        "+25.00% tame animal chance",
+        "+50.00% trade price improvement",
+        "+50.00% social impact"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+5 social",
+          "+3 animals",
+          "+3 plants",
+          "+25.00% train animal chance",
+          "+25.00% tame animal chance",
+          "+50.00% trade price improvement",
+          "+50.00% social impact"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Braixen and Delphox - Fire Pokemon [1.4]",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BDFP_Delphox",
+      "name": "delphox"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is a Kisalfar. While Kisalfar are \"inferior\" compared to Fressalfar in terms of intelligence, they're incredibly good in \"social\" things and negotiations.",
+      "stats": [
+        "+5 social",
+        "+3 animals",
+        "+3 plants",
+        "+50.00% trade price improvement",
+        "+50.00% social impact"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+5 social",
+          "+3 animals",
+          "+3 plants",
+          "+50.00% trade price improvement",
+          "+50.00% social impact"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Yanzihko Races - Rebalance Submod [1.4]",
+        "karmaTypeForAdding": null
+      },
+      "defName": "KFLS_Kisalfar",
+      "name": "kisalfar"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is a Fressalfar. Timmy is just like a Thrumbo that is hidden in his DNA - Highly Intelligent and not really Social. It is very hard to approach him and start a conversation.",
+      "stats": [
+        "+5 intellectual",
+        "+3 crafting",
+        "-5 social",
+        "-25.00% trade price improvement",
+        "-25.00% social impact"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+5 intellectual",
+          "+3 crafting",
+          "-5 social",
+          "-25.00% trade price improvement",
+          "-25.00% social impact"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Yanzihko Races - Rebalance Submod [1.4]",
+        "karmaTypeForAdding": null
+      },
+      "defName": "KFLS_Fressalfar",
+      "name": "fressalfar"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is a Cheetah. Timmy is a great runner with a sharp sight. However, just like most Feline species, he is not a very Social being.",
+      "stats": [
+        "+5 shooting",
+        "+3 animals",
+        "-5 social",
+        "+0.3 melee dodge chance",
+        "+0.3 shooting accuracy",
+        "-25.00% trade price improvement",
+        "-25.00% social impact"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+5 shooting",
+          "+3 animals",
+          "-5 social",
+          "+0.3 melee dodge chance",
+          "+0.3 shooting accuracy",
+          "-25.00% trade price improvement",
+          "-25.00% social impact"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Yanzihko Races - Rebalance Submod [1.4]",
+        "karmaTypeForAdding": null
+      },
+      "defName": "FFR_Cheetah",
+      "name": "cheetah"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is a Leo. Timmy is a great natural predator with sharp sight and is rather Social, compared to other Feline species.",
+      "stats": [
+        "+3 melee",
+        "+3 animals",
+        "+2 shooting",
+        "+2 social",
+        "+0.3 shooting accuracy"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+3 melee",
+          "+3 animals",
+          "+2 shooting",
+          "+2 social",
+          "+0.3 shooting accuracy"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Yanzihko Races - Rebalance Submod [1.4]",
+        "karmaTypeForAdding": null
+      },
+      "defName": "FFR_Leo",
+      "name": "leo"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is a Jaguar. Timmy is a great natural predator with sharp sight. However, just like most Feline species, he is not a very Social being.",
+      "stats": [
+        "+3 melee",
+        "+3 animals",
+        "+2 shooting",
+        "-5 social",
+        "+0.3 shooting accuracy",
+        "-25.00% trade price improvement",
+        "-25.00% social impact"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+3 melee",
+          "+3 animals",
+          "+2 shooting",
+          "-5 social",
+          "+0.3 shooting accuracy",
+          "-25.00% trade price improvement",
+          "-25.00% social impact"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Yanzihko Races - Rebalance Submod [1.4]",
+        "karmaTypeForAdding": null
+      },
+      "defName": "FFR_Jaguar",
+      "name": "jaguar"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is a Panther. Timmy is a great natural predator with sharp sight. However, just like most Feline species, he is not a very Social being.",
+      "stats": [
+        "+3 melee",
+        "+3 animals",
+        "+2 shooting",
+        "-5 social",
+        "+0.3 shooting accuracy",
+        "-25.00% trade price improvement",
+        "-25.00% social impact"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+3 melee",
+          "+3 animals",
+          "+2 shooting",
+          "-5 social",
+          "+0.3 shooting accuracy",
+          "-25.00% trade price improvement",
+          "-25.00% social impact"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Yanzihko Races - Rebalance Submod [1.4]",
+        "karmaTypeForAdding": null
+      },
+      "defName": "FFR_Panther",
+      "name": "panther"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is a Tigris. Timmy is a great natural predator with sharp sight. However, just like most Feline species, he is not a very Social being.",
+      "stats": [
+        "+3 melee",
+        "+3 animals",
+        "+2 shooting",
+        "-5 social",
+        "+0.3 shooting accuracy",
+        "-25.00% trade price improvement",
+        "-25.00% social impact"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+3 melee",
+          "+3 animals",
+          "+2 shooting",
+          "-5 social",
+          "+0.3 shooting accuracy",
+          "-25.00% trade price improvement",
+          "-25.00% social impact"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Yanzihko Races - Rebalance Submod [1.4]",
+        "karmaTypeForAdding": null
+      },
+      "defName": "FFR_Tigris",
+      "name": "tigris"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy tends to occasionally allow their mind to drift, even in the middle of working.",
+      "stats": [],
+      "conflicts": [
+        "workaholic",
+        "industrious",
+        "hardworker",
+        "lazy",
+        "slothful"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "workaholic",
+          "industrious",
+          "hardworker",
+          "lazy",
+          "slothful"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_AbsentMinded",
+      "name": "absent-minded"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy has a loose screw or two, a small trade off for being naturally scientifically inclined.",
+      "stats": [
+        "x115% research speed"
+      ],
+      "conflicts": [
+        "dunce"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "dunce"
+        ],
+        "stats": [
+          "x115% research speed"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_Eccentric",
+      "name": "eccentric"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy strives for perfection in his work. They will naturally produce better quality products at the expense of time. However, making a low quality product will upset them. Additionally, they may very rarely quit a project mid attempt if they don't like the direction its going in.",
+      "stats": [
+        "x65% global work speed"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "x65% global work speed"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_Perfectionist",
+      "name": "perfectionist"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "While fully capable of warfare in theory, Timmy's fight or flight instincts heavily lean towards flight, and he will try to hide or run as a first priority.",
+      "stats": [],
+      "conflicts": [
+        "brawler",
+        "brave",
+        "bloodlust"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "brawler",
+          "brave",
+          "bloodlust"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_Coward",
+      "name": "coward"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy has a higher mental and physical fortitude compared to most and can more readily adapt to harsh environments in the rimworlds.",
+      "stats": [
+        "-20% mental break threshold",
+        "+20% pain shock threshold"
+      ],
+      "conflicts": [
+        "wimp",
+        "coward"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "wimp",
+          "coward"
+        ],
+        "stats": [
+          "-20% mental break threshold",
+          "+20% pain shock threshold"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_Brave",
+      "name": "brave"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Minor bruises and scrapes plague Timmy all too often, mostly due to uncoordinated tripping or falling.",
+      "stats": [],
+      "conflicts": [
+        "nimble"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "nimble"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_Clumsy",
+      "name": "clumsy"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy loves the brightness and heat of a dry summer day. They don't mind working up a sweat or sleeping in the warmth either.",
+      "stats": [
+        "+10.0C Maximum comfortable temperature"
+      ],
+      "conflicts": [
+        "coldinclined"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "coldinclined"
+        ],
+        "stats": [
+          "+10.0C Maximum comfortable temperature"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_HeatInclined",
+      "name": "heatinclined"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy loves the overcast and cold of a brisk winter night. They don't mind getting chilly or sleeping in the cold either.",
+      "stats": [
+        "-10.0C Minimum comfortable temperature"
+      ],
+      "conflicts": [
+        "heatinclined"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "heatinclined"
+        ],
+        "stats": [
+          "-10.0C Minimum comfortable temperature"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_ColdInclined",
+      "name": "coldinclined"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "A bomb could go off next to Timmy while they sleep and they'd continue to do so. They can't be bothered to defend the colony mid catnap, either.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_HeavySleeper",
+      "name": "heavysleeper"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is naturally hygenic and organized. They will not track in dirt or throw trash anywhere, and feel happy while cleaning.",
+      "stats": [],
+      "conflicts": [
+        "slob"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "slob"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_Neat",
+      "name": "neat"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is sloppy naturally and leaves trash and dirt everywhere it seems. At least they're not much bothered by messes.",
+      "stats": [],
+      "conflicts": [
+        "neat"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "neat"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_Slob",
+      "name": "slob"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy has problems taking breaks or resting mid job. he will continue to work even sacrificing their health or sleep.",
+      "stats": [],
+      "conflicts": [
+        "absent-minded",
+        "industrious",
+        "hardworker",
+        "lazy",
+        "slothful"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "absent-minded",
+          "industrious",
+          "hardworker",
+          "lazy",
+          "slothful"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_Workaholic",
+      "name": "workaholic"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy has never felt nausea in his life. Throwing up or food poisoning is foreign to him.",
+      "stats": [],
+      "conflicts": [
+        "squeamish"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "squeamish"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_IronStomach",
+      "name": "ironstomach"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy can't stand mistreatment of animals. he will feel happier being nuzzled or being a master to a bonded animal, but will be more deeply crushed when not master of a bonded animal or seeing one die. They also refuse to butcher.",
+      "stats": [],
+      "conflicts": [
+        "animalhater"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "animalhater"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_AnimalLover",
+      "name": "animallover"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy believes deeply in human superiority. Killing animals will please them and the colony losing an animal is a cherry on top according to them.",
+      "stats": [],
+      "conflicts": [
+        "animallover",
+        "menagerist"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "animallover",
+          "menagerist"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_AnimalHater",
+      "name": "animalhater"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Whether because they're a bit chunky or because they shift their weight oddly, Timmy has broken a few chairs in their time and is likely to break more.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_BigBoned",
+      "name": "big-boned"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy only plays by their own rules, and will roll their eyes and take it easy while doing any task they've been forced to do.",
+      "stats": [],
+      "conflicts": [
+        "submissive"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "submissive"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_Rebel",
+      "name": "rebel"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy needs clear instructions on how, and when to do certain things and will only work at a normal speed when being forced to do something.",
+      "stats": [],
+      "conflicts": [
+        "rebel"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "rebel"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_Submissive",
+      "name": "submissive"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is fueled by spite. They can't stand walking on the same soil as their rivals and will be elated by news of their life ending.",
+      "stats": [],
+      "conflicts": [
+        "kind"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "kind"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_Vengeful",
+      "name": "vengeful"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Whether by past trauma or fear of change, Timmy rejects modernity. They may randomly punch or attack mechanical devices and refuse to learn or research anything about them. They also love killing mechanoids.",
+      "stats": [
+        "Only mental break \"VTE_TechnophobeTantrum\" allowed."
+      ],
+      "conflicts": [
+        "bodymodder"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "bodymodder"
+        ],
+        "stats": [
+          "Only mental break \"VTE_TechnophobeTantrum\" allowed."
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_Technophobe",
+      "name": "technophobe"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy always recalls the good times and lives to party, any party attended will be remembered for many times longer than most.",
+      "stats": [],
+      "conflicts": [
+        "anxious"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "anxious"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_FunLoving",
+      "name": "fun-loving"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy has hindered mental capacities. While slow to learn and hard to speak with, they tend to be much happier naturally.",
+      "stats": [
+        "-50% global learning factor",
+        "-50.00% social impact"
+      ],
+      "conflicts": [
+        "fastlearner",
+        "toosmart",
+        "eccentric",
+        "prodigy"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "fastlearner",
+          "toosmart",
+          "eccentric",
+          "prodigy"
+        ],
+        "stats": [
+          "-50% global learning factor",
+          "-50.00% social impact"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_Dunce",
+      "name": "dunce"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy learned a specific move in melee combat which allows them to disarm opponents and will use it frequently.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_MartialArtist",
+      "name": "martialartist"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy believes they belong in high society, and loves nothing more than critiquing art and brushing elbows with royalty.",
+      "stats": [],
+      "conflicts": [
+        "ascetic"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "ascetic"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_Snob",
+      "name": "snob"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Sour stomach plagues Timmy any time they're around too much blood or rotting corpses. Vomiting is just part of life for him.",
+      "stats": [],
+      "conflicts": [
+        "ironstomach",
+        "desensitized"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "ironstomach",
+          "desensitized"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_Squeamish",
+      "name": "squeamish"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy feels naturally anxious, but especially from social situations. They will not attend any gatherings and may occasionally need alone time in their room to breathe.",
+      "stats": [
+        "Only mental break \"VTE_PanicFreezing\" allowed."
+      ],
+      "conflicts": [
+        "fun-loving"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "fun-loving"
+        ],
+        "stats": [
+          "Only mental break \"VTE_PanicFreezing\" allowed."
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_Anxious",
+      "name": "anxious"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "No amount of lovin' is enough lovin' for Timmy. he will tend to jump from partner to partner and tumble between the sheets with them frequently.",
+      "stats": [],
+      "conflicts": [
+        "prude",
+        "asexual",
+        "nudist"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "prude",
+          "asexual",
+          "nudist"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_Insatiable",
+      "name": "insatiable"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy refuses to give their body to anybody but their spouse and would never fathom initiating a divorce. They also hate being nude much more than other pawns.",
+      "stats": [],
+      "conflicts": [
+        "insatiable",
+        "nudist"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "insatiable",
+          "nudist"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_Prude",
+      "name": "prude"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "An armchair and flatscreen is all Timmy needs to be happy. Even reruns or ancient commercials are entertaining to them, they will never grow bored of television and tend to watch it more, as well as feel pleased after doing so.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_CouchPotato",
+      "name": "couchpotato"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is mad for all things feline. They will naturally gravitate towards bonding with cats, however they're not a fan of dogs.",
+      "stats": [],
+      "conflicts": [
+        "dogperson"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "dogperson"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_CatPerson",
+      "name": "catperson"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is mad for all things canine. They will naturally gravitate towards bonding with dogs, however they're not a fan of cats.",
+      "stats": [],
+      "conflicts": [
+        "catperson"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "catperson"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_DogPerson",
+      "name": "dogperson"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is a natural scientist. They research much faster and recall things better. However, they'll be upset without a laboratory dedicated to their work and tend to stress out more frequently.",
+      "stats": [
+        "+20% mental break threshold",
+        "x130% research speed"
+      ],
+      "conflicts": [
+        "dunce"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "dunce"
+        ],
+        "stats": [
+          "+20% mental break threshold",
+          "x130% research speed"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_Prodigy",
+      "name": "prodigy"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy believes animals are integral to the way society and life functions from furry friends to sources of food. They love having as many as possible and are particularly good at taming and training them.",
+      "stats": [
+        "x120% tame animal chance",
+        "x120% train animal chance"
+      ],
+      "conflicts": [
+        "animalhater"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "animalhater"
+        ],
+        "stats": [
+          "x120% tame animal chance",
+          "x120% train animal chance"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_Menagerist",
+      "name": "menagerist"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "The sea calls to Timmy. he feels happier just being near the ocean or a deep river.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_ChildOfSea",
+      "name": "oceanlover"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "The mountains call to Timmy. he feels happier just being near a large mountain.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_ChildOfMountain",
+      "name": "mountainlover"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy has a twisted secret. he treats organ harvesting like a sick experiment, and does not even blink at the idea. While harvesting one will make them happy, going too long without giving in to their compulsion will upset them.",
+      "stats": [
+        "+20% surgery success chance factor"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+20% surgery success chance factor"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_MadSurgeon",
+      "name": "madsurgeon"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is supposedly a hand-to-hand combat specialist, but only when inebriated. They claim to become more talented the more drunk they are.",
+      "stats": [
+        "+4 melee"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+4 melee"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_DrunkenMaster",
+      "name": "drunkenmaster"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is compulsed to steal and take things that don't belong to them, even if it means angering the other party.",
+      "stats": [
+        "Only mental break \"VTE_Kleptomaniac\" allowed."
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "Only mental break \"VTE_Kleptomaniac\" allowed."
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_Kleptomaniac",
+      "name": "kleptomaniac"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Smokeleaf culture is just part of life for Timmy. he absolutely adores smokeleaf and would rather die before giving it up.",
+      "stats": [],
+      "conflicts": [
+        "chemicalfascination",
+        "chemicalinterest",
+        "teetotaler",
+        "lush"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "chemicalfascination",
+          "chemicalinterest",
+          "teetotaler",
+          "lush"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_Stoner",
+      "name": "stoner"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Alcohol culture is just part of life for Timmy. he absolutely adores booze and would rather die before giving it up.",
+      "stats": [],
+      "conflicts": [
+        "chemicalfascination",
+        "chemicalinterest",
+        "teetotaler",
+        "lush"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "chemicalfascination",
+          "chemicalinterest",
+          "teetotaler",
+          "lush"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_Lush",
+      "name": "lush"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy loves to travel and does so swiftly, but can grow upset if they haven't done so in a while. They are also quite adept at foraging while traveling.",
+      "stats": [
+        "+0.2 foraged food amount"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+0.2 foraged food amount"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_Wanderlust",
+      "name": "wanderlust"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is never really asleep or awake. he is almost zombie like, lurching along and working very slowly, and will only sleep once every three days or so.",
+      "stats": [
+        "x50% global work speed",
+        "x70% move speed"
+      ],
+      "conflicts": [
+        "heavysleeper"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "heavysleeper"
+        ],
+        "stats": [
+          "x50% global work speed",
+          "x70% move speed"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_Insomniac",
+      "name": "insomniac"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy has grown tired of the world and needs to be constantly distracted to stop dark thoughts. his bleak personality is a big downer and therefore it is very hard to become friends with them.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_WorldWeary",
+      "name": "worldweary"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is hardened through what can only be presumed as old emotional trauma. They feel absolutely nothing from lost animals, colonists, family, prisoners or dead bodies.",
+      "stats": [],
+      "conflicts": [
+        "squeamish"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "squeamish"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_Desensitized",
+      "name": "desensitized"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Only the finest of culinary creations may grace the lips of Timmy. They feel neutral towards mundane meals, but will laud and savour lavish meals down to the last bite.",
+      "stats": [
+        "x70% eating speed"
+      ],
+      "conflicts": [
+        "ascetic"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "ascetic"
+        ],
+        "stats": [
+          "x70% eating speed"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_RefinedPalate",
+      "name": "refinedpalate"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Whether through studying ancient manuscripts or years of scholastic pursuit Timmy is surprisingly well read on a variety of topics, particularly science and medical practice.",
+      "stats": [
+        "+4 intellectual",
+        "+4 medical",
+        "+20% medical tend quality"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+4 intellectual",
+          "+4 medical",
+          "+20% medical tend quality"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_Academian",
+      "name": "academian"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy strongly believes infrastucture rules all and is a natural born stoneworker.",
+      "stats": [
+        "+4 mining",
+        "+4 construction",
+        "+20% mining yield",
+        "+20% construction speed"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+4 mining",
+          "+4 construction",
+          "+20% mining yield",
+          "+20% construction speed"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_Groundbreaker",
+      "name": "groundbreaker"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "In the eyes of Timmy food is art, their culinary creations are incredibly beautiful, amazing to taste, and almost always safe to eat.",
+      "stats": [
+        "+4 cooking",
+        "+4 artistic",
+        "-25.00% food poison chance"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+4 cooking",
+          "+4 artistic",
+          "-25.00% food poison chance"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_Gastronomist",
+      "name": "gastronomist"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Flora and fauna are both vital to Timmy. They use all parts of plants and animals and strongly appreciate mother Gaia's blessings.",
+      "stats": [
+        "+4 animals",
+        "+4 plants",
+        "+20% plant harvest yield",
+        "+20% butchery efficiency"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+4 animals",
+          "+4 plants",
+          "+20% plant harvest yield",
+          "+20% butchery efficiency"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_Ecologist",
+      "name": "ecologist"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy has an eye for silver and a tongue made from it. They believe their products are the best products and he will likely convince you if given the chance.",
+      "stats": [
+        "+4 social",
+        "+4 crafting",
+        "+25.00% trade price improvement"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+4 social",
+          "+4 crafting",
+          "+25.00% trade price improvement"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_Tycoon",
+      "name": "tycoon"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is strangely hypercoagulating and will bleed much more slowly than most.",
+      "stats": [],
+      "conflicts": [
+        "thinskinned"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "thinskinned"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_ThickSkinned",
+      "name": "thickskinned"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is strangely hemophilic and tends to bleed much more profusely than others.",
+      "stats": [],
+      "conflicts": [
+        "thickskinned"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "thickskinned"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_ThinSkinned",
+      "name": "thinskinned"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy has trouble expressing themselves until its all too much to bear, whereafter they will have an utter meltdown.",
+      "stats": [],
+      "conflicts": [
+        "iron-willed",
+        "steadfast",
+        "nervous",
+        "volatile"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "iron-willed",
+          "steadfast",
+          "nervous",
+          "volatile"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_Schizoid",
+      "name": "schizoid"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is a Zoroark, and he is absolutely adorable, as expected from gene-engineered servitor. Zoroark are intelligent creatures, and they tend to have developed social and problem-solving skills.",
+      "stats": [
+        "+3 social",
+        "+3 intellectual",
+        "+10.00% trade price improvement",
+        "+10.00% social impact"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+3 social",
+          "+3 intellectual",
+          "+10.00% trade price improvement",
+          "+10.00% social impact"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Zoroark - Illusion Pokemon [1.4]",
+        "karmaTypeForAdding": null
+      },
+      "defName": "ZIP_Zoroark",
+      "name": "zoroark"
     }
   ],
   "races": [
@@ -7687,30 +9533,30 @@
           "+50.00 Mass",
           "+70% Flammability",
           "+2.0 Beauty",
-          "+50 Carrying capacity",
+          "+75 Carrying capacity",
           "+80% Pain shock threshold",
           "+$3000 Market value",
-          "+4.60 Move speed",
-          "+75% Immunity gain speed",
-          "+20.0C Minimum comfortable temperature",
-          "+26.0C Maximum comfortable temperature",
-          "+35 Leather amount",
-          "+50 Meat amount",
+          "+5.00 Move speed",
+          "+95% Immunity gain speed",
+          "+25.0C Minimum comfortable temperature",
+          "+50.0C Maximum comfortable temperature",
+          "+75 Leather amount",
+          "+140 Meat amount",
           "+200% Global work speed",
           "+125% Research speed",
-          "+150% Global learning factor",
-          "+200% Psychic sensitivity",
-          "+100% Mining speed",
-          "+300.00% Social impact",
-          "+125% Construction speed",
+          "+110% Global learning factor",
+          "+110% Psychic sensitivity",
+          "+50% Mining speed",
+          "+150.00% Social impact",
+          "+50% Construction speed",
           "+100% Animal gather speed",
           "+100% Animal gather yield",
-          "+1.5 Shooting accuracy"
+          "+1.0 Shooting accuracy"
         ],
         "mod": "Unknown",
         "karmaType": null
       },
-      "description": "Sylveon is a vulpine and lupine hybrid species engineered by maniacal owner of an industrial company in a now ravaged glitterworld to be a cheap working force at all kinds of company's facilities. Sylveon's adorable appearence has no practical purpose and was a purely aesthetic choice. All sylveons sport a telltale ribbonlike appendage set connected to their heads near a bowlike organ allowing them to move their ribbons with extreme precision and preform menial tasks easily while using their hands for specific and higher skill actions. Sylveons also boast a high intellectual ability yet have much weaker physical strength due to it being useless in high tech facilities and conditions of glitterworld. Sylveons are incredible crafters and even good researchers. But their bodies are incredibly weak and any injury of the bows dramatically reduces their productivity. Sylveon is an advanced variation of xenohumans with a very complex genome. Their appearence and most traits cannot be modified without source genome template and complex glitterworld technologies that just cannot be replicated at rimworld.",
+      "description": "Sylveon is a vulpine and lupine hybrid species engineered by maniacal owner of an industrial company in a now ravaged glitterworld to be a cheap working force at all kinds of company's facilities. Sylveon's adorable appearence has no practical purpose and was a purely aesthetic choice. All sylveons sport a telltale ribbonlike appendage set connected to their heads near a bowlike organ allowing them to move their ribbons with extreme precision and preform menial tasks easily while using their hands for specific and higher skill actions. Sylveons also boast a high intellectual ability yet have much weaker physical strength due to it being useless in high tech facilities and conditions of glitterworld. Sylveons are incredible crafters and even good researchers. But their bodies are incredibly weak and any injury of the bows dramatically reduces their productivity. Sylveon is an advanced variation of xenohumans with a precisely tuned genome that becomes highly unstable outside of very short range of acceptable parameters. Technically they even can be considered an alien species. Their modification is impossible outside of advanced Glitterworld facilities and without source Genome templates.",
       "defName": "Sylveon",
       "enabled": true,
       "name": "Sylveon",
@@ -7723,30 +9569,30 @@
           "+55.00 Mass",
           "+70% Flammability",
           "+1.0 Beauty",
-          "+50 Carrying capacity",
-          "+80% Pain shock threshold",
-          "+$3000 Market value",
-          "+7.00 Move speed",
-          "+125% Immunity gain speed",
+          "+75 Carrying capacity",
+          "+110% Pain shock threshold",
+          "+$2500 Market value",
+          "+5.00 Move speed",
+          "+110% Immunity gain speed",
           "+30.0C Minimum comfortable temperature",
           "+60.0C Maximum comfortable temperature",
-          "+35 Leather amount",
-          "+55 Meat amount",
-          "+125% Research speed",
-          "+125% Global learning factor",
+          "+75 Leather amount",
+          "+140 Meat amount",
+          "+100% Global work speed",
+          "+100% Research speed",
+          "+100% Global learning factor",
           "+100% Psychic sensitivity",
-          "+400% General labor speed",
           "+100% Mining speed",
-          "+125.00% Social impact",
+          "+90.00% Social impact",
           "+100% Construction speed",
-          "+75% Animal gather speed",
-          "+75% Plant work speed",
-          "+4.0 Shooting accuracy"
+          "+100% Animal gather speed",
+          "+100% Animal gather yield",
+          "+1.0 Shooting accuracy"
         ],
         "mod": "Unknown",
         "karmaType": null
       },
-      "description": "Lombax is a distant descendant of human race with feline features. Representatives of this species are great warriors and engineers. Despite their size, their bodies are surprisingly tough. Lombaxes are originated from Fastoon - glitterworld with dry desert climate. They prefer to live in hot enviroment. Lombax is an advanced variation of xenohumans with a very complex genome. Their appearence and most traits cannot be modified without source genome template and complex glitterworld technologies that just cannot be replicated at rimworld.",
+      "description": "Lombax is a distant descendant of human race with feline features. Representatives of this species are great warriors and engineers. Despite their size, their bodies are surprisingly tough. Lombaxes are originated from Fastoon - glitterworld with dry desert climate. They prefer to live in hot enviroment. Lombax is an advanced variation of xenohumans with a precisely tuned genome that becomes highly unstable outside of very short range of acceptable parameters. Technically they even can be considered an alien species. Their modification is impossible outside of advanced Glitterworld facilities and without source Genome templates.",
       "defName": "Lombax",
       "enabled": true,
       "name": "Lombax",
@@ -7758,31 +9604,31 @@
         "stats": [
           "+50.00 Mass",
           "+70% Flammability",
-          "+1.0 Beauty",
-          "+50 Carrying capacity",
+          "+2.0 Beauty",
+          "+75 Carrying capacity",
           "+80% Pain shock threshold",
           "+$3000 Market value",
-          "+8.00 Move speed",
-          "+150% Immunity gain speed",
+          "+5.00 Move speed",
+          "+95% Immunity gain speed",
           "+25.0C Minimum comfortable temperature",
           "+50.0C Maximum comfortable temperature",
-          "+35 Leather amount",
-          "+50 Meat amount",
-          "+200% Global work speed",
+          "+75 Leather amount",
+          "+140 Meat amount",
+          "+120% Global work speed",
           "+400% Research speed",
           "+200% Global learning factor",
-          "+100% Psychic sensitivity",
+          "+125% Psychic sensitivity",
           "+50% Mining speed",
-          "+200.00% Social impact",
-          "+75% Construction speed",
-          "+125% Animal gather speed",
-          "+125% Animal gather yield",
-          "+4.0 Shooting accuracy"
+          "+150.00% Social impact",
+          "+50% Construction speed",
+          "+100% Animal gather speed",
+          "+100% Animal gather yield",
+          "+1.3 Shooting accuracy"
         ],
         "mod": "Unknown",
         "karmaType": null
       },
-      "description": "Vulpes is a race of adorable genetically engineered foxes with high mental capabilities but weak and fragile body. Vulpes is an advanced variation of xenohumans with a very complex genome. Their appearence and most traits cannot be modified without source genome template and complex glitterworld technologies that just cannot be replicated at rimworld.",
+      "description": "Vulpes is a race of adorable genetically engineered foxes with high mental capabilities but weak and fragile body. Vulpes is an advanced variation of xenohumans with a precisely tuned genome that becomes highly unstable outside of very short range of acceptable parameters. Technically they even can be considered an alien species. Their modification is impossible outside of advanced Glitterworld facilities and without source Genome templates.",
       "defName": "Vulpes",
       "enabled": true,
       "name": "Vulpes",
@@ -8407,15 +10253,15 @@
           "+50.00 Mass",
           "+70% Flammability",
           "+2.0 Beauty",
-          "+50 Carrying capacity",
+          "+75 Carrying capacity",
           "+80% Pain shock threshold",
           "+$5000 Market value",
-          "+6.00 Move speed",
-          "+200% Immunity gain speed",
-          "+5.0C Minimum comfortable temperature",
+          "+5.00 Move speed",
+          "+110% Immunity gain speed",
+          "+10.0C Minimum comfortable temperature",
           "+26.0C Maximum comfortable temperature",
-          "+35 Leather amount",
-          "+50 Meat amount",
+          "+75 Leather amount",
+          "+140 Meat amount",
           "+100% Global work speed",
           "+100% Research speed",
           "+100% Global learning factor",
@@ -8430,7 +10276,7 @@
         "mod": "Unknown",
         "karmaType": null
       },
-      "description": "Genetically modified species, closely related to Sylveons. Their origin is barely known, but there's rumors that they come from a group of Sylveons that managed to escape from slavery at colony ship a few hundred years ago. Said ship crashed at aquatic world and survivors had to gene-engineer themselves with barely functioning genepods to survive. Despite its appearence, this species has strong physical strength and are easily able to win a brawl fight against average human. Vaporeons is an advanced variation of xenohumans with a very complex genome. Their appearence and most traits cannot be modified without complex glitterworld technologies that just cannot be replicated at rimworld.",
+      "description": "Genetically modified species, closely related to Sylveons. Their origin is barely known, but there's rumors that they come from a group of Sylveons that managed to escape from slavery at colony ship a few hundred years ago. Said ship crashed at aquatic world and survivors had to gene-engineer themselves with barely functioning genepods to survive. Despite its appearence, this species has strong physical strength and are easily able to win a brawl fight against average human. Vaporeons is an advanced variation of xenohumans with a precisely tuned genome that becomes highly unstable outside of very short range of acceptable parameters. Technically they even can be considered an alien species. Their modification is impossible outside of advanced Glitterworld facilities and without source Genome templates.",
       "defName": "Vaporeon",
       "enabled": true,
       "name": "Vaporeon",
@@ -8777,6 +10623,402 @@
       "enabled": true,
       "name": "transport",
       "price": 667
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+40.00 Mass",
+          "+0% Flammability",
+          "+1.0 Beauty",
+          "+50 Carrying capacity",
+          "+80% Pain shock threshold",
+          "+$2600 Market value",
+          "+5.00 Move speed",
+          "+160% Immunity gain speed",
+          "-30.0C Minimum comfortable temperature",
+          "+80.0C Maximum comfortable temperature",
+          "+35 Leather amount",
+          "+50 Meat amount",
+          "+100% Research speed",
+          "+140% Global learning factor",
+          "+160% Psychic sensitivity",
+          "+50% Mining speed",
+          "+120.00% Social impact",
+          "+70% Construction speed",
+          "+130% Animal gather speed",
+          "+130% Animal gather yield",
+          "+4.0 Shooting accuracy",
+          "+200.0% Armor - Heat"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "A small, bipedal, Fox-like humanoid that has a natural affinity to fire and psychic capabilities. It's unknown what kind of gene-engineering magic the Glitterworld that originally produced them used, but their bodies have almost a complete resistance to fire and high temperatures. These creatures are able to consciously regulate temperature of their bodies. Before collapse of it's original solar system, this species was mainly used as domestic servants, entertainers, or just a beauteful and kind friend to have around. Braixen is an advanced variation of xenohumans with a precisely tuned genome that becomes highly unstable outside of very short range of acceptable parameters. Technically they even can be considered an alien species. Their modification is impossible outside of advanced Glitterworld facilities and without source Genome templates.",
+      "defName": "Braixen",
+      "enabled": true,
+      "name": "Braixen",
+      "price": 4333
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+60.00 Mass",
+          "+0% Flammability",
+          "+1.0 Beauty",
+          "+50 Carrying capacity",
+          "+80% Pain shock threshold",
+          "+$3000 Market value",
+          "+4.60 Move speed",
+          "+160% Immunity gain speed",
+          "-40.0C Minimum comfortable temperature",
+          "+100.0C Maximum comfortable temperature",
+          "+45 Leather amount",
+          "+60 Meat amount",
+          "+110% Research speed",
+          "+150% Global learning factor",
+          "+160% Psychic sensitivity",
+          "+50% Mining speed",
+          "+120.00% Social impact",
+          "+60% Construction speed",
+          "+130% Animal gather speed",
+          "+130% Animal gather yield",
+          "+4.0 Shooting accuracy",
+          "+200.0% Armor - Heat"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "A medium-sized, bipedal, Fox-like humanoid that has a natural affinity to fire and psychic capabilities. Related to Delphox and can be considered as a more \"mature\" version of it from standpoint of whoever originally designed them. It's unknown what kind of gene-engineering magic the Glitterworld that originally produced them used, but their bodies have almost a complete resistance to fire and high temperatures. These creatures are able to consciously regulate temperature of their bodies. Before collapse of it's original solar system, this species was mainly used as domestic servants, entertainers, or just a beauteful and kind friend to have around. Delphox is an advanced variation of xenohumans with a precisely tuned genome that becomes highly unstable outside of very short range of acceptable parameters. Technically they even can be considered an alien species. Their modification is impossible outside of advanced Glitterworld facilities and without source Genome templates.",
+      "defName": "Delphox",
+      "enabled": true,
+      "name": "Delphox",
+      "price": 5000
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+50.00 Mass",
+          "+70% Flammability",
+          "+1.0 Beauty",
+          "+75 Carrying capacity",
+          "+80% Pain shock threshold",
+          "+$2000 Market value",
+          "+9.00 Move speed",
+          "+95% Immunity gain speed",
+          "+20.0C Minimum comfortable temperature",
+          "+40.0C Maximum comfortable temperature",
+          "+75 Leather amount",
+          "+140 Meat amount",
+          "+100% Global work speed",
+          "+110% Research speed",
+          "+110% Global learning factor",
+          "+100% Psychic sensitivity",
+          "+50% Mining speed",
+          "+90.00% Social impact",
+          "+50% Construction speed",
+          "+100% Animal gather speed",
+          "+100% Animal gather yield",
+          "+2.0 Shooting accuracy"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "Feles is a group of genetically-engineered species representing some of the most popular feline species from planet Earth. Cheetah are perhaps one of the fastest Felines with an instant reaction. They literally dance around an opponent in melee fight and even dodge bullets if lucky enough. Cheetah are one of the most intelligent felines and are more social, compared to most felines. Cheetah is an advanced variation of xenohumans with a precisely tuned genome that becomes highly unstable outside of very short range of acceptable parameters. Technically they even can be considered an alien species. Their modification is impossible outside of advanced Glitterworld facilities and without source Genome templates.",
+      "defName": "YanzihkoCheetah",
+      "enabled": true,
+      "name": "Cheetah",
+      "price": 3333
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+50.00 Mass",
+          "+70% Flammability",
+          "+1.0 Beauty",
+          "+75 Carrying capacity",
+          "+100% Pain shock threshold",
+          "+$1750 Market value",
+          "+6.00 Move speed",
+          "+100% Immunity gain speed",
+          "+20.0C Minimum comfortable temperature",
+          "+36.0C Maximum comfortable temperature",
+          "+75 Leather amount",
+          "+140 Meat amount",
+          "+100% Global work speed",
+          "+100% Research speed",
+          "+100% Global learning factor",
+          "+100% Psychic sensitivity",
+          "+100% Mining speed",
+          "+90.00% Social impact",
+          "+100% Construction speed",
+          "+100% Animal gather speed",
+          "+100% Animal gather yield",
+          "+1.1 Shooting accuracy"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "Feles is a group of genetically-engineered species representing some of the most popular feline species from planet Earth. Jaguars are perhaps one of the strongest and toughest Felines. You shouldn't understimate them despite their size. They are not a very social beings and tend to spend their free time alone. Jaguar is an advanced variation of xenohumans with a precisely tuned genome that becomes highly unstable outside of very short range of acceptable parameters. Technically they even can be considered an alien species. Their modification is impossible outside of advanced Glitterworld facilities and without source Genome templates.",
+      "defName": "YanzihkoJaguar",
+      "enabled": true,
+      "name": "Jaguar",
+      "price": 2917
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+50.00 Mass",
+          "+70% Flammability",
+          "+1.0 Beauty",
+          "+75 Carrying capacity",
+          "+100% Pain shock threshold",
+          "+$1750 Market value",
+          "+6.00 Move speed",
+          "+100% Immunity gain speed",
+          "+20.0C Minimum comfortable temperature",
+          "+36.0C Maximum comfortable temperature",
+          "+75 Leather amount",
+          "+140 Meat amount",
+          "+100% Global work speed",
+          "+100% Research speed",
+          "+100% Global learning factor",
+          "+100% Psychic sensitivity",
+          "+100% Mining speed",
+          "+110.00% Social impact",
+          "+100% Construction speed",
+          "+100% Animal gather speed",
+          "+100% Animal gather yield",
+          "+1.1 Shooting accuracy"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "Feles is a group of genetically-engineered species representing some of the most popular feline species from planet Earth. Leo, unlike other Felines, are very social beings and feel themselves confident in all kinds of discussions. Leo is an advanced variation of xenohumans with a precisely tuned genome that becomes highly unstable outside of very short range of acceptable parameters. Technically they even can be considered an alien species. Their modification is impossible outside of advanced Glitterworld facilities and without source Genome templates.",
+      "defName": "YanzihkoLeo",
+      "enabled": true,
+      "name": "Leo",
+      "price": 2917
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+50.00 Mass",
+          "+70% Flammability",
+          "+1.0 Beauty",
+          "+75 Carrying capacity",
+          "+100% Pain shock threshold",
+          "+$1750 Market value",
+          "+6.00 Move speed",
+          "+100% Immunity gain speed",
+          "+20.0C Minimum comfortable temperature",
+          "+36.0C Maximum comfortable temperature",
+          "+75 Leather amount",
+          "+140 Meat amount",
+          "+100% Global work speed",
+          "+100% Research speed",
+          "+100% Global learning factor",
+          "+100% Psychic sensitivity",
+          "+100% Mining speed",
+          "+90.00% Social impact",
+          "+100% Construction speed",
+          "+100% Animal gather speed",
+          "+100% Animal gather yield",
+          "+1.1 Shooting accuracy"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "Feles is a group of genetically-engineered species representing some of the most popular feline species from planet Earth. Panthers do not have any special features compared to other felines, expect their dark black fur. They are not a very social beings and tend to spend their free time alone. Panther is an advanced variation of xenohumans with a precisely tuned genome that becomes highly unstable outside of very short range of acceptable parameters. Technically they even can be considered an alien species. Their modification is impossible outside of advanced Glitterworld facilities and without source Genome templates.",
+      "defName": "YanzihkoPanther",
+      "enabled": true,
+      "name": "Panther",
+      "price": 2917
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+50.00 Mass",
+          "+70% Flammability",
+          "+1.0 Beauty",
+          "+75 Carrying capacity",
+          "+100% Pain shock threshold",
+          "+$1750 Market value",
+          "+6.00 Move speed",
+          "+100% Immunity gain speed",
+          "+10.0C Minimum comfortable temperature",
+          "+30.0C Maximum comfortable temperature",
+          "+75 Leather amount",
+          "+140 Meat amount",
+          "+100% Global work speed",
+          "+100% Research speed",
+          "+100% Global learning factor",
+          "+100% Psychic sensitivity",
+          "+100% Mining speed",
+          "+90.00% Social impact",
+          "+100% Construction speed",
+          "+100% Animal gather speed",
+          "+100% Animal gather yield",
+          "+1.1 Shooting accuracy"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "Feles is a group of genetically-engineered species representing some of the most popular feline species from planet Earth. Tigris are perhaps one of the strongest and toughest Felines. You shouldn't understimate them despite their size. They are not a very social beings and tend to spend their free time alone. Tigris is an advanced variation of xenohumans with a precisely tuned genome that becomes highly unstable outside of very short range of acceptable parameters. Technically they even can be considered an alien species. Their modification is impossible outside of advanced Glitterworld facilities and without source Genome templates.",
+      "defName": "YanzihkoTigris",
+      "enabled": true,
+      "name": "Tigris",
+      "price": 2917
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+55.00 Mass",
+          "+70% Flammability",
+          "+2.0 Beauty",
+          "+75 Carrying capacity",
+          "+110% Pain shock threshold",
+          "+$3000 Market value",
+          "+7.00 Move speed",
+          "+110% Immunity gain speed",
+          "+10.0C Minimum comfortable temperature",
+          "+25.0C Maximum comfortable temperature",
+          "+75 Leather amount",
+          "+140 Meat amount",
+          "+110% Global work speed",
+          "+200% Research speed",
+          "+150% Global learning factor",
+          "+110% Psychic sensitivity",
+          "+100% Mining speed",
+          "+80.00% Social impact",
+          "+110% Construction speed",
+          "+100% Animal gather speed",
+          "+100% Animal gather yield",
+          "+1.1 Shooting accuracy"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "A marvel of genetic engineering created on a far off glitterworld on the verge of transcendence. The Fressalfar were the result of a lone scientists quest to engineer the perfect being that did not rely on the taint of mechanite technology. Pods of them were sent off to rimworlds all across the universe in an effort to save his creation before the AI scourge devoured their homeworld. Believed to be the genetic combination of hyper-intelligent felines, thrumbos, and human DNA; the Fressalfar are fast, highly intelligent, and incredibly beautiful. Fressalfar is an advanced variation of xenohumans with a precisely tuned genome that becomes highly unstable outside of very short range of acceptable parameters. Technically they even can be considered an alien species. Their modification is impossible outside of advanced Glitterworld facilities and without source Genome templates.",
+      "defName": "Fressalfar",
+      "enabled": true,
+      "name": "Fressalfar",
+      "price": 5000
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+50.00 Mass",
+          "+70% Flammability",
+          "+1.0 Beauty",
+          "+75 Carrying capacity",
+          "+100% Pain shock threshold",
+          "+$2000 Market value",
+          "+5.00 Move speed",
+          "+100% Immunity gain speed",
+          "+10.0C Minimum comfortable temperature",
+          "+25.0C Maximum comfortable temperature",
+          "+75 Leather amount",
+          "+140 Meat amount",
+          "+110% Global work speed",
+          "+175% Research speed",
+          "+135% Global learning factor",
+          "+110% Psychic sensitivity",
+          "+80% Mining speed",
+          "+150.00% Social impact",
+          "+100% Construction speed",
+          "+100% Animal gather speed",
+          "+100% Animal gather yield",
+          "+1.0 Shooting accuracy"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "Genetic descendants of the Fressalfar. The Kisalfar are slightly inferior the Fressalfar due to the highly unstable genome not replicating perfectly outside of lab conditions. Physically this led to the lost of their highly coveted horns and some would say they could never live up to the original race. However, the combination of high intelligence and growing up in a natural environment means the  Kisalfar are much more attuned with the ways of their home world and those around them. What they lost in speed and beauty they make up for in natural charm and instinct and they have proven an ability to get along with humans in a way the Fressalfar never could. Kisalfar is an advanced variation of xenohumans with a precisely tuned genome that becomes highly unstable outside of very short range of acceptable parameters. Technically they even can be considered an alien species. Their modification is impossible outside of advanced Glitterworld facilities and without source Genome templates.",
+      "defName": "Kisalfar",
+      "enabled": true,
+      "name": "Kisalfar",
+      "price": 3333
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+50.00 Mass",
+          "+70% Flammability",
+          "+1.0 Beauty",
+          "+50 Carrying capacity",
+          "+80% Pain shock threshold",
+          "+$2200 Market value",
+          "+5.20 Move speed",
+          "+100% Immunity gain speed",
+          "-18.0C Minimum comfortable temperature",
+          "+26.0C Maximum comfortable temperature",
+          "+35 Leather amount",
+          "+50 Meat amount",
+          "+100% Global work speed",
+          "+100% Research speed",
+          "+120% Global learning factor",
+          "+100% Psychic sensitivity",
+          "+110% Mining speed",
+          "+100.00% Social impact",
+          "+100% Construction speed",
+          "+100% Animal gather speed",
+          "+100% Animal gather yield",
+          "+1.1 Shooting accuracy"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "Zoroark is a race of adorable genetically engineered foxes with slightly enchanted mental capabilities and agility. Originally designed by conglomerate of megacorporations in their home system as an advertisment tool for products, and as entertainers for selected few. These creatures became highly popular among elites in all neighouring systems. This particular subspecies of Zoroark is black in color. Zoroark is an advanced variation of xenohumans with a precisely tuned genome that becomes highly unstable outside of very short range of acceptable parameters. Technically they even can be considered an alien species. Their modification is impossible outside of advanced Glitterworld facilities and without source Genome templates.",
+      "defName": "BZoroark",
+      "enabled": true,
+      "name": "Zoroark",
+      "price": 3667
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+50.00 Mass",
+          "+70% Flammability",
+          "+1.0 Beauty",
+          "+50 Carrying capacity",
+          "+80% Pain shock threshold",
+          "+$2200 Market value",
+          "+5.20 Move speed",
+          "+100% Immunity gain speed",
+          "-18.0C Minimum comfortable temperature",
+          "+26.0C Maximum comfortable temperature",
+          "+35 Leather amount",
+          "+50 Meat amount",
+          "+100% Global work speed",
+          "+100% Research speed",
+          "+120% Global learning factor",
+          "+100% Psychic sensitivity",
+          "+110% Mining speed",
+          "+100.00% Social impact",
+          "+100% Construction speed",
+          "+100% Animal gather speed",
+          "+100% Animal gather yield",
+          "+1.1 Shooting accuracy"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "Zoroark is a race of adorable genetically engineered foxes with slightly enchanted mental capabilities and agility. Originally designed by conglomerate of megacorporations in their home system as an advertisment tool for products, and as entertainers for selected few. These creatures became highly popular among elites in all neighouring systems. This particular subspecies of Zoroark is white in color. Zoroark is an advanced variation of xenohumans with a precisely tuned genome that becomes highly unstable outside of very short range of acceptable parameters. Technically they even can be considered an alien species. Their modification is impossible outside of advanced Glitterworld facilities and without source Genome templates.",
+      "defName": "WZoroark",
+      "enabled": true,
+      "name": "Zoroark",
+      "price": 3667
     }
   ]
 }
